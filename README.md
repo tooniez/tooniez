@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">Passionate in Quality Assurance, Data Analytcs, Software Development. Guided by epistomology and curiosity </h3>
-<h3 align="center">In order to enrich and fulfil goals </h3>
+<h3 align="center">Guided by epistomology and curiosity </h3>
+<h3 align="center">To enrich and fulfil goals </h3>
 
 <h3 align="left">Connect with me: @here </h3>
 <p align="left">
