@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Passionate in Quality Assurance, Data Analytcs, Software Development </h3>
+<h3 align="center">Passionate in Quality Assurance, Data Analytcs, Full Stack Development </h3>
 <h3 align="center">Guided by epistomology and curiosity </h3>
 <h3 align="center">To enrich and fulfil goals </h3>
 
