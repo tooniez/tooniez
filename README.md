@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Guided by epistomology and curiosity </h3>
 <h3 align="center">To help enrich and fulfil goals for those around me! </h3> -->
 
-<h5 align="left">Connect with me: Not available</h5>
+<!-- <h5 align="left">Connect with me: Not available</h5> -->
 <p align="left">
 </p>
 
