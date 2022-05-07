@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Passionate in Quality Assurance, Automation, Deep Learning, & Cloud Computing </h3>
+<h3 align="center">Passionate in Quality Assurance, Automation, Deep Learning, & DevOps </h3>
 <h3 align="center">Guided by epistomology and curiosity </h3>
 <h3 align="center">To help enrich and fulfil goals for those around me! </h3>
 
