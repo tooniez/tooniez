@@ -1,11 +1,10 @@
 <!-- <h1 align="center">Hi 👋, I'm Tony</h1> -->
-<h3 align="center">Passionate in Quality, Automation, Deep Learning, Tooling & DevOps </h3>
+<h3 align="center">Quality Assurance, Test Automation, Deep Learning, Tooling & DevOps </h3>
 <!-- <h3 align="center">Guided by epistomology and curiosity </h3>
 <h3 align="center">To help enrich and fulfil goals for those around me! </h3> -->
 
 <!-- <h5 align="left">Connect with me: Not available</h5> -->
-<p align="left">
-</p>
+<p align="left"> </p>
 
 <h3 align="left">Current Interests:</h3>
 <p align="left">  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
