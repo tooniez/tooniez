@@ -1,0 +1,70 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Update Github Metrics
+on:
+  # Schedule updates (each day)
+  schedule:
+    # Runs at 12am IST
+    # - cron: '30 18 * * *'
+
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+    
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+  pull_request: {branches: ["master", "main"]}
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: tooniez
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          config_timezone: Australia/Adelaide
+          config_twemoji: yes
+          # plugin_achievements: yes
+          # plugin_achievements_display: detailed
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_projects: no
+          # plugin_projects_limit: 4
+          repositories_forks: yes

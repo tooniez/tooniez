@@ -1,0 +1,21 @@
+github: [tooniez]  # List of usernames to support funding on GitHub
+patreon: 85630982             # Patreon username for funding
+# open_collective: tcubed  # Open Collective organization name for funding
+ko_fi: tooniez               # Ko-fi username for funding
+custom:                          # Custom funding methods
+  - method: paypal               # Custom funding method: PayPal
+    link: https://www.paypal.me/tooniez  # Link to PayPal account
+  - method: buymeacoffee         # Custom funding method: Buy Me a Coffee
+    link: https://www.buymeacoffee.com/tooniez  # Link to Buy Me a Coffee account
+  # - method: bitcoin              # Custom funding method: Bitcoin
+  #   address: 1AbCDefG2HiJKL3mNoPQRSTUvWXyZ4abcde  # Bitcoin address for receiving donations
+  # - method: eth                  # Custom funding method: Ethereum
+  #   address: 0xAbCdEf1234567890AbCdEf1234567890aBcDe  # Ethereum address for receiving donations
+  - method: stripe               # Custom funding method: Stripe
+    link: https://stripe.com/tooniez  # Link to Stripe account
+# tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+# community_bridge: tcubed # Replace with a single Community Bridge project-name e.g., cloud-foundry
+# liberapay: tooniez # Replace with a single Liberapay username
+# issuehunt: tooniez # Replace with a single IssueHunt username
+# otechie: tooniez # Replace with a single Otechie username
+# lfx_crowdfunding: tcubed # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
