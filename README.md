@@ -41,10 +41,10 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
+- [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
 - [Web3/Crypto Financials Test Planning](https://tooniez-land.vercel.app/post/qa-fintech-plan/)
 - [Boost Your Performance Testing with Locust](https://tooniez-land.vercel.app/post/qa-locust/)
-- [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
-- [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
 - [Enabling TestOps with DevOps](https://tooniez-land.vercel.app/post/services-testops/)
 <!-- BLOG-POST-LIST:END -->
 
