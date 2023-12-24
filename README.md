@@ -41,11 +41,7 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/testops/Assertions-With-Playwright/)
-- [Boost Your Performance Testing with Locust](https://tooniez-land.vercel.app/testops/Boost-Your-Performance-Testing-with-Locust/)
-- [TestOps Services](https://tooniez-land.vercel.app/services/testops-services/)
-- [Typography example](https://tooniez-land.vercel.app/aiml/sixth-post/)
-- [Typography example](https://tooniez-land.vercel.app/guides/sixth-post/)
+- [TypeScript2](https://blog-template-gray.vercel.app/post/astro/)
 <!-- BLOG-POST-LIST:END -->
 
 
