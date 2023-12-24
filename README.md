@@ -41,7 +41,7 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript2](https://blog-template-gray.vercel.app/post/astro/)
+- [TypeScript2](https://tooniez-land.vercel.app/post/astro/)
 <!-- BLOG-POST-LIST:END -->
 
 
