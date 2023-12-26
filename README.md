@@ -1,5 +1,11 @@
-<h2 align="center">
+
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+  <!-- Replace the URL if you want to use a different joke API or update the existing endpoint -->
+</p>
+
+<h2 align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 🤖 Tooniez
