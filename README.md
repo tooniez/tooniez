@@ -33,11 +33,11 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/reviews-pw-vs-cy/)
+- [Automate Mobile App testing with Browserstack and TestNG](https://tooniez-land.vercel.app/post/qa-testng-appium-browserstack/)
+- [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
-- [Web3/Crypto Financials Test Planning](https://tooniez-land.vercel.app/post/qa-fintech-plan/)
-- [Static Analysis Tools](https://tooniez-land.vercel.app/post/devops-static-bandit/)
-- [Boost Your Performance Testing with Locust](https://tooniez-land.vercel.app/post/devops-locust/)
+- [Performance Testing with Locust on AWS and Terraform](https://tooniez-land.vercel.app/post/devops-locust-terraform-aws/)
+- [Salesforce Apex Unit/E2E Samples](https://tooniez-land.vercel.app/post/qa-salesforce-apex/)
 <!-- BLOG-POST-LIST:END -->
 
 
