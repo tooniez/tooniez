@@ -38,6 +38,11 @@
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
 - [Performance Testing with Locust on AWS and Terraform](https://tooniez-land.vercel.app/post/devops-locust-terraform-aws/)
 - [Salesforce Apex Unit/E2E Samples](https://tooniez-land.vercel.app/post/qa-salesforce-apex/)
+- [Cypress E2E Testing Automation with Vuejs Typescript](https://tooniez-land.vercel.app/post/qa-typescript-cypress/)
+- [Pact Contract API Testing with Express](https://tooniez-land.vercel.app/post/qa-pact-express/)
+- [Evaluate Air Quality with JUnit and RestAssured](https://tooniez-land.vercel.app/post/qa-java-restassured-maven/)
+- [Start a Java BDD framework with Karate!](https://tooniez-land.vercel.app/post/qa-java-bdd-karate/)
+- [Playwright E2E Shopfront boilerplate!](https://tooniez-land.vercel.app/post/qa-e2e-playwright-shopfront/)
 <!-- BLOG-POST-LIST:END -->
 
 
