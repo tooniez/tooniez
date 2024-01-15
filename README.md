@@ -33,6 +33,9 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Contract API vs Regression](https://tooniez-land.vercel.app/post/qa-api-contract-vs-regression/)
+- [Develop a Postman pre-script to capture tokens](https://tooniez-land.vercel.app/post/qa-api-postman-create-pre-script/)
+- [Various Postman API Contract and Regression tests](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
 - [Automate Mobile App testing with Browserstack and TestNG](https://tooniez-land.vercel.app/post/qa-testng-appium-browserstack/)
 - [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
@@ -40,9 +43,6 @@
 - [Salesforce Apex Unit/E2E Samples](https://tooniez-land.vercel.app/post/qa-salesforce-apex/)
 - [Cypress E2E Testing Automation with Vuejs Typescript](https://tooniez-land.vercel.app/post/qa-typescript-cypress/)
 - [Pact Contract API Testing with Express](https://tooniez-land.vercel.app/post/qa-pact-express/)
-- [Evaluate Air Quality with JUnit and RestAssured](https://tooniez-land.vercel.app/post/qa-java-restassured-maven/)
-- [Start a Java BDD framework with Karate!](https://tooniez-land.vercel.app/post/qa-java-bdd-karate/)
-- [Playwright E2E Shopfront boilerplate!](https://tooniez-land.vercel.app/post/qa-e2e-playwright-shopfront/)
 <!-- BLOG-POST-LIST:END -->
 
 
