@@ -34,8 +34,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Contract API vs Regression](https://tooniez-land.vercel.app/post/qa-api-contract-vs-regression/)
-- [Develop a Postman pre-script to capture tokens](https://tooniez-land.vercel.app/post/qa-api-postman-create-pre-script/)
-- [Various Postman API Contract and Regression tests](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
+- [Postman pre-request script that captures tokens](https://tooniez-land.vercel.app/post/qa-api-postman-create-pre-script/)
+- [Postman API Contract and Regression tests session](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
 - [Automate Mobile App testing with Browserstack and TestNG](https://tooniez-land.vercel.app/post/qa-testng-appium-browserstack/)
 - [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
