@@ -33,6 +33,8 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your .NET Development with Handy Aliases and Functions](https://tooniez-land.vercel.app/post/dev-dotnet-init/)
+- [Virtual Environments for Python Development](https://tooniez-land.vercel.app/post/dev-python-venv/)
 - [Contract API vs Regression](https://tooniez-land.vercel.app/post/qa-api-contract-vs-regression/)
 - [Postman pre-request script that captures tokens](https://tooniez-land.vercel.app/post/qa-api-postman-create-pre-script/)
 - [Postman API Contract and Regression tests session](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
@@ -41,8 +43,6 @@
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
 - [Performance Testing with Locust on AWS and Terraform](https://tooniez-land.vercel.app/post/devops-locust-terraform-aws/)
 - [Salesforce Apex Unit/E2E Samples](https://tooniez-land.vercel.app/post/qa-salesforce-apex/)
-- [Cypress E2E Testing Automation with Vuejs Typescript](https://tooniez-land.vercel.app/post/qa-typescript-cypress/)
-- [Pact Contract API Testing with Express](https://tooniez-land.vercel.app/post/qa-pact-express/)
 <!-- BLOG-POST-LIST:END -->
 
 
