@@ -33,6 +33,7 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up .NET SpecFlow with NUnit](https://tooniez-land.vercel.app/post/qa-specflow-template/)
 - [Boost Your .NET Development with Handy Aliases and Functions](https://tooniez-land.vercel.app/post/dev-dotnet-init/)
 - [Virtual Environments for Python Development](https://tooniez-land.vercel.app/post/dev-python-venv/)
 - [Contract API vs Regression](https://tooniez-land.vercel.app/post/qa-api-contract-vs-regression/)
@@ -42,7 +43,6 @@
 - [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
 - [Performance Testing with Locust on AWS and Terraform](https://tooniez-land.vercel.app/post/devops-locust-terraform-aws/)
-- [Salesforce Apex Unit/E2E Samples](https://tooniez-land.vercel.app/post/qa-salesforce-apex/)
 <!-- BLOG-POST-LIST:END -->
 
 
