@@ -33,6 +33,7 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Gherkin: Best Practices and Examples for Effective BDD](https://tooniez-land.vercel.app/post/qa-gherkin-principles/)
 - [Setting up .NET SpecFlow with NUnit](https://tooniez-land.vercel.app/post/qa-specflow-template/)
 - [Boost Your .NET Development with Handy Aliases and Functions](https://tooniez-land.vercel.app/post/dev-dotnet-init/)
 - [Virtual Environments for Python Development](https://tooniez-land.vercel.app/post/dev-python-venv/)
@@ -42,7 +43,6 @@
 - [Automate Mobile App testing with Browserstack and TestNG](https://tooniez-land.vercel.app/post/qa-testng-appium-browserstack/)
 - [Differences between Cypress and Playwright](https://tooniez-land.vercel.app/post/qa-pw-vs-cy/)
 - [Playwright - Assert Your Way to Success!](https://tooniez-land.vercel.app/post/qa-playwright/)
-- [Performance Testing with Locust on AWS and Terraform](https://tooniez-land.vercel.app/post/devops-locust-terraform-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 
