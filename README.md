@@ -33,7 +33,7 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Vector Datastore? Check this comparison and use cases!](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
+- [Which Python Vector Datastore for Your AI Application](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
 - [Mastering Gherkin: Best Practices and Examples for Effective BDD](https://tooniez-land.vercel.app/post/qa-gherkin-principles/)
 - [Setting up .NET SpecFlow with NUnit](https://tooniez-land.vercel.app/post/qa-specflow-template/)
 - [Boost Your .NET Development with Handy Aliases and Functions](https://tooniez-land.vercel.app/post/dev-dotnet-init/)
