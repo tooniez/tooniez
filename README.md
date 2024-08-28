@@ -34,6 +34,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [K6 Load Testing with InfluxDB and Grafana: Containerized Load Test Suite](https://tooniez-land.vercel.app/post/qa-k6-grafana-influxdb/)
+- [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 - [Which Python Vector Datastore for Your AI Application](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
 - [Mastering Gherkin: Best Practices and Examples for Effective BDD](https://tooniez-land.vercel.app/post/qa-gherkin-principles/)
 - [Setting up .NET SpecFlow with NUnit](https://tooniez-land.vercel.app/post/qa-specflow-template/)
@@ -42,7 +43,6 @@
 - [Contract API vs Regression](https://tooniez-land.vercel.app/post/qa-api-contract-vs-regression/)
 - [Postman pre-request script that captures tokens](https://tooniez-land.vercel.app/post/qa-api-postman-create-pre-script/)
 - [Postman API Contract and Regression tests session](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
-- [Automate Mobile App testing with Browserstack and TestNG](https://tooniez-land.vercel.app/post/qa-testng-appium-browserstack/)
 <!-- BLOG-POST-LIST:END -->
 
 
