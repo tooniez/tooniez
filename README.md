@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-  <!-- Replace the URL if you want to use a different joke API or update the existing endpoint -->
-</p>
 
 <h2 align="center">
 
@@ -12,12 +8,12 @@
 
 📍 South Australia, Australia
 
- 🌐 [Website](https://tooniez-land.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/tonyluu888) | ✉️ [Email](mailto:tooni22@proton.me) | ❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new)
+❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new)
 
 
 </h2>
 
-### 🌟 About me
+<!-- ### 🌟 About me
 
 - A proud 🤴 of two amazing kiddos 💛
 - Helping out at the family farm 🥒
@@ -27,7 +23,7 @@
 - Brainstorming life hacks to make life easier 😎
 - Obsessed with AI & ML, exploring trends to create opportunities 🤖📈
 - Passionate about evaluating quality in emerging tech 💻
-
+ -->
 
 ### 📚 Articles 
 <!-- ### 💡 Blog posts -->
@@ -45,6 +41,12 @@
 - [Postman API Contract and Regression tests session](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
 <!-- BLOG-POST-LIST:END -->
 
+
+<details>
+
+<summary>  Github/Waka Statistics: </summary>
+
+<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2042%20mins-blue)
@@ -143,3 +145,12 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
     <!-- Provide alternative text for the image -->
   </a>
 </div>
+
+</details>
+
+<!-- 
+<p align="left">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+  <!-- Replace the URL if you want to use a different joke API or update the existing endpoint -->
+<!-- </p>  -->
+
