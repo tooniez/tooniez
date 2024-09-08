@@ -11,14 +11,20 @@
 
  🌐 [Website](https://tooniez-land.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/tonyluu888) | ✉️ [Email](mailto:tooni22@proton.me) | ❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new)
 
+<p align="center">
+ <a href="https://ko-fi.com/tooniez">
+   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
+ </a>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tooniez&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/tooniez/brunotacca?color=black&logo=github" />
+</p>
 </h2>
 
 
-</h2>
-
-
-### 🌟 About me
+<!-- ### 🌟 About me
 
 - A proud 🤴 of two amazing kiddos 💛
 - Helping out at the family farm 🥒
@@ -28,7 +34,7 @@
 - Brainstorming life hacks to make life easier 😎
 - Obsessed with AI & ML, exploring trends to create opportunities 🤖📈
 - Passionate about evaluating quality in emerging tech 💻
-
+ -->
 
 ### 📚 Articles 
 <!-- ### 💡 Blog posts -->
@@ -47,9 +53,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+### 📊 Statistics
+
+
 <details>
 
-<summary>  Github/Waka Statistics: </summary>
+<summary>  Current Statistics: </summary>
 
 <br>
 
@@ -160,14 +169,3 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 <!-- </p>  -->
 
 
-
-<p align="center">
- <a href="https://ko-fi.com/tooniez">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=tooniez&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/tooniez/brunotacca?color=black&logo=github" />
-</p>
