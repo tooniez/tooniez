@@ -2,24 +2,32 @@
 
 <h2 align="center">
 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 🤖 Tooniez
 
 📍 South Australia, Australia
 
-<p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
- 
-</p>
-❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new)
+ 🌐 [Website](https://tooniez-land.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/tonyluu888) | ✉️ [Email](mailto:tooni22@proton.me) | ❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new)
 
 
 </h2>
+
+
+</h2>
+
+
+### 🌟 About me
+
+- A proud 🤴 of two amazing kiddos 💛
+- Helping out at the family farm 🥒
+- Constantly learning new tricks and skills 🤓
+- Always up for family time 👪
+- Bookworm and puzzle master 📘✍️
+- Brainstorming life hacks to make life easier 😎
+- Obsessed with AI & ML, exploring trends to create opportunities 🤖📈
+- Passionate about evaluating quality in emerging tech 💻
 
 
 ### 📚 Articles 
@@ -154,7 +162,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 <p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
+ <a href="https://ko-fi.com/tooniez">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
 </p>
