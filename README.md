@@ -133,6 +133,10 @@ TODO: add packages here
 <h2 align="center">📊 Todo list</h2>
 
 <!-- TODO-IST:START -->
+🏆  2,771 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 94 tasks so far           
+⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📊 Statistics</h2>
