@@ -2,13 +2,18 @@
 <h2 align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-<p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height10&lines=Full+Stack+Engineer;++;Quality Assurance+Advocate;Entreprenership+Serial+Starter!;AI+ML+Researcher;Codes+to+learn<3"></a>
-</p>
+
+
 🤖 Tooniez
 
 📍 South Australia, Australia 
-<br />
+
+<p align="center">
+	<a href="https://github.com/tooniez">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height10&lines=Full+Stack+Engineer;Quality Assurance+Advocate;Serial+Starter!;AI+ML+Researcher;Coding+to+learn&hearts&center=true">
+	</a>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-tonyluu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyluu888/)](https://www.linkedin.com/in/tonyluu888/)
 [![Website Badge](https://img.shields.io/badge/-tooniez-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tooniez-land.vercel.app)](t[ooniez-land](https://tooniez-land.vercel.app))
@@ -24,6 +29,10 @@
 <a href="https://github.com/tooniez?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 <!-- <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a> -->
 <a href="https://ko-fi.com/tooniez"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;"></a>
+
+</h2>
+
+
 <!-- ### 🌟 About me
 
 - A proud 🤴 of two amazing kiddos 💛
