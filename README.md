@@ -120,7 +120,7 @@
 
 </details>
 
-<details>
+<!-- <details>
 
 <summary> 📦 Packages </summary>
 
@@ -128,7 +128,7 @@
 TODO: add packages here
 ```
 
-</details>
+</details> -->
 
 
 <h2 align="center">📊 Statistics</h2>
