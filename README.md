@@ -130,7 +130,7 @@ TODO: add packages here
 
 </details> -->
 
-<h2 align="center">📊 Todo list</h2>
+<h2 align="center">📋 Todo list</h2>
 
 <!-- TODO-IST:START -->
 🏆  2,771 Karma Points           
