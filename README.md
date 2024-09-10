@@ -5,23 +5,29 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height10&lines=Full+Stack+Engineer;++;Quality Assurance+Advocate;Entreprenership+Serial+Starter!;AI+ML+Researcher;Codes+to+learn<3"></a>
+
 🤖 Tooniez
 
 📍 South Australia, Australia
+<br />
 
- 🌐 [Website](https://tooniez-land.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/tonyluu888) | ✉️ [Email](mailto:tooni22@proton.me) | ❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new)
+[![Linkedin Badge](https://img.shields.io/badge/-tonyluu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyluu888/)](https://www.linkedin.com/in/tonyluu888/)
+[![Website Badge](https://img.shields.io/badge/-tooniez-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tooniez-land.vercel.app)](t[ooniez-land](https://tooniez-land.vercel.app))
+[![Gmail Badge](https://img.shields.io/badge/-tooni22-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tooni22@proton.me)](mailto:tooni22@proton.me)
 
-<p align="center">
+
+ <!-- 🌐 [Website](https://tooniez-land.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/tonyluu888) | ✉️ [Email](mailto:tooni22@proton.me) | ❓ [Ask Me Anything](https://github.com/tooniez/ama/issues/new) -->
+
  <a href="https://ko-fi.com/tooniez">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
-</p>
 
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=tooniez&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/tooniez/brunotacca?color=black&logo=github" />
-</p>
-</h2>
+<a href="https://github.com/tooniez/"><img src="https://img.shields.io/github/followers/tooniez?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+<a href="https://github.com/tooniez?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<!-- <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a> -->
 
 
 <!-- ### 🌟 About me
@@ -36,7 +42,21 @@
 - Passionate about evaluating quality in emerging tech 💻
  -->
 
-### 📚 Articles 
+<h2 align="center"> 🚀 Recent Activites </h2>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<h2 align="center"> 🛠️ Languages and Tools</h2> 
+<p align="center">
+<img width="350px"  src="https://skillicons.dev/icons?i=py,java,js,html,dotnet,css,react,nodejs,express,bun,django,md,github,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ansible,vercel,neovim,fastapi,pytorch,django,selenium,cypress,jest,flask,bash&perline=10"  />
+</p>
+<br />
+
+
+<h2 align="center"> 📚 Articles </h2>
+
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -58,7 +78,7 @@
 
 <details>
 
-<summary>  Current Statistics: </summary>
+<summary>  Updated Statistics: </summary>
 
 <br>
 
@@ -167,5 +187,4 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
   <!-- Replace the URL if you want to use a different joke API or update the existing endpoint -->
 <!-- </p>  -->
-
 
