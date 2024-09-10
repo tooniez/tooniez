@@ -8,12 +8,12 @@
 
 📍 South Australia, Australia 
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/tooniez">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height10&lines=Full+Stack+Engineer;Quality Assurance+Advocate;Serial+Starter!;AI+ML+Researcher;Coding+to+learn&hearts&center=true">
 	</a>
-</p>
+</p> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-tonyluu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyluu888/)](https://www.linkedin.com/in/tonyluu888/)
 [![Website Badge](https://img.shields.io/badge/-tooniez-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tooniez-land.vercel.app)](t[ooniez-land](https://tooniez-land.vercel.app))
