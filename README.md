@@ -130,6 +130,10 @@ TODO: add packages here
 
 </details> -->
 
+<h2 align="center">📊 Todo list</h2>
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 <h2 align="center">📊 Statistics</h2>
 
