@@ -46,8 +46,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <h2 align="center"> 🛠️ Languages and Tools</h2> 
 <p align="center">
 <img width="350px"  src="https://skillicons.dev/icons?i=py,java,js,html,dotnet,css,react,nodejs,express,bun,django,md,github,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ansible,vercel,neovim,fastapi,pytorch,django,selenium,cypress,jest,flask,bash&perline=10"  />

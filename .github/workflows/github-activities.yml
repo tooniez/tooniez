@@ -1,18 +1,23 @@
-name: Github Activities
-
+name: Update README
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-
 jobs:
   build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent github activity
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          COMMIT_MSG: 'Chore: Update Activity'
+          MAX_LINES: 10
+          GH_USERNAME: tooniez
+          TARGET_FILE: 'README.md'
+          EMPTY_COMMIT_MSG: 'Chore: No activity'
