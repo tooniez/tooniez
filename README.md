@@ -42,6 +42,12 @@
 - Passionate about evaluating quality in emerging tech 💻
  -->
 
+<h2 align="center"> 🛠️ Languages and Tools</h2> 
+<p align="center">
+<img width="400px"  src="https://skillicons.dev/icons?i=py,java,js,html,dotnet,css,react,nodejs,express,bun,django,md,github,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ansible,vercel,neovim,fastapi,pytorch,django,selenium,cypress,jest,flask,bash&perline=10"  />
+</p>
+<br />
+
 <h2 align="center"> 🚀 Recent Activites </h2>
 
 <!--START_SECTION:activity-->
@@ -57,11 +63,7 @@
 10. 🎉 Merged PR [#206](https://github.com/tooniez/typescript-action/pull/206) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 <!--END_SECTION:activity-->
 
-<h2 align="center"> 🛠️ Languages and Tools</h2> 
-<p align="center">
-<img width="350px"  src="https://skillicons.dev/icons?i=py,java,js,html,dotnet,css,react,nodejs,express,bun,django,md,github,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ansible,vercel,neovim,fastapi,pytorch,django,selenium,cypress,jest,flask,bash&perline=10"  />
-</p>
-<br />
+
 
 
 <h2 align="center"> 📚 Articles </h2>
