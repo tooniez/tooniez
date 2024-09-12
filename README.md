@@ -134,8 +134,8 @@ TODO: add packages here
 
 <!-- TODO-IST:START -->
 🏆  2,783 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 95 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 96 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
