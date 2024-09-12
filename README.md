@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tooniez/behave-bdd-python/issues/1) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-2. 🎉 Merged PR [#2](https://github.com/tooniez/behave-bdd-python/pull/2) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-3. 💪 Opened PR [#2](https://github.com/tooniez/behave-bdd-python/pull/2) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-4. ❗ Opened issue [#1](https://github.com/tooniez/behave-bdd-python/issues/1) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-5. 🎉 Merged PR [#207](https://github.com/tooniez/typescript-action/pull/207) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-6. 🎉 Merged PR [#208](https://github.com/tooniez/typescript-action/pull/208) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-7. 🎉 Merged PR [#205](https://github.com/tooniez/typescript-action/pull/205) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-8. 🎉 Merged PR [#204](https://github.com/tooniez/typescript-action/pull/204) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-9. 🗣 Commented on [#205](https://github.com/tooniez/typescript-action/pull/205#issuecomment-2330374416) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-10. 🎉 Merged PR [#206](https://github.com/tooniez/typescript-action/pull/206) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+1. 🎉 Merged PR [#209](https://github.com/tooniez/typescript-action/pull/209) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+2. 🗣 Commented on [#209](https://github.com/tooniez/typescript-action/pull/209#issuecomment-2344836730) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+3. 🎉 Merged PR [#210](https://github.com/tooniez/typescript-action/pull/210) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+4. 🎉 Merged PR [#211](https://github.com/tooniez/typescript-action/pull/211) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+5. 🎉 Merged PR [#212](https://github.com/tooniez/typescript-action/pull/212) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+6. 🔒 Closed issue [#1](https://github.com/tooniez/behave-bdd-python/issues/1) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+7. 🎉 Merged PR [#2](https://github.com/tooniez/behave-bdd-python/pull/2) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+8. 💪 Opened PR [#2](https://github.com/tooniez/behave-bdd-python/pull/2) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+9. ❗ Opened issue [#1](https://github.com/tooniez/behave-bdd-python/issues/1) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+10. 🎉 Merged PR [#207](https://github.com/tooniez/typescript-action/pull/207) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
