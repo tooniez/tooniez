@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tooniez/nextjs-supabase-auth/pull/2) in [tooniez/nextjs-supabase-auth](https://github.com/tooniez/nextjs-supabase-auth)
-2. 🎉 Merged PR [#6](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/6) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-3. 🎉 Merged PR [#5](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/5) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-4. 🎉 Merged PR [#209](https://github.com/tooniez/typescript-action/pull/209) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-5. 🗣 Commented on [#209](https://github.com/tooniez/typescript-action/pull/209#issuecomment-2344836730) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-6. 🎉 Merged PR [#210](https://github.com/tooniez/typescript-action/pull/210) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-7. 🎉 Merged PR [#211](https://github.com/tooniez/typescript-action/pull/211) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-8. 🎉 Merged PR [#212](https://github.com/tooniez/typescript-action/pull/212) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-9. 🔒 Closed issue [#1](https://github.com/tooniez/behave-bdd-python/issues/1) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-10. 🎉 Merged PR [#2](https://github.com/tooniez/behave-bdd-python/pull/2) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+1. 🔒 Closed issue [#1](https://github.com/tooniez/next-starter/issues/1) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+2. 🎉 Merged PR [#2](https://github.com/tooniez/next-starter/pull/2) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+3. 💪 Opened PR [#2](https://github.com/tooniez/next-starter/pull/2) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+4. ❗ Opened issue [#1](https://github.com/tooniez/next-starter/issues/1) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+5. 🎉 Merged PR [#10](https://github.com/tooniez/pact-express/pull/10) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+6. 🎉 Merged PR [#12](https://github.com/tooniez/pact-express/pull/12) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+7. 🎉 Merged PR [#11](https://github.com/tooniez/pact-express/pull/11) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+8. 🎉 Merged PR [#214](https://github.com/tooniez/typescript-action/pull/214) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+9. 🗣 Commented on [#214](https://github.com/tooniez/typescript-action/pull/214#issuecomment-2357223917) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+10. 🎉 Merged PR [#216](https://github.com/tooniez/typescript-action/pull/216) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
