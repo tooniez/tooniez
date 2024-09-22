@@ -71,16 +71,16 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentation as Code: Empowering DevOps with Modern Solutions](https://tooniez-land.vercel.app/post/devops-docs-as-code/)
+- [CrewAI Setup: Orchestrating AI Agents for Complex Tasks](https://tooniez-land.vercel.app/post/aiml-crewai-setup/)
 - [K6 Load Testing with InfluxDB and Grafana: Containerized Load Test Suite](https://tooniez-land.vercel.app/post/qa-k6-grafana-influxdb/)
 - [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 - [Which Python Vector Datastore for Your AI Application](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
 - [Mastering Gherkin: Best Practices and Examples for Effective BDD](https://tooniez-land.vercel.app/post/qa-gherkin-principles/)
 - [Setting up .NET SpecFlow with NUnit](https://tooniez-land.vercel.app/post/qa-specflow-template/)
+- [Evaluating Air Quality with JUnit and RestAssured](https://tooniez-land.vercel.app/post/qa-java-restassured-maven/)
 - [Boost Your .NET Development with Handy Aliases and Functions](https://tooniez-land.vercel.app/post/dev-dotnet-init/)
 - [Virtual Environments for Python Development](https://tooniez-land.vercel.app/post/dev-python-venv/)
-- [Contract API vs Regression](https://tooniez-land.vercel.app/post/qa-api-contract-vs-regression/)
-- [Postman pre-request script that captures tokens](https://tooniez-land.vercel.app/post/qa-api-postman-create-pre-script/)
-- [Postman API Contract and Regression tests session](https://tooniez-land.vercel.app/post/qa-api-postman-megaport/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🌱 Notable Works</h2>
