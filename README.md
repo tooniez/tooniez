@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#219](https://github.com/tooniez/typescript-action/pull/219) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-2. 🎉 Merged PR [#218](https://github.com/tooniez/typescript-action/pull/218) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-3. 🗣 Commented on [#219](https://github.com/tooniez/typescript-action/pull/219#issuecomment-2378114044) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-4. 🎉 Merged PR [#220](https://github.com/tooniez/typescript-action/pull/220) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-5. 🎉 Merged PR [#223](https://github.com/tooniez/typescript-action/pull/223) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-6. 🎉 Merged PR [#16](https://github.com/tooniez/vuejs-typescript-cypress/pull/16) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-7. 🎉 Merged PR [#17](https://github.com/tooniez/vuejs-typescript-cypress/pull/17) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-8. 🎉 Merged PR [#18](https://github.com/tooniez/vuejs-typescript-cypress/pull/18) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-9. 🎉 Merged PR [#5](https://github.com/tooniez/docs-as-code-docusaurus/pull/5) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-10. 🎉 Merged PR [#6](https://github.com/tooniez/docs-as-code-docusaurus/pull/6) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+1. 🎉 Merged PR [#43](https://github.com/tooniez/Open-Assistant/pull/43) in [tooniez/Open-Assistant](https://github.com/tooniez/Open-Assistant)
+2. 🎉 Merged PR [#12](https://github.com/tooniez/Chrome-GPT/pull/12) in [tooniez/Chrome-GPT](https://github.com/tooniez/Chrome-GPT)
+3. 🎉 Merged PR [#224](https://github.com/tooniez/typescript-action/pull/224) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+4. 🎉 Merged PR [#219](https://github.com/tooniez/typescript-action/pull/219) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+5. 🎉 Merged PR [#218](https://github.com/tooniez/typescript-action/pull/218) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+6. 🗣 Commented on [#219](https://github.com/tooniez/typescript-action/pull/219#issuecomment-2378114044) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+7. 🎉 Merged PR [#220](https://github.com/tooniez/typescript-action/pull/220) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+8. 🎉 Merged PR [#223](https://github.com/tooniez/typescript-action/pull/223) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+9. 🎉 Merged PR [#16](https://github.com/tooniez/vuejs-typescript-cypress/pull/16) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+10. 🎉 Merged PR [#17](https://github.com/tooniez/vuejs-typescript-cypress/pull/17) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
