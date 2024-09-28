@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tooniez/local-dev-base/issues/1) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-2. 🎉 Merged PR [#2](https://github.com/tooniez/local-dev-base/pull/2) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-3. 💪 Opened PR [#2](https://github.com/tooniez/local-dev-base/pull/2) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-4. ❗ Opened issue [#1](https://github.com/tooniez/local-dev-base/issues/1) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-5. 🎉 Merged PR [#43](https://github.com/tooniez/Open-Assistant/pull/43) in [tooniez/Open-Assistant](https://github.com/tooniez/Open-Assistant)
-6. 🎉 Merged PR [#12](https://github.com/tooniez/Chrome-GPT/pull/12) in [tooniez/Chrome-GPT](https://github.com/tooniez/Chrome-GPT)
-7. 🎉 Merged PR [#224](https://github.com/tooniez/typescript-action/pull/224) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-8. 🎉 Merged PR [#219](https://github.com/tooniez/typescript-action/pull/219) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-9. 🎉 Merged PR [#218](https://github.com/tooniez/typescript-action/pull/218) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-10. 🗣 Commented on [#219](https://github.com/tooniez/typescript-action/pull/219#issuecomment-2378114044) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+1. 🗣 Commented on [#1](https://github.com/tooniez/local-dev-base/issues/1#issuecomment-2380426029) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+2. 🗣 Commented on [#2](https://github.com/tooniez/local-dev-base/pull/2#issuecomment-2380426003) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+3. 🚀 Published release [v0.1.0](https://github.com/tooniez/local-dev-base/releases/tag/v0.1.0) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+4. 🔒 Closed issue [#1](https://github.com/tooniez/local-dev-base/issues/1) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+5. 🎉 Merged PR [#2](https://github.com/tooniez/local-dev-base/pull/2) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+6. 💪 Opened PR [#2](https://github.com/tooniez/local-dev-base/pull/2) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+7. ❗ Opened issue [#1](https://github.com/tooniez/local-dev-base/issues/1) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+8. 🎉 Merged PR [#43](https://github.com/tooniez/Open-Assistant/pull/43) in [tooniez/Open-Assistant](https://github.com/tooniez/Open-Assistant)
+9. 🎉 Merged PR [#12](https://github.com/tooniez/Chrome-GPT/pull/12) in [tooniez/Chrome-GPT](https://github.com/tooniez/Chrome-GPT)
+10. 🎉 Merged PR [#224](https://github.com/tooniez/typescript-action/pull/224) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
