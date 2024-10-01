@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/tooniez/n8n-rag-qdrant-ollama/pull/2#issuecomment-2381308679) in [tooniez/n8n-rag-qdrant-ollama](https://github.com/tooniez/n8n-rag-qdrant-ollama)
-2. 🎉 Merged PR [#2](https://github.com/tooniez/n8n-rag-qdrant-ollama/pull/2) in [tooniez/n8n-rag-qdrant-ollama](https://github.com/tooniez/n8n-rag-qdrant-ollama)
-3. 🗣 Commented on [#2](https://github.com/tooniez/n8n-rag-qdrant-ollama/pull/2#issuecomment-2381304757) in [tooniez/n8n-rag-qdrant-ollama](https://github.com/tooniez/n8n-rag-qdrant-ollama)
-4. 💪 Opened PR [#2](https://github.com/tooniez/n8n-rag-qdrant-ollama/pull/2) in [tooniez/n8n-rag-qdrant-ollama](https://github.com/tooniez/n8n-rag-qdrant-ollama)
-5. 🗣 Commented on [#1](https://github.com/tooniez/local-dev-base/issues/1#issuecomment-2380426029) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-6. 🗣 Commented on [#2](https://github.com/tooniez/local-dev-base/pull/2#issuecomment-2380426003) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-7. 🚀 Published release [v0.1.0](https://github.com/tooniez/local-dev-base/releases/tag/v0.1.0) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-8. 🔒 Closed issue [#1](https://github.com/tooniez/local-dev-base/issues/1) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-9. 🎉 Merged PR [#2](https://github.com/tooniez/local-dev-base/pull/2) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
-10. 💪 Opened PR [#2](https://github.com/tooniez/local-dev-base/pull/2) in [tooniez/local-dev-base](https://github.com/tooniez/local-dev-base)
+1. 🗣 Commented on [#4](https://github.com/tooniez/n8n-ollama-agents/pull/4#issuecomment-2384748153) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+2. 🎉 Merged PR [#4](https://github.com/tooniez/n8n-ollama-agents/pull/4) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+3. 🗣 Commented on [#4](https://github.com/tooniez/n8n-ollama-agents/pull/4#issuecomment-2384747626) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+4. 💪 Opened PR [#4](https://github.com/tooniez/n8n-ollama-agents/pull/4) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+5. 🗣 Commented on [#3](https://github.com/tooniez/n8n-ollama-agents/pull/3#issuecomment-2384710103) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+6. 🎉 Merged PR [#3](https://github.com/tooniez/n8n-ollama-agents/pull/3) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+7. 🗣 Commented on [#3](https://github.com/tooniez/n8n-ollama-agents/pull/3#issuecomment-2384709557) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+8. 💪 Opened PR [#3](https://github.com/tooniez/n8n-ollama-agents/pull/3) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+9. 🗣 Commented on [#2](https://github.com/tooniez/n8n-rag-qdrant-ollama/pull/2#issuecomment-2381308679) in [tooniez/n8n-rag-qdrant-ollama](https://github.com/tooniez/n8n-rag-qdrant-ollama)
+10. 🎉 Merged PR [#2](https://github.com/tooniez/n8n-rag-qdrant-ollama/pull/2) in [tooniez/n8n-rag-qdrant-ollama](https://github.com/tooniez/n8n-rag-qdrant-ollama)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
