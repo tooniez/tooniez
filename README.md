@@ -71,16 +71,16 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a Hugging Face Dataset: A Step-by-Step Guide](https://tooniez-land.vercel.app/post/aiml-huggingface-dataset-setup/)
+- [Unleashing AI Magic: A Journey Through My AI/ML Projects](https://tooniez-land.vercel.app/post/aiml-repo-directory/)
+- [Journey Through Development Projects](https://tooniez-land.vercel.app/post/dev-repo-directory/)
 - [Documentation as Code: Empowering DevOps with Modern Tools](https://tooniez-land.vercel.app/post/devops-docs-as-code/)
 - [CrewAI Setup: Orchestrating AI Agents for Complex Tasks](https://tooniez-land.vercel.app/post/aiml-crewai-setup/)
-- [GitHub Repository List](https://tooniez-land.vercel.app/post/dev-repo-directory/)
 - [K6 Load Testing with InfluxDB and Grafana: Containerized Load Test Suite](https://tooniez-land.vercel.app/post/qa-k6-grafana-influxdb/)
 - [Building Powerful Language AI Applications with Langchain](https://tooniez-land.vercel.app/post/aiml-langchain-setup/)
 - [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 - [Which Python Vector Datastore for Your AI Application](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
 - [Mastering Gherkin: Best Practices and Examples for Effective BDD](https://tooniez-land.vercel.app/post/qa-gherkin-principles/)
-- [Setting up .NET SpecFlow with NUnit](https://tooniez-land.vercel.app/post/qa-specflow-template/)
-- [Evaluating Air Quality with JUnit and RestAssured](https://tooniez-land.vercel.app/post/qa-java-restassured-maven/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🌱 Notable Works</h2>
