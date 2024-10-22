@@ -126,7 +126,7 @@
 |------|-------------|
 | [FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab) | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface |
 | [FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit) | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit |
-| [Pokemon Cards Dataset](https://huggingface.co/datasets/tooni/pokemoncards) | 🎲 A dataset of Pokemon cards with images and descriptions.<br>**Skills:** Python, Huggingface, Dataset |
+| [Pokemon Cards Dataset](https://pokedex-production-6103.up.railway.app/) | 🎲 A Streamlit application with Exploratory Data Analysis (EDA) of Pokemon cards.<br>**Skills:** Python, Huggingface, Streamlit |
 | [N8N Ollama Agents](https://github.com/tooniez/n8n-ollama-agents) | 🤖 Orchestrating AI Agents for Complex Tasks with n8n, Langchain and Qdrant.<br>**Skills:** n8n, Langchain, Qdrant, Ollama, Redis, RAG |
 | [LLM Toolkit](https://github.com/tooniez/llm-toolkit) | 🧰 A collection of prompts, tools and functions for working with LLMs.<br>**Skills:** Python, OpenAI, Tool-chain, Prompt Engineering, Function Calling, Ollama, Modelfile |
 | [CrewAI Playground](https://github.com/tooniez/crewai-playground) | 🤖 A playground for experimenting with CrewAI.<br>**Skills:** Python, CrewAI, Agents, Automation, LLM |
