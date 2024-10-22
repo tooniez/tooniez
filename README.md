@@ -112,7 +112,6 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Appium Multi Language Test Framework](https://github.com/tooniez/appium-framework)_            | 🗜️ A multi-language Appium test framework with examples in Node.js, Java (Maven), and C# (.NET).<br>**Skills:** Java, C#, .NET Core, Appium, Selenium WebDriver         |
 | _[Aspcore React Template](https://github.com/tooniez/Aspcore.ReactTemplate)_                          | 🌱 Ready-to-use boilerplate for React frontend applications written in TypeScript with ASP .NET Core API Backend.<br>**Skills:** .NET Core, ASP.NET, React.js     |
 | _[Bun with MongoDB Sample](https://github.com/tooniez/bun-api-mongodb)_            | 🌱 A sample project demonstrating how to use Bun server with MongoDB.<br>**Skills:** TypeScript, MongoDB, Node.js, BunAPI         |
 | _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit         |
@@ -122,20 +121,37 @@
 
 #### AI/ML
 
-| Name                  | Description                                                |
-| ---------------------------------|--------------------------------------------------------------- |
-| _[FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab)_ | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface         |
-| _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit         |
+
+| Name | Description |
+|------|-------------|
+| [FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab) | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface |
+| [FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit) | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit |
+| [Pokemon Cards Dataset](https://huggingface.co/datasets/tooni/pokemoncards) | 🎲 A dataset of Pokemon cards with images and descriptions.<br>**Skills:** Python, Huggingface, Dataset |
+| [N8N Ollama Agents](https://github.com/tooniez/n8n-ollama-agents) | 🤖 Orchestrating AI Agents for Complex Tasks with n8n, Langchain and Qdrant.<br>**Skills:** n8n, Langchain, Qdrant, Ollama, Redis, RAG |
+| [LLM Toolkit](https://github.com/tooniez/llm-toolkit) | 🧰 A collection of prompts, tools and functions for working with LLMs.<br>**Skills:** Python, OpenAI, Tool-chain, Prompt Engineering, Function Calling, Ollama, Modelfile |
+| [CrewAI Playground](https://github.com/tooniez/crewai-playground) | 🤖 A playground for experimenting with CrewAI.<br>**Skills:** Python, CrewAI, Agents, Automation, LLM |
+
+##### Datasets
+
+| Name | Description |
+|------|-------------|
+| [Pokemon Cards Dataset](https://huggingface.co/datasets/tooni/pokemoncards) | 🎲 A dataset of Pokemon cards with images and descriptions.<br> **Skills:** Python, Huggingface, Dataset |
+
 
 #### DevSecOps
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[DevContainer Templates](https://github.com/tooniez/devcontainer-base)_ | 🛠 DevContainer templates providing consistent, reproducible setup for developers.<br>**Skills:** Docker, Python, Node.js, .NET Core         |
+| _[DevContainer Python](https://github.com/tooniez/devcontainer-python)_ | 🐍 Python-specific DevContainer template for streamlined Python development.<br>**Skills:** Docker, Python         |
+| _[DevOps Exercises](https://github.com/tooniez/devops-exercises)_ | 📚 Comprehensive collection of DevOps exercises covering various technologies.<br>**Skills:** Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization         |
+| _[DevContainer Golang](https://github.com/tooniez/devcontainer-golang)_ | 🐹 Golang-specific DevContainer template for efficient Go development.<br>**Skills:** Docker, Go         |
+| _[DevContainer .NET](https://github.com/tooniez/devcontainer-dotnet)_ | 🎯 .NET-specific DevContainer template for seamless .NET development.<br>**Skills:** Docker, .NET Core         |
+| _[DevContainer Python-Node](https://github.com/tooniez/devcontainer-python-node)_ | 🐍🟩 Combined Python and Node.js DevContainer template for full-stack development.<br>**Skills:** Docker, Python, Node.js         
 | _[GitHub Typescript Reusable Action](https://github.com/tooniez/typescript-action)_ | 🧩 Base template for a re-usable GitHub Action.<br>**Skills:** GitHub, Node.js, JavaScript         |
 | _[Terraform Ansible on AWS](https://github.com/tooniez/terraform-ansible-aws)_ | 🧱 Using Terraform and Ansible to provision AWS infrastructure.<br>**Skills:** Terraform, Ansible, AWS         |
 | _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         |
-
+| _[Local Dev Base](https://github.com/tooniez/local-dev-base)_ | 🛠  variety of databases, caching solutions, search capabilities, object storage, and email testing tools<br>**Skills:** Docker, Python, Node.js, .NET Core         |
 <!-- 
 
 | Name                  | Description                                                |
