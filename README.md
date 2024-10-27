@@ -54,11 +54,11 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/tooniez/n8n-ollama-agents/pull/7) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-2. ❌ Closed PR [#6](https://github.com/tooniez/n8n-ollama-agents/pull/6) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-3. 🎉 Merged PR [#13](https://github.com/tooniez/pact-express/pull/13) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-4. 🎉 Merged PR [#19](https://github.com/tooniez/vuejs-typescript-cypress/pull/19) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-5. 🎉 Merged PR [#229](https://github.com/tooniez/typescript-action/pull/229) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+1. 🎉 Merged PR [#151](https://github.com/tooniez/prisma-ecosystem-tests/pull/151) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
+2. ❌ Closed PR [#7](https://github.com/tooniez/n8n-ollama-agents/pull/7) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+3. ❌ Closed PR [#6](https://github.com/tooniez/n8n-ollama-agents/pull/6) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+4. 🎉 Merged PR [#13](https://github.com/tooniez/pact-express/pull/13) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+5. 🎉 Merged PR [#19](https://github.com/tooniez/vuejs-typescript-cypress/pull/19) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
 6. 🎉 Merged PR [#230](https://github.com/tooniez/typescript-action/pull/230) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 7. 🎉 Merged PR [#233](https://github.com/tooniez/typescript-action/pull/233) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 8. 🗣 Commented on [#231](https://github.com/tooniez/typescript-action/pull/231#issuecomment-2401044125) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
