@@ -54,15 +54,15 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/tooniez/n8n-ollama-agents/pull/8) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-2. 🎉 Merged PR [#7](https://github.com/tooniez/docs-as-code-docusaurus/pull/7) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-3. 🎉 Merged PR [#152](https://github.com/tooniez/prisma-ecosystem-tests/pull/152) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
-4. 🎉 Merged PR [#151](https://github.com/tooniez/prisma-ecosystem-tests/pull/151) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
-5. ❌ Closed PR [#7](https://github.com/tooniez/n8n-ollama-agents/pull/7) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-6. ❌ Closed PR [#6](https://github.com/tooniez/n8n-ollama-agents/pull/6) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-7. 🎉 Merged PR [#13](https://github.com/tooniez/pact-express/pull/13) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-8. 🎉 Merged PR [#19](https://github.com/tooniez/vuejs-typescript-cypress/pull/19) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-9. 🎉 Merged PR [#232](https://github.com/tooniez/typescript-action/pull/232) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+1. 🚀 Published release [v0.0.0](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/releases/tag/v0.0.0) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+2. 🎉 Merged PR [#2](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/2) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+3. 🎉 Merged PR [#3](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/3) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+4. 🎉 Merged PR [#1](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/1) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+5. 🎉 Merged PR [#8](https://github.com/tooniez/n8n-ollama-agents/pull/8) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+6. 🎉 Merged PR [#7](https://github.com/tooniez/docs-as-code-docusaurus/pull/7) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+7. 🎉 Merged PR [#152](https://github.com/tooniez/prisma-ecosystem-tests/pull/152) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
+8. 🎉 Merged PR [#151](https://github.com/tooniez/prisma-ecosystem-tests/pull/151) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
+9. ❌ Closed PR [#7](https://github.com/tooniez/n8n-ollama-agents/pull/7) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
 10. 🎉 Merged PR [#25](https://github.com/tooniez/restassured-maven-java/pull/25) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
 <!--END_SECTION:activity-->
 
