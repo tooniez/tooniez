@@ -83,30 +83,135 @@
 - [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="center">🌱 Notable Works</h2>
+<h2 align="center">🌱 Recent Works</h2>
+
+### Test Automation
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Behave BDD Test Examples](https://github.com/tooniez/behave-bdd-python)_         | 📃 Elevate your BDD with Behave! A collection of behavior-driven development (BDD) examples using Behave.<br>**Skills:** Python, BDD, Behave    |
+| _[SuperTest Cucumber API Test Boilerplate](https://github.com/tooniez/supertest-cucumber-ts)_ | 📋 API integration tests with SuperTest and Cucumber BDD TS, deployed with reports on GitHub Pages.<br>**Skills:** SuperTest, Cucumber, TypeScript         |
+| _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         |
+
 
 <details>
-<summary> 🔥 Public Repositories </summary>
+<summary> 🔥 More Repositories </summary>
+
+### Test Automation
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Appium Multi Language Test Framework](https://github.com/tooniez/appium-framework)_            | 🗜️ A multi-language Appium test framework with examples in Node.js, Java (Maven), and C# (.NET).<br>**Skills:** Java, C#, .NET Core, Appium, Selenium WebDriver         |
+| _[Cypress E2E Testing with Vue.js & TypeScript](https://github.com/tooniez/vuejs-typescript-cypress)_            | 🌟 Explore a streamlined Cypress test framework for VueJS applications.<br>**Skills:** Cypress, Vue.js, TypeScript         |
+| _[Playwright E2E Test Framework](https://github.com/tooniez/e2e-test-automation-shopfront-exercise)_ | 🚀 End-to-end automated tests using Playwright for Shopfront applications.<br>**Skills:** Playwright, CI, Test Automation         |
+| _[Cypress TheIconic Test Framework](https://github.com/tooniez/theiconic-cypress)_  | 🌐 Cypress repository to check TheIconic's shopping cart feature.<br>**Skills:** Cypress, TypeScript, Node.js         |
+| _[Mobile Testing with TestNG, Java, Appium, & Browserstack](https://github.com/tooniez/java-testng-appium-browserstack)_ | 🤖 Start up Appium tests in TestNG on BrowserStack App Automate.<br>**Skills:** Java, Mobile Testing, Appium, Android, iOS         |
+| _[Pact Contract API Testing with Express](https://github.com/tooniez/pact-express)_ | 🚨 Ensure API reliability through contract testing with Pact and Express.<br>**Skills:** Pact, Express.js, API Testing         |
+| _[Pega Unit Test Results Retriever CliFx](https://github.com/tooniez/pegats-clifx-dotnet)_ | 🔧 A simple CliFX .NET command line tool to retrieve unit test results from Pega SAAS Endpoint.<br>**Skills:** C#, .NET Core, CLI         |
+| _[Performance Testing with Locust on AWS & Terraform](https://github.com/tooniez/locust-terraform-aws)_ | ⚡️ Elevate performance testing with Terraform and Locust on AWS EC2.<br>**Skills:** Python, Terraform, AWS, Performance Testing         |
+| _[RestAssured Maven Java JUnit](https://github.com/tooniez/restassured-maven-java)_ | 💨 Maven project using RestAssured and JUnit to test OpenWeatherAPI for air quality.<br>**Skills:** Java, RestAssured         |
+| _[Salesforce Apex Unit/E2E Testing](https://github.com/tooniez/salesforce-apex-testing)_ | 📊 Repository for testing a Salesforce application using sfdx-lwc-jest.<br>**Skills:** Apex Programming, Salesforce Development, Salesforce Administration         |
+| _[Specflow NUnit Boilerplate](https://github.com/tooniez/specflow-nunit-template)_ | ⚙ Ready-to-use boilerplate with BDD Specflow and NUnit runner.<br>**Skills:** SpecFlow, BDD, C#, Cucumber         |  |
+| _[WireMock.Net Server Starter](https://github.com/tooniez/dotnet-wiremock)_ | 🖲️ Mock server using WireMock.Net.<br>**Skills:** .NET Framework, WireMock, C#, Mock         |
+
+
+</details>
+
+### Software Development
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Aspcore React Template](https://github.com/tooniez/Aspcore.ReactTemplate)_                          | 🌱 Ready-to-use boilerplate for React frontend applications written in TypeScript with ASP .NET Core API Backend.<br>**Skills:** .NET Core, ASP.NET, React.js     |
+| _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit         |
+| _[Kotlin Multiplatform Mobile (KMM)](https://github.com/tooniez/kotlin-multiplatorm-app)_ | 🧩 Boilerplate for Kotlin Multiplatform Mobile applications with Android and iOS targets.<br>**Skills:** Kotlin, Swift, Android, iOS      
+
+<details>
+<summary> 🔥 More Repositories </summary>
+
+### Software Development
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Bun with MongoDB Sample](https://github.com/tooniez/bun-api-mongodb)_            | 🌱 A sample project demonstrating how to use Bun server with MongoDB.<br>**Skills:** TypeScript, MongoDB, Node.js, BunAPI         |
+   |
+| _[NextJS Supabase Authentication Sample](https://github.com/tooniez/nextjs-supabase-auth)_ | 🔐 NextJS sample using Supabase Authentication.<br>**Skills:** Next.js, Supabase, React.js, TypeScript         |
+| _[Static Site with AstroJS](https://tooniez-land.vercel.app/)_ | 📚 A blog where I post my latest work, written in AstroJS and hosted on Vercel.<br>**Skills:** Astro, TypeScript, Supabase, Vercel         |
+
+
+</details>
+
+
+### AI/ML
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| [Streamlit Pokemon EDA](https://pokedex-production-6103.up.railway.app/) | 🎲 A Streamlit application with Exploratory Data Analysis (EDA) of Pokemon cards.<br>**Skills:** Python, Huggingface, Streamlit |
+| [CrewAI Playground](https://github.com/tooniez/crewai-playground) | 🤖 A playground for experimenting with CrewAI.<br>**Skills:** Python, CrewAI, Agents, Automation, LLM |
+| [N8N Ollama Agents](https://github.com/tooniez/n8n-ollama-agents) | 🤖 Orchestrating AI Agents for Complex Tasks with n8n, Langchain and Qdrant.<br>**Skills:** n8n, Langchain, Qdrant, Ollama, Redis, RAG |
+| [Pokemon Cards Dataset](https://huggingface.co/datasets/tooni/pokemoncards) | 🎲 A dataset of Pokemon cards with images and descriptions.<br> **Skills:** Python, Huggingface, Dataset |
+
+<details>
+<summary> 🔥 More Repositories </summary>
+
+
+### AI/ML
+
+
+| Name | Description |
+|------|-------------|
+| [FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab) | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface |
+| [FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit) | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit |
+| [LLM Toolkit](https://github.com/tooniez/llm-toolkit) | 🧰 A collection of prompts, tools and functions for working with LLMs.<br>**Skills:** Python, OpenAI, Tool-chain, Prompt Engineering, Function Calling, Ollama, Modelfile |
+
+
+</details>
+
+### DevSecOps
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         |
+| _[Local Dev Base](https://github.com/tooniez/local-dev-base)_ | 🛠  variety of databases, caching solutions, search capabilities, object storage, and email testing tools<br>**Skills:** Docker, Python, Node.js, .NET Core         |
+| _[Terraform Ansible on AWS](https://github.com/tooniez/terraform-ansible-aws)_ | 🧱 Using Terraform and Ansible to provision AWS infrastructure.<br>**Skills:** Terraform, Ansible, AWS         |
+
+<details>
+<summary> 🔥 More Repositories </summary>
+
+#### DevSecOps
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[DevContainer Templates](https://github.com/tooniez/devcontainer-base)_ | 🛠 DevContainer templates providing consistent, reproducible setup for developers.<br>**Skills:** Docker, Python, Node.js, .NET Core         |
+| _[DevContainer Python](https://github.com/tooniez/devcontainer-python)_ | 🐍 Python-specific DevContainer template for streamlined Python development.<br>**Skills:** Docker, Python         |
+| _[DevOps Exercises](https://github.com/tooniez/devops-exercises)_ | 📚 Comprehensive collection of DevOps exercises covering various technologies.<br>**Skills:** Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization         |
+| _[DevContainer Golang](https://github.com/tooniez/devcontainer-golang)_ | 🐹 Golang-specific DevContainer template for efficient Go development.<br>**Skills:** Docker, Go         |
+| _[DevContainer .NET](https://github.com/tooniez/devcontainer-dotnet)_ | 🎯 .NET-specific DevContainer template for seamless .NET development.<br>**Skills:** Docker, .NET Core         |
+| _[DevContainer Python-Node](https://github.com/tooniez/devcontainer-python-node)_ | 🐍🟩 Combined Python and Node.js DevContainer template for full-stack development.<br>**Skills:** Docker, Python, Node.js         
+| _[GitHub Typescript Reusable Action](https://github.com/tooniez/typescript-action)_ | 🧩 Base template for a re-usable GitHub Action.<br>**Skills:** GitHub, Node.js, JavaScript         |
+
+
+
+</details>
+
+<!-- 
+
+<details>
+<summary> 🔥 More Repositories </summary>
 
 #### Test Automation
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[Appium Multi Language Test Framework](https://github.com/tooniez/appium-framework)_            | 🗜️ A multi-language Appium test framework with examples in Node.js, Java (Maven), and C# (.NET).<br>**Skills:** Java, C#, .NET Core, Appium, Selenium WebDriver         |
-| _[Behave BDD Test Examples](https://github.com/tooniez/behave-bdd-python)_         | 📃 Elevate your BDD with Behave! A collection of behavior-driven development (BDD) examples using Behave.<br>**Skills:** Python, BDD, Behave    |
-| _[Cypress E2E Testing with Vue.js & TypeScript](https://github.com/tooniez/vuejs-typescript-cypress)_            | 🌟 Explore a streamlined Cypress test framework for VueJS applications.<br>**Skills:** Cypress, Vue.js, TypeScript         |
 | _[Cypress TheIconic Test Framework](https://github.com/tooniez/theiconic-cypress)_  | 🌐 Cypress repository to check TheIconic's shopping cart feature.<br>**Skills:** Cypress, TypeScript, Node.js         |
 | _[Mobile Testing with TestNG, Java, Appium, & Browserstack](https://github.com/tooniez/java-testng-appium-browserstack)_ | 🤖 Start up Appium tests in TestNG on BrowserStack App Automate.<br>**Skills:** Java, Mobile Testing, Appium, Android, iOS         |
 | _[Pact Contract API Testing with Express](https://github.com/tooniez/pact-express)_ | 🚨 Ensure API reliability through contract testing with Pact and Express.<br>**Skills:** Pact, Express.js, API Testing         |
 | _[Pega Unit Test Results Retriever CliFx](https://github.com/tooniez/pegats-clifx-dotnet)_ | 🔧 A simple CliFX .NET command line tool to retrieve unit test results from Pega SAAS Endpoint.<br>**Skills:** C#, .NET Core, CLI         |
 | _[Performance Testing with Locust on AWS & Terraform](https://github.com/tooniez/locust-terraform-aws)_ | ⚡️ Elevate performance testing with Terraform and Locust on AWS EC2.<br>**Skills:** Python, Terraform, AWS, Performance Testing         |
-| _[Playwright E2E Test Framework](https://github.com/tooniez/e2e-test-automation-shopfront-exercise)_ | 🚀 End-to-end automated tests using Playwright for Shopfront applications.<br>**Skills:** Playwright, CI, Test Automation         |
 | _[RestAssured Maven Java JUnit](https://github.com/tooniez/restassured-maven-java)_ | 💨 Maven project using RestAssured and JUnit to test OpenWeatherAPI for air quality.<br>**Skills:** Java, RestAssured         |
 | _[Salesforce Apex Unit/E2E Testing](https://github.com/tooniez/salesforce-apex-testing)_ | 📊 Repository for testing a Salesforce application using sfdx-lwc-jest.<br>**Skills:** Apex Programming, Salesforce Development, Salesforce Administration         |
 | _[Specflow NUnit Boilerplate](https://github.com/tooniez/specflow-nunit-template)_ | ⚙ Ready-to-use boilerplate with BDD Specflow and NUnit runner.<br>**Skills:** SpecFlow, BDD, C#, Cucumber         |  |
-| _[SuperTest Cucumber API Test Boilerplate](https://github.com/tooniez/supertest-cucumber-ts)_ | 📋 API integration tests with SuperTest and Cucumber BDD TS, deployed with reports on GitHub Pages.<br>**Skills:** SuperTest, Cucumber, TypeScript         |
 | _[WireMock.Net Server Starter](https://github.com/tooniez/dotnet-wiremock)_ | 🖲️ Mock server using WireMock.Net.<br>**Skills:** .NET Framework, WireMock, C#, Mock         |
-| _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         |
 
 #### Software Development
 
@@ -152,38 +257,8 @@
 | _[Terraform Ansible on AWS](https://github.com/tooniez/terraform-ansible-aws)_ | 🧱 Using Terraform and Ansible to provision AWS infrastructure.<br>**Skills:** Terraform, Ansible, AWS         |
 | _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         |
 | _[Local Dev Base](https://github.com/tooniez/local-dev-base)_ | 🛠  variety of databases, caching solutions, search capabilities, object storage, and email testing tools<br>**Skills:** Docker, Python, Node.js, .NET Core         |
-<!-- 
 
-| Name                  | Description                                                |
-| ---------------------------------|--------------------------------------------------------------- |
-| _[Appium Multi Language Test Framework](https://github.com/tooniez/appium-framework)_            | 🗜️ A multi-language Appium test framework with examples in Node.js, Java (Maven), and C# (.NET).<br>**Skills:** Java, C#, .NET Core, Appium, Selenium WebDriver         |
-| _[Aspcore React Template](https://github.com/tooniez/Aspcore.ReactTemplate)_                          | 🌱 Ready-to-use boilerplate for React frontend applications written in TypeScript with ASP .NET Core API Backend.<br>**Skills:** .NET Core, ASP.NET, React.js     |
-| _[Behave BDD Test Examples](https://github.com/tooniez/behave-bdd-python)_         | 📃 Elevate your BDD with Behave! A collection of behavior-driven development (BDD) examples using Behave.<br>**Skills:** Python, BDD, Behave    |
-| _[Bun with MongoDB Sample](https://github.com/tooniez/bun-api-mongodb)_            | 🌱 A sample project demonstrating how to use Bun server with MongoDB.<br>**Skills:** TypeScript, MongoDB, Node.js, BunAPI         |
-| _[Cypress E2E Testing with Vue.js & TypeScript](https://github.com/tooniez/vuejs-typescript-cypress)_            | 🌟 Explore a streamlined Cypress test framework for VueJS applications.<br>**Skills:** Cypress, Vue.js, TypeScript         |
-| _[Cypress TheIconic Test Framework](https://github.com/tooniez/theiconic-cypress)_  | 🌐 Cypress repository to check TheIconic's shopping cart feature.<br>**Skills:** Cypress, TypeScript, Node.js         |
-| _[DevContainer Templates](https://github.com/tooniez/devcontainer-base)_ | 🛠 DevContainer templates providing consistent, reproducible setup for developers.<br>**Skills:** Docker, Python, Node.js, .NET Core         |
-| _[FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab)_ | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface         |
-| _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit         |
-| _[GitHub Typescript Reusable Action](https://github.com/tooniez/typescript-action)_ | 🧩 Base template for a re-usable GitHub Action.<br>**Skills:** GitHub, Node.js, JavaScript         |
-| _[Kotlin Multiplatform Mobile (KMM)](https://github.com/tooniez/kotlin-multiplatorm-app)_ | 🧩 Boilerplate for Kotlin Multiplatform Mobile applications with Android and iOS targets.<br>**Skills:** Kotlin, Swift, Android, iOS         |
-| _[Mobile Testing with TestNG, Java, Appium, & Browserstack](https://github.com/tooniez/java-testng-appium-browserstack)_ | 🤖 Start up Appium tests in TestNG on BrowserStack App Automate.<br>**Skills:** Java, Mobile Testing, Appium, Android, iOS         |
-| _[NextJS Supabase Authentication Sample](https://github.com/tooniez/nextjs-supabase-auth)_ | 🔐 NextJS sample using Supabase Authentication.<br>**Skills:** Next.js, Supabase, React.js, TypeScript         |
-| _[Pact Contract API Testing with Express](https://github.com/tooniez/pact-express)_ | 🚨 Ensure API reliability through contract testing with Pact and Express.<br>**Skills:** Pact, Express.js, API Testing         |
-| _[Pega Unit Test Results Retriever CliFx](https://github.com/tooniez/pegats-clifx-dotnet)_ | 🔧 A simple CliFX .NET command line tool to retrieve unit test results from Pega SAAS Endpoint.<br>**Skills:** C#, .NET Core, CLI         |
-| _[Performance Testing with Locust on AWS & Terraform](https://github.com/tooniez/locust-terraform-aws)_ | ⚡️ Elevate performance testing with Terraform and Locust on AWS EC2.<br>**Skills:** Python, Terraform, AWS, Performance Testing         |
-| _[Playwright E2E Test Framework](https://github.com/tooniez/e2e-test-automation-shopfront-exercise)_ | 🚀 End-to-end automated tests using Playwright for Shopfront applications.<br>**Skills:** Playwright, CI, Test Automation         |
-| _[RestAssured Maven Java JUnit](https://github.com/tooniez/restassured-maven-java)_ | 💨 Maven project using RestAssured and JUnit to test OpenWeatherAPI for air quality.<br>**Skills:** Java, RestAssured         |
-| _[Salesforce Apex Unit/E2E Testing](https://github.com/tooniez/salesforce-apex-testing)_ | 📊 Repository for testing a Salesforce application using sfdx-lwc-jest.<br>**Skills:** Apex Programming, Salesforce Development, Salesforce Administration         |
-| _[Specflow NUnit Boilerplate](https://github.com/tooniez/specflow-nunit-template)_ | ⚙ Ready-to-use boilerplate with BDD Specflow and NUnit runner.<br>**Skills:** SpecFlow, BDD, C#, Cucumber         |
-| _[Static Site with AstroJS](https://tooniez-land.vercel.app/)_ | 📚 A blog where I post my latest work, written in AstroJS and hosted on Vercel.<br>**Skills:** Astro, TypeScript, Supabase, Vercel         |
-| _[SuperTest Cucumber API Test Boilerplate](https://github.com/tooniez/supertest-cucumber-ts)_ | 📋 API integration tests with SuperTest and Cucumber BDD TS, deployed with reports on GitHub Pages.<br>**Skills:** SuperTest, Cucumber, TypeScript         |
-| _[Terraform Ansible on AWS](https://github.com/tooniez/terraform-ansible-aws)_ | 🧱 Using Terraform and Ansible to provision AWS infrastructure.<br>**Skills:** Terraform, Ansible, AWS         |
-| _[WireMock.Net Server Starter](https://github.com/tooniez/dotnet-wiremock)_ | 🖲️ Mock server using WireMock.Net.<br>**Skills:** .NET Framework, WireMock, C#, Mock         |
-| _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         | -->
-
-
-</details>
+</details> -->
 
 <!-- <details>
 
