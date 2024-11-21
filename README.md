@@ -71,6 +71,7 @@
 <!-- ### 💡 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Agile Test Strategy for Workato Automation](https://tooniez-land.vercel.app/post/qa-workato-ts/)
 - [Setting up a Hugging Face Dataset: A Step-by-Step Guide](https://tooniez-land.vercel.app/post/aiml-huggingface-dataset-setup/)
 - [Unleashing AI Magic: A Journey Through My AI/ML Projects](https://tooniez-land.vercel.app/post/aiml-repo-directory/)
 - [Development Journey Through My Projects](https://tooniez-land.vercel.app/post/dev-repo-directory/)
@@ -80,7 +81,6 @@
 - [CrewAI Setup: Orchestrating AI Agents for Complex Tasks](https://tooniez-land.vercel.app/post/aiml-crewai-setup/)
 - [K6 Load Testing with InfluxDB and Grafana: Containerized Load Test Suite](https://tooniez-land.vercel.app/post/qa-k6-grafana-influxdb/)
 - [Building Powerful Language AI Applications with Langchain](https://tooniez-land.vercel.app/post/aiml-langchain-setup/)
-- [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🌱 Recent Works</h2>
