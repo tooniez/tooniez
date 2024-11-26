@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.0](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/releases/tag/v0.0.0) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-2. 🎉 Merged PR [#2](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/2) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-3. 🎉 Merged PR [#3](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/3) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-4. 🎉 Merged PR [#1](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/1) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-5. 🎉 Merged PR [#8](https://github.com/tooniez/n8n-ollama-agents/pull/8) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-6. 🎉 Merged PR [#7](https://github.com/tooniez/docs-as-code-docusaurus/pull/7) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-7. 🎉 Merged PR [#152](https://github.com/tooniez/prisma-ecosystem-tests/pull/152) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
-8. 🎉 Merged PR [#151](https://github.com/tooniez/prisma-ecosystem-tests/pull/151) in [tooniez/prisma-ecosystem-tests](https://github.com/tooniez/prisma-ecosystem-tests)
-9. ❌ Closed PR [#7](https://github.com/tooniez/n8n-ollama-agents/pull/7) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-10. 🎉 Merged PR [#25](https://github.com/tooniez/restassured-maven-java/pull/25) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
+1. 🎉 Merged PR [#2](https://github.com/tooniez/expo-nextjs-base/pull/2) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+2. 🎉 Merged PR [#266](https://github.com/tooniez/typescript-action/pull/266) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+3. 🎉 Merged PR [#243](https://github.com/tooniez/typescript-action/pull/243) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+4. 🗣 Commented on [#243](https://github.com/tooniez/typescript-action/pull/243#issuecomment-2499389573) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+5. 🗣 Commented on [#263](https://github.com/tooniez/typescript-action/pull/263#issuecomment-2499388256) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+6. 🎉 Merged PR [#259](https://github.com/tooniez/typescript-action/pull/259) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+7. 🎉 Merged PR [#262](https://github.com/tooniez/typescript-action/pull/262) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+8. 🎉 Merged PR [#265](https://github.com/tooniez/typescript-action/pull/265) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+9. 🚀 Published release [v0.0.0](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/releases/tag/v0.0.0) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+10. 🎉 Merged PR [#2](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/2) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
