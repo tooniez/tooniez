@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tooniez/expo-nextjs-base/pull/3) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-2. 🎉 Merged PR [#2](https://github.com/tooniez/expo-nextjs-base/pull/2) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-3. 🎉 Merged PR [#266](https://github.com/tooniez/typescript-action/pull/266) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-4. 🎉 Merged PR [#243](https://github.com/tooniez/typescript-action/pull/243) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-5. 🗣 Commented on [#243](https://github.com/tooniez/typescript-action/pull/243#issuecomment-2499389573) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-6. 🗣 Commented on [#263](https://github.com/tooniez/typescript-action/pull/263#issuecomment-2499388256) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-7. 🎉 Merged PR [#259](https://github.com/tooniez/typescript-action/pull/259) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-8. 🎉 Merged PR [#262](https://github.com/tooniez/typescript-action/pull/262) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-9. 🎉 Merged PR [#265](https://github.com/tooniez/typescript-action/pull/265) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-10. 🚀 Published release [v0.0.0](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/releases/tag/v0.0.0) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+1. 🎉 Merged PR [#42](https://github.com/tooniez/privateGPT/pull/42) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
+2. 🎉 Merged PR [#3](https://github.com/tooniez/expo-nextjs-base/pull/3) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+3. 🎉 Merged PR [#2](https://github.com/tooniez/expo-nextjs-base/pull/2) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+4. 🎉 Merged PR [#266](https://github.com/tooniez/typescript-action/pull/266) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+5. 🎉 Merged PR [#243](https://github.com/tooniez/typescript-action/pull/243) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+6. 🗣 Commented on [#243](https://github.com/tooniez/typescript-action/pull/243#issuecomment-2499389573) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+7. 🗣 Commented on [#263](https://github.com/tooniez/typescript-action/pull/263#issuecomment-2499388256) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+8. 🎉 Merged PR [#259](https://github.com/tooniez/typescript-action/pull/259) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+9. 🎉 Merged PR [#262](https://github.com/tooniez/typescript-action/pull/262) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+10. 🎉 Merged PR [#265](https://github.com/tooniez/typescript-action/pull/265) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
