@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/tooniez/docs-as-code-docusaurus/pull/9) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-2. 🎉 Merged PR [#20](https://github.com/tooniez/vuejs-typescript-cypress/pull/20) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-3. 🎉 Merged PR [#5](https://github.com/tooniez/qa-nightwatchjs/pull/5) in [tooniez/qa-nightwatchjs](https://github.com/tooniez/qa-nightwatchjs)
-4. 🎉 Merged PR [#3](https://github.com/tooniez/django-vercel/pull/3) in [tooniez/django-vercel](https://github.com/tooniez/django-vercel)
-5. 🎉 Merged PR [#8](https://github.com/tooniez/docs-as-code-docusaurus/pull/8) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-6. 🎉 Merged PR [#14](https://github.com/tooniez/pact-express/pull/14) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-7. 🎉 Merged PR [#2](https://github.com/tooniez/hello-world-chrome-extension/pull/2) in [tooniez/hello-world-chrome-extension](https://github.com/tooniez/hello-world-chrome-extension)
-8. 🎉 Merged PR [#42](https://github.com/tooniez/privateGPT/pull/42) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
-9. 🎉 Merged PR [#3](https://github.com/tooniez/expo-nextjs-base/pull/3) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-10. 🎉 Merged PR [#2](https://github.com/tooniez/expo-nextjs-base/pull/2) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+1. 🎉 Merged PR [#5](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/5) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+2. 🎉 Merged PR [#1](https://github.com/tooniez/next15-ai-chatbot/pull/1) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+3. 🎉 Merged PR [#4](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/4) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+4. 🎉 Merged PR [#2](https://github.com/tooniez/next15-ai-chatbot/pull/2) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+5. 🎉 Merged PR [#3](https://github.com/tooniez/hello-world-chrome-extension/pull/3) in [tooniez/hello-world-chrome-extension](https://github.com/tooniez/hello-world-chrome-extension)
+6. 🎉 Merged PR [#1](https://github.com/tooniez/next-15-base/pull/1) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+7. 🎉 Merged PR [#16](https://github.com/tooniez/e2e-nightwatchjs-ts/pull/16) in [tooniez/e2e-nightwatchjs-ts](https://github.com/tooniez/e2e-nightwatchjs-ts)
+8. 🎉 Merged PR [#8](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/8) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+9. 🎉 Merged PR [#9](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/9) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+10. 🎉 Merged PR [#4](https://github.com/tooniez/expo-nextjs-base/pull/4) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
