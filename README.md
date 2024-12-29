@@ -92,7 +92,8 @@
 | _[Behave BDD Test Examples](https://github.com/tooniez/behave-bdd-python)_         | 📃 Elevate your BDD with Behave! A collection of behavior-driven development (BDD) examples using Behave.<br>**Skills:** Python, BDD, Behave    |
 | _[SuperTest Cucumber API Test Boilerplate](https://github.com/tooniez/supertest-cucumber-ts)_ | 📋 API integration tests with SuperTest and Cucumber BDD TS, deployed with reports on GitHub Pages.<br>**Skills:** SuperTest, Cucumber, TypeScript         |
 | _[K6 Load Testing with InfluxDB & Grafana](https://github.com/tooniez/k6-grafana-influxdb)_ | 📈 Load testing setup using K6, with results stored in InfluxDB and displayed in Grafana.<br>**Skills:** K6, Grafana, InfluxDB, Docker         |
-
+| _[AWS Serverless Test Samples](https://github.com/tooniez/aws-serverless-test-samples)_ | 🌐 Serverless test samples using AWS Lambda, API Gateway, and Step Functions.<br>**Skills:** AWS, Lambda, API Gateway, Step Functions         |
+| _[Spock Test Framework](https://github.com/tooniez/spock-test-framework)_ | 📃 Spock test framework for Groovy and Java.<br>**Skills:** Groovy, Java, Spock         |
 
 <details>
 <summary> 🔥 More Repositories </summary>
@@ -101,6 +102,7 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
+| _[E2E NightwatchJS Test Framework](https://github.com/tooniez/e2e-nightwatchjs-ts)_ | 🌐 End-to-end testing with NightwatchJS and TypeScript.<br>**Skills:** NightwatchJS, TypeScript         |
 | _[Appium Multi Language Test Framework](https://github.com/tooniez/appium-framework)_            | 🗜️ A multi-language Appium test framework with examples in Node.js, Java (Maven), and C# (.NET).<br>**Skills:** Java, C#, .NET Core, Appium, Selenium WebDriver         |
 | _[Cypress E2E Testing with Vue.js & TypeScript](https://github.com/tooniez/vuejs-typescript-cypress)_            | 🌟 Explore a streamlined Cypress test framework for VueJS applications.<br>**Skills:** Cypress, Vue.js, TypeScript         |
 | _[Playwright E2E Test Framework](https://github.com/tooniez/e2e-test-automation-shopfront-exercise)_ | 🚀 End-to-end automated tests using Playwright for Shopfront applications.<br>**Skills:** Playwright, CI, Test Automation         |
@@ -113,8 +115,9 @@
 | _[Salesforce Apex Unit/E2E Testing](https://github.com/tooniez/salesforce-apex-testing)_ | 📊 Repository for testing a Salesforce application using sfdx-lwc-jest.<br>**Skills:** Apex Programming, Salesforce Development, Salesforce Administration         |
 | _[Specflow NUnit Boilerplate](https://github.com/tooniez/specflow-nunit-template)_ | ⚙ Ready-to-use boilerplate with BDD Specflow and NUnit runner.<br>**Skills:** SpecFlow, BDD, C#, Cucumber         |  |
 | _[WireMock.Net Server Starter](https://github.com/tooniez/dotnet-wiremock)_ | 🖲️ Mock server using WireMock.Net.<br>**Skills:** .NET Framework, WireMock, C#, Mock         |
-
-
+| _[Prisma Ecosystem Tests](https://github.com/tooniez/prisma-ecosystem-tests)_ | 🧰 Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.<br>**Skills:** Prisma, TypeScript, Node.js         |
+| _[E2E Ethereum Hive Testing](https://github.com/tooniez/e2e-ethereum-hive-testing)_ | 🧰 Continuously tests Ethereum Hive with various operating systems, frameworks, platforms, databases and more.<br>**Skills:** Ethereum, Hive, TypeScript, Node.js         |
+| _[Appium Docker Server](https://github.com/tooniez/appium-docker-server)_ | 🧰 Appium Docker Server for testing mobile applications.<br>**Skills:** Docker, Appium, Mobile Testing         |
 </details>
 
 ### Software Development
