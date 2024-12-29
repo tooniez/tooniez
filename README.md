@@ -133,7 +133,6 @@
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[Bun with MongoDB Sample](https://github.com/tooniez/bun-api-mongodb)_            | 🌱 A sample project demonstrating how to use Bun server with MongoDB.<br>**Skills:** TypeScript, MongoDB, Node.js, BunAPI         |
-   |
 | _[NextJS Supabase Authentication Sample](https://github.com/tooniez/nextjs-supabase-auth)_ | 🔐 NextJS sample using Supabase Authentication.<br>**Skills:** Next.js, Supabase, React.js, TypeScript         |
 | _[Static Site with AstroJS](https://tooniez-land.vercel.app/)_ | 📚 A blog where I post my latest work, written in AstroJS and hosted on Vercel.<br>**Skills:** Astro, TypeScript, Supabase, Vercel         |
 
