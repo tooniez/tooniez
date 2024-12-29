@@ -125,8 +125,8 @@
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[Aspcore React Template](https://github.com/tooniez/Aspcore.ReactTemplate)_                          | 🌱 Ready-to-use boilerplate for React frontend applications written in TypeScript with ASP .NET Core API Backend.<br>**Skills:** .NET Core, ASP.NET, React.js     |
-| _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit         |
-| _[Kotlin Multiplatform Mobile (KMM)](https://github.com/tooniez/kotlin-multiplatorm-app)_ | 🧩 Boilerplate for Kotlin Multiplatform Mobile applications with Android and iOS targets.<br>**Skills:** Kotlin, Swift, Android, iOS      
+| _[Chrome Extension Vite Shadcn Framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)_ | 🌐 A Chrome extension using Vite, Shadcn, and Framer Motion.<br>**Skills:** TypeScript, Vite, Shadcn, Framer Motion         |
+| _[React Native NextJS Turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)_ | 🧩 A React Native NextJS Turborepo using Next.js 15, Shadcn, and Framer Motion.<br>**Skills:** TypeScript, React Native, Next.js, iOS, Android         |
 
 <details>
 <summary> 🔥 More Repositories </summary>
@@ -135,10 +135,14 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
+| _[NextJS AI Chatbot](https://github.com/tooniez/next15-ai-chatbot)_ | 🤖 A NextJS AI Chatbot using Next.js 15, Shadcn, and Framer Motion.<br>**Skills:** TypeScript, Next.js, Shadcn, Framer Motion         |
+| _[NextJS Base](https://github.com/tooniez/next15-base)_ | 🌱 A NextJS base using Next.js 15, Shadcn, and Framer Motion.<br>**Skills:** TypeScript, Next.js, Shadcn, Framer Motion         |
+| _[Expo NextJS Railway Template](https://github.com/tooniez/expo-nextjs-base)_ | 🧩 A NextJS Starter Template using Next.js 15, Shadcn, and Framer Motion designed for Railway.<br>**Skills:** TypeScript, Expo, Next.js, Shadcn, Framer Motion         |
 | _[Bun with MongoDB Sample](https://github.com/tooniez/bun-api-mongodb)_            | 🌱 A sample project demonstrating how to use Bun server with MongoDB.<br>**Skills:** TypeScript, MongoDB, Node.js, BunAPI         |
 | _[NextJS Supabase Authentication Sample](https://github.com/tooniez/nextjs-supabase-auth)_ | 🔐 NextJS sample using Supabase Authentication.<br>**Skills:** Next.js, Supabase, React.js, TypeScript         |
 | _[Static Site with AstroJS](https://tooniez-land.vercel.app/)_ | 📚 A blog where I post my latest work, written in AstroJS and hosted on Vercel.<br>**Skills:** Astro, TypeScript, Supabase, Vercel         |
-
+| _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit         |
+| _[Kotlin Multiplatform Mobile (KMM)](https://github.com/tooniez/kotlin-multiplatorm-app)_ | 🧩 Boilerplate for Kotlin Multiplatform Mobile applications with Android and iOS targets.<br>**Skills:** Kotlin, Swift, Android, iOS     | 
 
 </details>
 
