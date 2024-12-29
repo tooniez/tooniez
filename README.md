@@ -144,11 +144,10 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| [Streamlit Pokemon EDA](https://pokedex-production-6103.up.railway.app/) | 🎲 A Streamlit application with Exploratory Data Analysis (EDA) of Pokemon cards.<br>**Skills:** Python, Huggingface, Streamlit |
-| [CrewAI Playground](https://github.com/tooniez/crewai-playground) | 🤖 A playground for experimenting with CrewAI.<br>**Skills:** Python, CrewAI, Agents, Automation, LLM |
-| [N8N Ollama Agents](https://github.com/tooniez/n8n-ollama-agents) | 🤖 Orchestrating AI Agents for Complex Tasks with n8n, Langchain and Qdrant.<br>**Skills:** n8n, Langchain, Qdrant, Ollama, Redis, RAG |
-| [Pokemon Cards Dataset](https://huggingface.co/datasets/tooni/pokemoncards) | 🎲 A dataset of Pokemon cards with images and descriptions.<br> **Skills:** Python, Huggingface, Dataset |
-
+| _[CrewAI Playground](https://github.com/tooniez/crewai-playground)_ | 🤖 A playground for experimenting with CrewAI.<br>**Skills:** Python, CrewAI, Agents, Automation, LLM |
+| _[N8N Ollama Agents](https://github.com/tooniez/n8n-ollama-agents)_ | 🤖 Orchestrating AI Agents for Complex Tasks with n8n, Langchain and Qdrant.<br>**Skills:** n8n, Langchain, Qdrant, Ollama, Redis, RAG |
+| _[Ollama WebUI](https://github.com/tooniez/ollama-webui)_ | 🤖 A WebUI for Ollama, a lightweight AI model server.<br> **Skills:** Python, Ollama, WebUI |
+| _[Pokemon Cards Dataset](https://huggingface.co/datasets/tooni/pokemoncards)_ | 🎲 A dataset of Pokemon cards with images and descriptions.<br> **Skills:** Python, Huggingface, Dataset |
 <details>
 <summary> 🔥 More Repositories </summary>
 
@@ -158,10 +157,10 @@
 
 | Name | Description |
 |------|-------------|
-| [FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab) | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface |
-| [FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit) | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit |
-| [LLM Toolkit](https://github.com/tooniez/llm-toolkit) | 🧰 A collection of prompts, tools and functions for working with LLMs.<br>**Skills:** Python, OpenAI, Tool-chain, Prompt Engineering, Function Calling, Ollama, Modelfile |
-
+| _[FastAPI Llama2 HuggingfaceHub API](https://github.com/tooniez/fastapi-llama-hub-collab)_ | 📓 Run a FastAPI server with Llama 2 model integration using Google Colab's free T4 GPU.<br>**Skills:** Python, FastAPI, Jupyter, Huggingface |
+| _[FastAPI Streamlit Stack](https://github.com/tooniez/fastapi-streamlit)_ | 📚 Full-stack application with a FastAPI backend and a Streamlit frontend.<br>**Skills:** Python, FastAPI, Streamlit |
+| _[LLM Toolkit](https://github.com/tooniez/llm-toolkit)_ | 🧰 A collection of prompts, tools and functions for working with LLMs.<br>**Skills:** Python, OpenAI, Tool-chain, Prompt Engineering, Function Calling, Ollama, Modelfile |
+| _[Streamlit Pokemon EDA](https://pokedex-production-6103.up.railway.app/)_ | 🎲 A Streamlit application with Exploratory Data Analysis (EDA) of Pokemon cards.<br>**Skills:** Python, Huggingface, Streamlit |
 
 </details>
 
