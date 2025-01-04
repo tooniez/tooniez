@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/5) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-2. 🎉 Merged PR [#1](https://github.com/tooniez/next15-ai-chatbot/pull/1) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
-3. 🎉 Merged PR [#4](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/4) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-4. 🎉 Merged PR [#2](https://github.com/tooniez/next15-ai-chatbot/pull/2) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
-5. 🎉 Merged PR [#3](https://github.com/tooniez/hello-world-chrome-extension/pull/3) in [tooniez/hello-world-chrome-extension](https://github.com/tooniez/hello-world-chrome-extension)
-6. 🎉 Merged PR [#1](https://github.com/tooniez/next-15-base/pull/1) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-7. 🎉 Merged PR [#16](https://github.com/tooniez/e2e-nightwatchjs-ts/pull/16) in [tooniez/e2e-nightwatchjs-ts](https://github.com/tooniez/e2e-nightwatchjs-ts)
-8. 🎉 Merged PR [#8](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/8) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-9. 🎉 Merged PR [#9](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/9) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-10. 🎉 Merged PR [#4](https://github.com/tooniez/expo-nextjs-base/pull/4) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+1. 🎉 Merged PR [#10](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/10) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+2. 🎉 Merged PR [#6](https://github.com/tooniez/expo-nextjs-base/pull/6) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+3. 🎉 Merged PR [#5](https://github.com/tooniez/next-starter/pull/5) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+4. 🎉 Merged PR [#3](https://github.com/tooniez/next15-ai-chatbot/pull/3) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+5. 🎉 Merged PR [#2](https://github.com/tooniez/next-15-base/pull/2) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+6. 🎉 Merged PR [#269](https://github.com/tooniez/typescript-action/pull/269) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+7. 🗣 Commented on [#269](https://github.com/tooniez/typescript-action/pull/269#issuecomment-2571177269) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+8. 🎉 Merged PR [#275](https://github.com/tooniez/typescript-action/pull/275) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+9. 🎉 Merged PR [#268](https://github.com/tooniez/typescript-action/pull/268) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+10. 🗣 Commented on [#275](https://github.com/tooniez/typescript-action/pull/275#issuecomment-2571171979) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
