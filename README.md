@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/10) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-2. 🎉 Merged PR [#6](https://github.com/tooniez/expo-nextjs-base/pull/6) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-3. 🎉 Merged PR [#5](https://github.com/tooniez/next-starter/pull/5) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
-4. 🎉 Merged PR [#3](https://github.com/tooniez/next15-ai-chatbot/pull/3) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
-5. 🎉 Merged PR [#2](https://github.com/tooniez/next-15-base/pull/2) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-6. 🎉 Merged PR [#269](https://github.com/tooniez/typescript-action/pull/269) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-7. 🗣 Commented on [#269](https://github.com/tooniez/typescript-action/pull/269#issuecomment-2571177269) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-8. 🎉 Merged PR [#275](https://github.com/tooniez/typescript-action/pull/275) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-9. 🎉 Merged PR [#268](https://github.com/tooniez/typescript-action/pull/268) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-10. 🗣 Commented on [#275](https://github.com/tooniez/typescript-action/pull/275#issuecomment-2571171979) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+1. 🎉 Merged PR [#4](https://github.com/tooniez/django-vercel/pull/4) in [tooniez/django-vercel](https://github.com/tooniez/django-vercel)
+2. 🎉 Merged PR [#286](https://github.com/tooniez/typescript-action/pull/286) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+3. 🎉 Merged PR [#287](https://github.com/tooniez/typescript-action/pull/287) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+4. 🎉 Merged PR [#288](https://github.com/tooniez/typescript-action/pull/288) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+5. 🎉 Merged PR [#289](https://github.com/tooniez/typescript-action/pull/289) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+6. 🎉 Merged PR [#290](https://github.com/tooniez/typescript-action/pull/290) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+7. 🎉 Merged PR [#10](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/10) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+8. 🎉 Merged PR [#6](https://github.com/tooniez/expo-nextjs-base/pull/6) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+9. 🎉 Merged PR [#5](https://github.com/tooniez/next-starter/pull/5) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+10. 🎉 Merged PR [#3](https://github.com/tooniez/next15-ai-chatbot/pull/3) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
