@@ -54,12 +54,12 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/7) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-2. 🎉 Merged PR [#4](https://github.com/tooniez/django-vercel/pull/4) in [tooniez/django-vercel](https://github.com/tooniez/django-vercel)
-3. 🎉 Merged PR [#286](https://github.com/tooniez/typescript-action/pull/286) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-4. 🎉 Merged PR [#287](https://github.com/tooniez/typescript-action/pull/287) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-5. 🎉 Merged PR [#288](https://github.com/tooniez/typescript-action/pull/288) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-6. 🎉 Merged PR [#289](https://github.com/tooniez/typescript-action/pull/289) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
+1. 🎉 Merged PR [#7](https://github.com/tooniez/expo-nextjs-base/pull/7) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+2. 🎉 Merged PR [#27](https://github.com/tooniez/restassured-maven-java/pull/27) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
+3. 🎉 Merged PR [#10](https://github.com/tooniez/Aspcore.ReactTemplate/pull/10) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+4. 🗣 Commented on [#9](https://github.com/tooniez/Aspcore.ReactTemplate/pull/9#issuecomment-2690040537) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+5. 🎉 Merged PR [#8](https://github.com/tooniez/Aspcore.ReactTemplate/pull/8) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+6. 🎉 Merged PR [#7](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/7) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
 7. 🎉 Merged PR [#290](https://github.com/tooniez/typescript-action/pull/290) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
 8. 🎉 Merged PR [#6](https://github.com/tooniez/expo-nextjs-base/pull/6) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
 9. 🎉 Merged PR [#5](https://github.com/tooniez/next-starter/pull/5) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
