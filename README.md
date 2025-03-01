@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/tooniez/expo-nextjs-base/pull/7) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-2. 🎉 Merged PR [#27](https://github.com/tooniez/restassured-maven-java/pull/27) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
-3. 🎉 Merged PR [#10](https://github.com/tooniez/Aspcore.ReactTemplate/pull/10) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-4. 🗣 Commented on [#9](https://github.com/tooniez/Aspcore.ReactTemplate/pull/9#issuecomment-2690040537) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-5. 🎉 Merged PR [#8](https://github.com/tooniez/Aspcore.ReactTemplate/pull/8) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-6. 🎉 Merged PR [#7](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/7) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-7. 🎉 Merged PR [#290](https://github.com/tooniez/typescript-action/pull/290) in [tooniez/typescript-action](https://github.com/tooniez/typescript-action)
-8. 🎉 Merged PR [#6](https://github.com/tooniez/expo-nextjs-base/pull/6) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-9. 🎉 Merged PR [#5](https://github.com/tooniez/next-starter/pull/5) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
-10. 🎉 Merged PR [#3](https://github.com/tooniez/next15-ai-chatbot/pull/3) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+1. 🗣 Commented on [#8](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/8#issuecomment-2692032452) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+2. 🗣 Commented on [#1](https://github.com/tooniez/openrouter-relay/issues/1#issuecomment-2692031486) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+3. 🎉 Merged PR [#3](https://github.com/tooniez/openrouter-relay/pull/3) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+4. 🎉 Merged PR [#2](https://github.com/tooniez/openrouter-relay/pull/2) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+5. ❌ Closed PR [#9](https://github.com/tooniez/n8n-ollama-agents/pull/9) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+6. 🔒 Closed issue [#6](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/issues/6) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+7. 🎉 Merged PR [#8](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/8) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+8. 💪 Opened PR [#8](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/8) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+9. 🗣 Commented on [#6](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/issues/6#issuecomment-2691977666) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+10. 🎉 Merged PR [#7](https://github.com/tooniez/expo-nextjs-base/pull/7) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
