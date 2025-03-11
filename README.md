@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/tooniez/openrouter-relay/pull/4#issuecomment-2709950244) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
-2. 🔒 Closed issue [#1](https://github.com/tooniez/openrouter-relay/issues/1) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
-3. 🎉 Merged PR [#4](https://github.com/tooniez/openrouter-relay/pull/4) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
-4. 💪 Opened PR [#4](https://github.com/tooniez/openrouter-relay/pull/4) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
-5. 🎉 Merged PR [#10](https://github.com/tooniez/n8n-ollama-agents/pull/10) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-6. 🎉 Merged PR [#7](https://github.com/tooniez/appium-framework/pull/7) in [tooniez/appium-framework](https://github.com/tooniez/appium-framework)
-7. 🎉 Merged PR [#16](https://github.com/tooniez/pact-express/pull/16) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-8. 🎉 Merged PR [#15](https://github.com/tooniez/pact-express/pull/15) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-9. 🗣 Commented on [#13](https://github.com/tooniez/artillery/pull/13#issuecomment-2696951235) in [tooniez/artillery](https://github.com/tooniez/artillery)
-10. 🎉 Merged PR [#21](https://github.com/tooniez/vuejs-typescript-cypress/pull/21) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+1. 🎉 Merged PR [#54](https://github.com/tooniez/react-email/pull/54) in [tooniez/react-email](https://github.com/tooniez/react-email)
+2. 🎉 Merged PR [#10](https://github.com/tooniez/docs-as-code-docusaurus/pull/10) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+3. 🗣 Commented on [#4](https://github.com/tooniez/openrouter-relay/pull/4#issuecomment-2709950244) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+4. 🔒 Closed issue [#1](https://github.com/tooniez/openrouter-relay/issues/1) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+5. 🎉 Merged PR [#4](https://github.com/tooniez/openrouter-relay/pull/4) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+6. 💪 Opened PR [#4](https://github.com/tooniez/openrouter-relay/pull/4) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+7. 🎉 Merged PR [#10](https://github.com/tooniez/n8n-ollama-agents/pull/10) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+8. 🎉 Merged PR [#7](https://github.com/tooniez/appium-framework/pull/7) in [tooniez/appium-framework](https://github.com/tooniez/appium-framework)
+9. 🎉 Merged PR [#16](https://github.com/tooniez/pact-express/pull/16) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+10. 🎉 Merged PR [#15](https://github.com/tooniez/pact-express/pull/15) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
