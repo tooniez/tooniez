@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/tooniez/next-15-base/pull/5) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-2. 🎉 Merged PR [#12](https://github.com/tooniez/n8n-ollama-agents/pull/12) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-3. 💪 Opened PR [#12](https://github.com/tooniez/n8n-ollama-agents/pull/12) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-4. 🎉 Merged PR [#11](https://github.com/tooniez/n8n-ollama-agents/pull/11) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-5. 💪 Opened PR [#11](https://github.com/tooniez/n8n-ollama-agents/pull/11) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-6. 🔒 Closed issue [#3](https://github.com/tooniez/next-15-base/issues/3) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-7. 🎉 Merged PR [#4](https://github.com/tooniez/next-15-base/pull/4) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-8. 💪 Opened PR [#4](https://github.com/tooniez/next-15-base/pull/4) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-9. ❗ Opened issue [#3](https://github.com/tooniez/next-15-base/issues/3) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-10. 🎉 Merged PR [#11](https://github.com/tooniez/docs-as-code-docusaurus/pull/11) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+1. 🎉 Merged PR [#4](https://github.com/tooniez/next15-ai-chatbot/pull/4) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+2. 🎉 Merged PR [#5](https://github.com/tooniez/next-15-base/pull/5) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+3. 🎉 Merged PR [#12](https://github.com/tooniez/n8n-ollama-agents/pull/12) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+4. 💪 Opened PR [#12](https://github.com/tooniez/n8n-ollama-agents/pull/12) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+5. 🎉 Merged PR [#11](https://github.com/tooniez/n8n-ollama-agents/pull/11) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+6. 💪 Opened PR [#11](https://github.com/tooniez/n8n-ollama-agents/pull/11) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+7. 🔒 Closed issue [#3](https://github.com/tooniez/next-15-base/issues/3) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+8. 🎉 Merged PR [#4](https://github.com/tooniez/next-15-base/pull/4) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+9. 💪 Opened PR [#4](https://github.com/tooniez/next-15-base/pull/4) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+10. ❗ Opened issue [#3](https://github.com/tooniez/next-15-base/issues/3) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
