@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/tooniez/Aspcore.ReactTemplate/pull/13) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-2. 🎉 Merged PR [#28](https://github.com/tooniez/restassured-maven-java/pull/28) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
-3. 🎉 Merged PR [#8](https://github.com/tooniez/appium-framework/pull/8) in [tooniez/appium-framework](https://github.com/tooniez/appium-framework)
-4. 🎉 Merged PR [#11](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/11) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-5. 🎉 Merged PR [#12](https://github.com/tooniez/Aspcore.ReactTemplate/pull/12) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-6. 🎉 Merged PR [#1](https://github.com/tooniez/theiconic-cypress/pull/1) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
-7. 🎉 Merged PR [#10](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/10) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-8. 🎉 Merged PR [#11](https://github.com/tooniez/Aspcore.ReactTemplate/pull/11) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-9. 🎉 Merged PR [#89](https://github.com/tooniez/pokeapi/pull/89) in [tooniez/pokeapi](https://github.com/tooniez/pokeapi)
-10. 🎉 Merged PR [#5](https://github.com/tooniez/next15-ai-chatbot/pull/5) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+1. 🎉 Merged PR [#11](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/11) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+2. 🎉 Merged PR [#6](https://github.com/tooniez/next15-ai-chatbot/pull/6) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+3. 🎉 Merged PR [#14](https://github.com/tooniez/docs-as-code-docusaurus/pull/14) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+4. 🎉 Merged PR [#8](https://github.com/tooniez/expo-nextjs-base/pull/8) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+5. 🎉 Merged PR [#6](https://github.com/tooniez/next-15-base/pull/6) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
+6. 🎉 Merged PR [#13](https://github.com/tooniez/Aspcore.ReactTemplate/pull/13) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+7. 🎉 Merged PR [#28](https://github.com/tooniez/restassured-maven-java/pull/28) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
+8. 🎉 Merged PR [#8](https://github.com/tooniez/appium-framework/pull/8) in [tooniez/appium-framework](https://github.com/tooniez/appium-framework)
+9. 🎉 Merged PR [#11](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/11) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+10. 🎉 Merged PR [#12](https://github.com/tooniez/Aspcore.ReactTemplate/pull/12) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
