@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/11) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-2. 🎉 Merged PR [#6](https://github.com/tooniez/next15-ai-chatbot/pull/6) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
-3. 🎉 Merged PR [#14](https://github.com/tooniez/docs-as-code-docusaurus/pull/14) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-4. 🎉 Merged PR [#8](https://github.com/tooniez/expo-nextjs-base/pull/8) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-5. 🎉 Merged PR [#6](https://github.com/tooniez/next-15-base/pull/6) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-6. 🎉 Merged PR [#13](https://github.com/tooniez/Aspcore.ReactTemplate/pull/13) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-7. 🎉 Merged PR [#28](https://github.com/tooniez/restassured-maven-java/pull/28) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
-8. 🎉 Merged PR [#8](https://github.com/tooniez/appium-framework/pull/8) in [tooniez/appium-framework](https://github.com/tooniez/appium-framework)
-9. 🎉 Merged PR [#11](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/11) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-10. 🎉 Merged PR [#12](https://github.com/tooniez/Aspcore.ReactTemplate/pull/12) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+1. 🗣 Commented on [#5](https://github.com/tooniez/fastapi-streamlit/issues/5#issuecomment-2779892263) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+2. ❗ Opened issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+3. 🔒 Closed issue [#3](https://github.com/tooniez/fastapi-streamlit/issues/3) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+4. 🎉 Merged PR [#4](https://github.com/tooniez/fastapi-streamlit/pull/4) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+5. 💪 Opened PR [#4](https://github.com/tooniez/fastapi-streamlit/pull/4) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+6. ❗ Opened issue [#3](https://github.com/tooniez/fastapi-streamlit/issues/3) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+7. 🎉 Merged PR [#11](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/11) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+8. 🎉 Merged PR [#6](https://github.com/tooniez/next15-ai-chatbot/pull/6) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+9. 🎉 Merged PR [#14](https://github.com/tooniez/docs-as-code-docusaurus/pull/14) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+10. 🎉 Merged PR [#8](https://github.com/tooniez/expo-nextjs-base/pull/8) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
