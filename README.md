@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-2. 🎉 Merged PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-3. 💪 Opened PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-4. ❗ Opened issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-5. 🗣 Commented on [#5](https://github.com/tooniez/fastapi-streamlit/issues/5#issuecomment-2779892263) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-6. ❗ Opened issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-7. 🔒 Closed issue [#3](https://github.com/tooniez/fastapi-streamlit/issues/3) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-8. 🎉 Merged PR [#4](https://github.com/tooniez/fastapi-streamlit/pull/4) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-9. 💪 Opened PR [#4](https://github.com/tooniez/fastapi-streamlit/pull/4) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-10. ❗ Opened issue [#3](https://github.com/tooniez/fastapi-streamlit/issues/3) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+1. 🎉 Merged PR [#12](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/12) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+2. 🎉 Merged PR [#14](https://github.com/tooniez/Aspcore.ReactTemplate/pull/14) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+3. 🔒 Closed issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+4. 🎉 Merged PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+5. 💪 Opened PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+6. ❗ Opened issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+7. 🗣 Commented on [#5](https://github.com/tooniez/fastapi-streamlit/issues/5#issuecomment-2779892263) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+8. ❗ Opened issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+9. 🔒 Closed issue [#3](https://github.com/tooniez/fastapi-streamlit/issues/3) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+10. 🎉 Merged PR [#4](https://github.com/tooniez/fastapi-streamlit/pull/4) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
