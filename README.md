@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/tooniez/expo-nextjs-base/pull/11) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-2. 🎉 Merged PR [#10](https://github.com/tooniez/expo-nextjs-base/pull/10) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-3. 🎉 Merged PR [#9](https://github.com/tooniez/expo-nextjs-base/pull/9) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-4. 🎉 Merged PR [#12](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/12) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-5. 🎉 Merged PR [#14](https://github.com/tooniez/Aspcore.ReactTemplate/pull/14) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-6. 🔒 Closed issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-7. 🎉 Merged PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-8. 💪 Opened PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-9. ❗ Opened issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-10. 🗣 Commented on [#5](https://github.com/tooniez/fastapi-streamlit/issues/5#issuecomment-2779892263) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+1. 🗣 Commented on [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2#issuecomment-2781704255) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+2. 🎉 Merged PR [#11](https://github.com/tooniez/expo-nextjs-base/pull/11) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+3. 🎉 Merged PR [#10](https://github.com/tooniez/expo-nextjs-base/pull/10) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+4. 🎉 Merged PR [#9](https://github.com/tooniez/expo-nextjs-base/pull/9) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+5. 🎉 Merged PR [#12](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/12) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+6. 🎉 Merged PR [#14](https://github.com/tooniez/Aspcore.ReactTemplate/pull/14) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+7. 🔒 Closed issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+8. 🎉 Merged PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+9. 💪 Opened PR [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+10. ❗ Opened issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
