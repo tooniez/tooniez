@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/tooniez/docs-as-code-docusaurus/pull/13) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-2. 🎉 Merged PR [#12](https://github.com/tooniez/docs-as-code-docusaurus/pull/12) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-3. 🎉 Merged PR [#15](https://github.com/tooniez/docs-as-code-docusaurus/pull/15) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-4. 🗣 Commented on [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2#issuecomment-2781704255) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-5. 🎉 Merged PR [#11](https://github.com/tooniez/expo-nextjs-base/pull/11) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-6. 🎉 Merged PR [#10](https://github.com/tooniez/expo-nextjs-base/pull/10) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-7. 🎉 Merged PR [#9](https://github.com/tooniez/expo-nextjs-base/pull/9) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-8. 🎉 Merged PR [#12](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/12) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-9. 🎉 Merged PR [#14](https://github.com/tooniez/Aspcore.ReactTemplate/pull/14) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-10. 🔒 Closed issue [#1](https://github.com/tcubed-group/awesome-static-sites/issues/1) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+1. 🎉 Merged PR [#5](https://github.com/testified-oss/pytest-api-testing/pull/5) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+2. 🎉 Merged PR [#13](https://github.com/tooniez/docs-as-code-docusaurus/pull/13) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+3. 🎉 Merged PR [#12](https://github.com/tooniez/docs-as-code-docusaurus/pull/12) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+4. 🎉 Merged PR [#15](https://github.com/tooniez/docs-as-code-docusaurus/pull/15) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+5. 🗣 Commented on [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2#issuecomment-2781704255) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
+6. 🎉 Merged PR [#11](https://github.com/tooniez/expo-nextjs-base/pull/11) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+7. 🎉 Merged PR [#10](https://github.com/tooniez/expo-nextjs-base/pull/10) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+8. 🎉 Merged PR [#9](https://github.com/tooniez/expo-nextjs-base/pull/9) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+9. 🎉 Merged PR [#12](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/12) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+10. 🎉 Merged PR [#14](https://github.com/tooniez/Aspcore.ReactTemplate/pull/14) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
