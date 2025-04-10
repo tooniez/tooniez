@@ -72,7 +72,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP Servers Explained: Your Gateway to AI-Powered Development](https://tooniez-land.vercel.app/post/aiml-llm-mcp-servers/)
-- [Agile Test Strategy for Snowflake Data Migration](https://tooniez-land.vercel.app/post/qa-snowflake-ts/)
+- [Dynamic Testing Tactics for Snowflake Data Migrations](https://tooniez-land.vercel.app/post/qa-snowflake-ts/)
 - [Agile Test Strategy for Workato Automation](https://tooniez-land.vercel.app/post/qa-workato-ts/)
 - [Setting up a Hugging Face Dataset: A Step-by-Step Guide](https://tooniez-land.vercel.app/post/aiml-huggingface-dataset-setup/)
 - [Documentation as Code: Empowering DevOps with Modern Tools](https://tooniez-land.vercel.app/post/devops-docs-as-code/)
