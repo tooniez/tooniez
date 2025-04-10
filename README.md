@@ -72,6 +72,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP Servers Explained: Your Gateway to AI-Powered Development](https://tooniez-land.vercel.app/post/aiml-llm-mcp-servers/)
+- [Agile Test Strategy for Snowflake Data Migration](https://tooniez-land.vercel.app/post/qa-snowflake-ts/)
 - [Agile Test Strategy for Workato Automation](https://tooniez-land.vercel.app/post/qa-workato-ts/)
 - [Setting up a Hugging Face Dataset: A Step-by-Step Guide](https://tooniez-land.vercel.app/post/aiml-huggingface-dataset-setup/)
 - [Documentation as Code: Empowering DevOps with Modern Tools](https://tooniez-land.vercel.app/post/devops-docs-as-code/)
@@ -80,7 +81,6 @@
 - [Building Powerful Language AI Applications with Langchain](https://tooniez-land.vercel.app/post/aiml-langchain-setup/)
 - [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 - [Which Python Vector Datastore for Your AI Application](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
-- [Mastering Gherkin: Best Practices and Examples for Effective BDD](https://tooniez-land.vercel.app/post/qa-gherkin-principles/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🌱 Recent Works</h2>
