@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-2. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-3. 🎉 Merged PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-4. 💪 Opened PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-5. 🎉 Merged PR [#1](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/1) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-6. 🔒 Closed issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-7. 🎉 Merged PR [#6](https://github.com/tooniez/fastapi-streamlit/pull/6) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-8. 💪 Opened PR [#6](https://github.com/tooniez/fastapi-streamlit/pull/6) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
-9. 🎉 Merged PR [#13](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/13) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-10. ❗ Opened issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+1. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+2. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+4. 🎉 Merged PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+5. 💪 Opened PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+6. 🎉 Merged PR [#1](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/1) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+7. 🔒 Closed issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+8. 🎉 Merged PR [#6](https://github.com/tooniez/fastapi-streamlit/pull/6) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+9. 💪 Opened PR [#6](https://github.com/tooniez/fastapi-streamlit/pull/6) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+10. 🎉 Merged PR [#13](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/13) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
