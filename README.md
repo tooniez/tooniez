@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/tooniez/Aspcore.ReactTemplate/pull/15) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
-2. 🎉 Merged PR [#2](https://github.com/testified-oss/bdd-behave-python/pull/2) in [testified-oss/bdd-behave-python](https://github.com/testified-oss/bdd-behave-python)
-3. 🎉 Merged PR [#1](https://github.com/testified-oss/bdd-behave-python/pull/1) in [testified-oss/bdd-behave-python](https://github.com/testified-oss/bdd-behave-python)
-4. 🎉 Merged PR [#5](https://github.com/testified-oss/pytest-api-testing/pull/5) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-5. 🎉 Merged PR [#13](https://github.com/tooniez/docs-as-code-docusaurus/pull/13) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-6. 🎉 Merged PR [#12](https://github.com/tooniez/docs-as-code-docusaurus/pull/12) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-7. 🎉 Merged PR [#15](https://github.com/tooniez/docs-as-code-docusaurus/pull/15) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-8. 🗣 Commented on [#2](https://github.com/tcubed-group/awesome-static-sites/pull/2#issuecomment-2781704255) in [tcubed-group/awesome-static-sites](https://github.com/tcubed-group/awesome-static-sites)
-9. 🎉 Merged PR [#11](https://github.com/tooniez/expo-nextjs-base/pull/11) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-10. 🎉 Merged PR [#10](https://github.com/tooniez/expo-nextjs-base/pull/10) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+1. 🎉 Merged PR [#1](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/1) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+2. 🔒 Closed issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+3. 🎉 Merged PR [#6](https://github.com/tooniez/fastapi-streamlit/pull/6) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+4. 💪 Opened PR [#6](https://github.com/tooniez/fastapi-streamlit/pull/6) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+5. 🎉 Merged PR [#13](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/13) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+6. ❗ Opened issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+7. 🎉 Merged PR [#15](https://github.com/tooniez/Aspcore.ReactTemplate/pull/15) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
+8. 🎉 Merged PR [#2](https://github.com/testified-oss/bdd-behave-python/pull/2) in [testified-oss/bdd-behave-python](https://github.com/testified-oss/bdd-behave-python)
+9. 🎉 Merged PR [#1](https://github.com/testified-oss/bdd-behave-python/pull/1) in [testified-oss/bdd-behave-python](https://github.com/testified-oss/bdd-behave-python)
+10. 🎉 Merged PR [#5](https://github.com/testified-oss/pytest-api-testing/pull/5) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
