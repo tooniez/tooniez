@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/tcubed-group/terraform-gcp-pihole/pull/4) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-2. 🎉 Merged PR [#3](https://github.com/tcubed-group/terraform-gcp-pihole/pull/3) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-3. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-4. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-5. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-6. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-7. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-8. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-9. 🎉 Merged PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-10. 💪 Opened PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+1. 🎉 Merged PR [#2](https://github.com/tcubed-group/fastapi-streamlit/pull/2) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+2. 🎉 Merged PR [#3](https://github.com/tcubed-group/fastapi-streamlit/pull/3) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🎉 Merged PR [#4](https://github.com/tcubed-group/terraform-gcp-pihole/pull/4) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+4. 🎉 Merged PR [#3](https://github.com/tcubed-group/terraform-gcp-pihole/pull/3) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+5. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+6. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+7. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+8. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+9. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+10. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
