@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-2. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-3. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-4. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-5. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-6. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-7. 🎉 Merged PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-8. 💪 Opened PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-9. 🎉 Merged PR [#1](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/1) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-10. 🔒 Closed issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+1. 🎉 Merged PR [#4](https://github.com/tcubed-group/terraform-gcp-pihole/pull/4) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+2. 🎉 Merged PR [#3](https://github.com/tcubed-group/terraform-gcp-pihole/pull/3) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+3. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+4. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+5. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+6. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+7. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+8. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+9. 🎉 Merged PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+10. 💪 Opened PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
