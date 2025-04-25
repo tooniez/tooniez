@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Get latest tooniez blog
 on:
   schedule: # Run workflow automatically
     - cron: '30 18 * * *'
@@ -18,5 +18,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://tooniez-land.vercel.app/rss.xml"
+          feed_list: "https://tooniez.tcubed.group/rss.xml"
           max_post_count: 10
+          comment_tag_name: TOONIEZ-POST-LIST

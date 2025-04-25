@@ -70,7 +70,9 @@
 
 <!-- ### 💡 Blog posts -->
 
-<!-- BLOG-POST-LIST:START -->
+### My Personal Posts
+
+<!-- TOONIEZ-POST-LIST:START -->
 - [MCP Servers Explained: Your Gateway to AI-Powered Development](https://tooniez-land.vercel.app/post/aiml-llm-mcp-servers/)
 - [Dynamic Testing Tactics for Snowflake Data Migrations](https://tooniez-land.vercel.app/post/qa-snowflake-ts/)
 - [Agile Test Strategy for Workato Automation](https://tooniez-land.vercel.app/post/qa-workato-ts/)
@@ -81,7 +83,12 @@
 - [Building Powerful Language AI Applications with Langchain](https://tooniez-land.vercel.app/post/aiml-langchain-setup/)
 - [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez-land.vercel.app/post/aiml-ollama-setup/)
 - [Which Python Vector Datastore for Your AI Application](https://tooniez-land.vercel.app/post/aiml-python-vectordb-comparison/)
-<!-- BLOG-POST-LIST:END -->
+<!-- TOONIEZ-POST-LIST:END -->
+
+### Testified Posts
+
+<!-- TESTIFIED-POST-LIST:START -->
+<!-- TESTIFIED-POST-LIST:END -->
 
 <h2 align="center">🌱 Recent Works</h2>
 

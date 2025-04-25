@@ -1,0 +1,23 @@
+name: Get latest testified blog
+on:
+  schedule: # Run workflow automatically
+    - cron: '30 18 * * *'
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-testified-posts:
+    name: Update posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://testified.tcubed.group/rss.xml"
+          max_post_count: 10
+          comment_tag_name: TESTIFIED-POST-LIST
