@@ -88,6 +88,12 @@
 ### Testified Posts
 
 <!-- TESTIFIED-POST-LIST:START -->
+- [Building Effective Automated Testing Strategies](https://testified.tcubed.group/blog/automated-testing-strategies)
+- [Modern DevOps and SRE Practices for Scalable Systems](https://testified.tcubed.group/blog/modern-devops-practices)
+- [Transforming Business Efficiency Through Intelligent Automation](https://testified.tcubed.group/blog/automation-workflow-efficiency)
+- [Recent Advancements in AI Research for Business Applications](https://testified.tcubed.group/blog/ai-research-advancements)
+- [Introduction to Modern Quality Assurance Practices](https://testified.tcubed.group/blog/introduction-to-quality-assurance)
+- [DevOps for Startups: Building a Scalable Foundation](https://testified.tcubed.group/blog/devops-for-startups)
 <!-- TESTIFIED-POST-LIST:END -->
 
 <h2 align="center">🌱 Recent Works</h2>
