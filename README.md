@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-2. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-3. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-4. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-5. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-6. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-7. 🎉 Merged PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-8. 💪 Opened PR [#2](https://github.com/tcubed-group/terraform-gcp-pihole/pull/2) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-9. 🎉 Merged PR [#1](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/1) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-10. 🔒 Closed issue [#5](https://github.com/tooniez/fastapi-streamlit/issues/5) in [tooniez/fastapi-streamlit](https://github.com/tooniez/fastapi-streamlit)
+1. 🎉 Merged PR [#2](https://github.com/tcubed-group/fastapi-streamlit/pull/2) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+2. 🎉 Merged PR [#3](https://github.com/tcubed-group/fastapi-streamlit/pull/3) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🎉 Merged PR [#4](https://github.com/tcubed-group/terraform-gcp-pihole/pull/4) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+4. 🎉 Merged PR [#3](https://github.com/tcubed-group/terraform-gcp-pihole/pull/3) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+5. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+6. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+7. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+8. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+9. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+10. 🔒 Closed issue [#1](https://github.com/tcubed-group/terraform-gcp-pihole/issues/1) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
@@ -301,40 +301,40 @@ TODO: add packages here
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,927 Contributions in the Year 2025
+> 🏆 3,450 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 367 Public Repositories 
+> 📜 368 Public Repositories 
  > 
-> 🔑 200 Private Repositories 
+> 🔑 204 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9467 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌆 Daytime                7541 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌃 Evening                6582 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-🌙 Night                  5593 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌞 Morning                9430 commits        ████████░░░░░░░░░░░░░░░░░   33.36 % 
+🌆 Daytime                7054 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+🌃 Evening                6252 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+🌙 Night                  5531 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4420 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  4975 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                3961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 4100 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   3399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Saturday                 3983 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   4345 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Monday                   3933 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Tuesday                  4643 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                3850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Thursday                 4096 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   3489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Saturday                 3986 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Sunday                   4270 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 ```
 
 
@@ -344,35 +344,33 @@ Sunday                   4345 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-sh                       17 hrs 1 min        ████████████████████████░   97.16 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-conf                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+sh                       10 hrs 46 mins      █████████████████████████   99.20 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Zsh                      17 hrs 1 min        ████████████████████████░   97.16 % 
-Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Zsh                      10 hrs 46 mins      █████████████████████████   99.20 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-Terminal                 5 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.40 % 
-Saas-landing-page-main   3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-dotfiles                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-pytest-api-testing       1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-notez                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+convex-quotes            3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+motiv8-app               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+hw-collection-app        1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+agentictrader-dash       1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Terminal                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-Mac                      17 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               93 repos            ██████████░░░░░░░░░░░░░░░   38.11 % 
-Python                   39 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-JavaScript               24 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Astro                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-MDX                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+TypeScript               98 repos            ██████████░░░░░░░░░░░░░░░   39.36 % 
+Python                   39 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+JavaScript               24 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Astro                    15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+MDX                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 
@@ -382,7 +380,7 @@ MDX                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 18:56:17 UTC
+ Last Updated on 24/04/2025 18:53:16 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
