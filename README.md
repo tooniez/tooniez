@@ -88,6 +88,14 @@
 ### TCubed Posts
 
 <!-- TCUBED-POST-LIST:START -->
+- [Modern Web Development: Trends and Technologies Shaping Digital Experiences in 2024](https://tcubed.group/blog/modern-web-development-trends)
+- [Modern Cybersecurity: Protecting Business Assets in an Evolving Threat Landscape](https://tcubed.group/blog/cybersecurity-business-protection)
+- [Data Analytics: Transforming Healthcare Delivery and Patient Outcomes](https://tcubed.group/blog/data-analytics-healthcare-transformation)
+- [How Mobile Apps Are Transforming Education in 2024](https://tcubed.group/blog/mobile-apps-transforming-education)
+- [SaaS Solutions Driving Healthcare Innovation in 2024](https://tcubed.group/blog/saas-solutions-healthcare-innovation)
+- [Mobile Apps: Driving Innovation in Education for 2024 and Beyond](https://tcubed.group/blog/mobile-apps-education-innovation)
+- [E-commerce Solutions for Local Business Growth in 2024](https://tcubed.group/blog/ecommerce-local-business-growth)
+- [Recent Advancements in AI Research for Business Applications](https://tcubed.group/blog/ai-research-advancements)
 <!-- TCUBED-POST-LIST:END -->
 
 ### Testified Posts
