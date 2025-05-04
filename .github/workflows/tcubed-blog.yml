@@ -1,4 +1,4 @@
-name: Get latest tooniez blog
+name: Get latest tcubed blog
 on:
   schedule: # Run workflow automatically
     - cron: '30 18 * * *'
@@ -7,7 +7,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-tooniez-posts:
+  update-tcubed-posts:
     name: Update posts
     runs-on: ubuntu-latest
     permissions:
@@ -18,6 +18,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://tooniez.tcubed.group/rss.xml"
+          feed_list: "https://tcubed.group/rss.xml"
           max_post_count: 10
-          comment_tag_name: TOONIEZ-POST-LIST
+          comment_tag_name: TCUBED-POST-LIST

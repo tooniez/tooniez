@@ -1,4 +1,4 @@
-name: Update README
+name: Update GH Activity
 on:
   workflow_dispatch:
   schedule:
@@ -6,7 +6,7 @@ on:
     - cron: '0 */2 * * *'
 
 jobs:
-  build:
+  update-activity:
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
     permissions:
