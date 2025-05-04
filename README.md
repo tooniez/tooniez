@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/2) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-2. 🎉 Merged PR [#2](https://github.com/tcubed-group/fastapi-streamlit/pull/2) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-3. 🎉 Merged PR [#3](https://github.com/tcubed-group/fastapi-streamlit/pull/3) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-4. 🎉 Merged PR [#4](https://github.com/tcubed-group/terraform-gcp-pihole/pull/4) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-5. 🎉 Merged PR [#3](https://github.com/tcubed-group/terraform-gcp-pihole/pull/3) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
-6. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-7. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-8. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-9. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-10. ❗ Opened issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+1. ❗ Opened issue [#1](https://github.com/tcubed-group/cloudflared-ollama/issues/1) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
+2. 🎉 Merged PR [#2](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/2) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+3. 🎉 Merged PR [#2](https://github.com/tcubed-group/fastapi-streamlit/pull/2) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+4. 🎉 Merged PR [#3](https://github.com/tcubed-group/fastapi-streamlit/pull/3) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+5. 🎉 Merged PR [#4](https://github.com/tcubed-group/terraform-gcp-pihole/pull/4) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+6. 🎉 Merged PR [#3](https://github.com/tcubed-group/terraform-gcp-pihole/pull/3) in [tcubed-group/terraform-gcp-pihole](https://github.com/tcubed-group/terraform-gcp-pihole)
+7. 🗣 Commented on [#3](https://github.com/testified-oss/pytest-api-testing/issues/3#issuecomment-2798882987) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+8. 🎉 Merged PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+9. 💪 Opened PR [#1](https://github.com/testified-oss/awesome-testing-resources/pull/1) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+10. 🗣 Commented on [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1#issuecomment-2798802390) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
