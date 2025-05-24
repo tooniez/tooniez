@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/tooniez/django-vercel/pull/5) in [tooniez/django-vercel](https://github.com/tooniez/django-vercel)
-2. 🗣 Commented on [#1](https://github.com/testified-oss/pdf-autofill/issues/1#issuecomment-2849238909) in [testified-oss/pdf-autofill](https://github.com/testified-oss/pdf-autofill)
-3. ❗ Opened issue [#1](https://github.com/testified-oss/pdf-autofill/issues/1) in [testified-oss/pdf-autofill](https://github.com/testified-oss/pdf-autofill)
-4. 🗣 Commented on [#2](https://github.com/tcubed-group/cloudflared-ollama/pull/2#issuecomment-2849171508) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
-5. 🗣 Commented on [#1](https://github.com/tcubed-group/cloudflared-ollama/issues/1#issuecomment-2849171334) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
-6. 🔒 Closed issue [#1](https://github.com/tcubed-group/cloudflared-ollama/issues/1) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
-7. 🎉 Merged PR [#2](https://github.com/tcubed-group/cloudflared-ollama/pull/2) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
-8. 💪 Opened PR [#2](https://github.com/tcubed-group/cloudflared-ollama/pull/2) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
-9. ❗ Opened issue [#1](https://github.com/tcubed-group/cloudflared-ollama/issues/1) in [tcubed-group/cloudflared-ollama](https://github.com/tcubed-group/cloudflared-ollama)
-10. 🎉 Merged PR [#2](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/2) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+1. 🎉 Merged PR [#22](https://github.com/tooniez/vuejs-typescript-cypress/pull/22) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+2. 🎉 Merged PR [#1](https://github.com/tooniez/supertest-cucumber-ts/pull/1) in [tooniez/supertest-cucumber-ts](https://github.com/tooniez/supertest-cucumber-ts)
+3. 🎉 Merged PR [#17](https://github.com/tooniez/pact-express/pull/17) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+4. 🎉 Merged PR [#6](https://github.com/tooniez/theiconic-cypress/pull/6) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+5. 🎉 Merged PR [#29](https://github.com/tooniez/restassured-maven-java/pull/29) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
+6. 🎉 Merged PR [#3](https://github.com/tooniez/nextjs-supabase-auth/pull/3) in [tooniez/nextjs-supabase-auth](https://github.com/tooniez/nextjs-supabase-auth)
+7. 🎉 Merged PR [#5](https://github.com/tooniez/openrouter-relay/pull/5) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+8. 🎉 Merged PR [#12](https://github.com/tooniez/expo-nextjs-base/pull/12) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
+9. 🎉 Merged PR [#9](https://github.com/tooniez/appium-framework/pull/9) in [tooniez/appium-framework](https://github.com/tooniez/appium-framework)
+10. 🎉 Merged PR [#16](https://github.com/tooniez/Aspcore.ReactTemplate/pull/16) in [tooniez/Aspcore.ReactTemplate](https://github.com/tooniez/Aspcore.ReactTemplate)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
