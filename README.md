@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/tooniez/openrouter-relay/pull/6) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
-2. 🎉 Merged PR [#18](https://github.com/tooniez/pact-express/pull/18) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-3. 🎉 Merged PR [#23](https://github.com/tooniez/vuejs-typescript-cypress/pull/23) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-4. 🎉 Merged PR [#14](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/14) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-5. 🎉 Merged PR [#22](https://github.com/tooniez/vuejs-typescript-cypress/pull/22) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-6. 🎉 Merged PR [#1](https://github.com/tooniez/supertest-cucumber-ts/pull/1) in [tooniez/supertest-cucumber-ts](https://github.com/tooniez/supertest-cucumber-ts)
-7. 🎉 Merged PR [#17](https://github.com/tooniez/pact-express/pull/17) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-8. 🎉 Merged PR [#6](https://github.com/tooniez/theiconic-cypress/pull/6) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
-9. 🎉 Merged PR [#29](https://github.com/tooniez/restassured-maven-java/pull/29) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
-10. 🎉 Merged PR [#3](https://github.com/tooniez/nextjs-supabase-auth/pull/3) in [tooniez/nextjs-supabase-auth](https://github.com/tooniez/nextjs-supabase-auth)
+1. 🎉 Merged PR [#30](https://github.com/tooniez/restassured-maven-java/pull/30) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
+2. 🎉 Merged PR [#6](https://github.com/tooniez/openrouter-relay/pull/6) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+3. 🎉 Merged PR [#18](https://github.com/tooniez/pact-express/pull/18) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+4. 🎉 Merged PR [#23](https://github.com/tooniez/vuejs-typescript-cypress/pull/23) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+5. 🎉 Merged PR [#14](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/14) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+6. 🎉 Merged PR [#22](https://github.com/tooniez/vuejs-typescript-cypress/pull/22) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+7. 🎉 Merged PR [#1](https://github.com/tooniez/supertest-cucumber-ts/pull/1) in [tooniez/supertest-cucumber-ts](https://github.com/tooniez/supertest-cucumber-ts)
+8. 🎉 Merged PR [#17](https://github.com/tooniez/pact-express/pull/17) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+9. 🎉 Merged PR [#6](https://github.com/tooniez/theiconic-cypress/pull/6) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+10. 🎉 Merged PR [#29](https://github.com/tooniez/restassured-maven-java/pull/29) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
