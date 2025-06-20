@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/testified-oss/pytest-api-testing/pull/7) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-2. 🎉 Merged PR [#6](https://github.com/testified-oss/pytest-api-testing/pull/6) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-3. 🎉 Merged PR [#3](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/3) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-4. 🎉 Merged PR [#3](https://github.com/tooniez/behave-bdd-python/pull/3) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-5. 🎉 Merged PR [#30](https://github.com/tooniez/restassured-maven-java/pull/30) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
-6. 🎉 Merged PR [#6](https://github.com/tooniez/openrouter-relay/pull/6) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
-7. 🎉 Merged PR [#18](https://github.com/tooniez/pact-express/pull/18) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-8. 🎉 Merged PR [#23](https://github.com/tooniez/vuejs-typescript-cypress/pull/23) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-9. 🎉 Merged PR [#14](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/14) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
-10. 🎉 Merged PR [#22](https://github.com/tooniez/vuejs-typescript-cypress/pull/22) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+1. 🎉 Merged PR [#15](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/15) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+2. 🎉 Merged PR [#7](https://github.com/testified-oss/pytest-api-testing/pull/7) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+3. 🎉 Merged PR [#6](https://github.com/testified-oss/pytest-api-testing/pull/6) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+4. 🎉 Merged PR [#3](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/3) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+5. 🎉 Merged PR [#3](https://github.com/tooniez/behave-bdd-python/pull/3) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+6. 🎉 Merged PR [#30](https://github.com/tooniez/restassured-maven-java/pull/30) in [tooniez/restassured-maven-java](https://github.com/tooniez/restassured-maven-java)
+7. 🎉 Merged PR [#6](https://github.com/tooniez/openrouter-relay/pull/6) in [tooniez/openrouter-relay](https://github.com/tooniez/openrouter-relay)
+8. 🎉 Merged PR [#18](https://github.com/tooniez/pact-express/pull/18) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
+9. 🎉 Merged PR [#23](https://github.com/tooniez/vuejs-typescript-cypress/pull/23) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+10. 🎉 Merged PR [#14](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/14) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
