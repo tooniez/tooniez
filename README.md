@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/15) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+1. 🎉 Merged PR [#16](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/16) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
 2. 🎉 Merged PR [#7](https://github.com/testified-oss/pytest-api-testing/pull/7) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
 3. 🎉 Merged PR [#6](https://github.com/testified-oss/pytest-api-testing/pull/6) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
 4. 🎉 Merged PR [#3](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/3) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
