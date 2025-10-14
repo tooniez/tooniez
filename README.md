@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/tooniez/n8n-ollama-agents/pull/15) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
+1. ❌ Closed PR [#15](undefined) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
 2. 🎉 Merged PR [#2](https://github.com/testified-oss/pegats-clifx-dotnet/pull/2) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
 3. 🎉 Merged PR [#1](https://github.com/testified-oss/pegats-clifx-dotnet/pull/1) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
 4. 🎉 Merged PR [#3](https://github.com/testified-oss/dotnet-wiremock/pull/3) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
