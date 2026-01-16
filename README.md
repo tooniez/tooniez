@@ -54,14 +54,14 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-2. ℹ️ Assigned PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-3. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3760257727) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-4. 💪 Opened PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-5. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-6. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-7. 🎉 Merged PR [#3](https://github.com/tooniez/pegats-clifx-dotnet/pull/3) in [tooniez/pegats-clifx-dotnet](https://github.com/tooniez/pegats-clifx-dotnet)
-8. 🎉 Merged PR [#4](https://github.com/tooniez/pegats-clifx-dotnet/pull/4) in [tooniez/pegats-clifx-dotnet](https://github.com/tooniez/pegats-clifx-dotnet)
+1. 🔒 Closed issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+2. 🎉 Merged PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+3. ℹ️ Labeled PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+4. ℹ️ Assigned PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+5. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3760257727) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+6. 💪 Opened PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+7. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+8. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
 9. 🎉 Merged PR [#6](https://github.com/tooniez/dotnet-wiremock/pull/6) in [tooniez/dotnet-wiremock](https://github.com/tooniez/dotnet-wiremock)
 10. 🎉 Merged PR [#7](https://github.com/tooniez/dotnet-wiremock/pull/7) in [tooniez/dotnet-wiremock](https://github.com/tooniez/dotnet-wiremock)
 <!--END_SECTION:activity-->
