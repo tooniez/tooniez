@@ -54,12 +54,12 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-2. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-3. 🎉 Merged PR [#1](https://github.com/testified-oss/pegats-clifx-dotnet/pull/1) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
-4. 🎉 Merged PR [#3](https://github.com/testified-oss/dotnet-wiremock/pull/3) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
-5. 🎉 Merged PR [#2](https://github.com/testified-oss/dotnet-wiremock/pull/2) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
-6. 🎉 Merged PR [#1](https://github.com/testified-oss/dotnet-wiremock/pull/1) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
+1. ℹ️ Labeled PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+2. ℹ️ Assigned PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+3. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3760257727) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+4. 💪 Opened PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+5. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+6. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
 7. 🎉 Merged PR [#3](https://github.com/tooniez/pegats-clifx-dotnet/pull/3) in [tooniez/pegats-clifx-dotnet](https://github.com/tooniez/pegats-clifx-dotnet)
 8. 🎉 Merged PR [#4](https://github.com/tooniez/pegats-clifx-dotnet/pull/4) in [tooniez/pegats-clifx-dotnet](https://github.com/tooniez/pegats-clifx-dotnet)
 9. 🎉 Merged PR [#6](https://github.com/tooniez/dotnet-wiremock/pull/6) in [tooniez/dotnet-wiremock](https://github.com/tooniez/dotnet-wiremock)
