@@ -54,8 +54,8 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](undefined) in [tooniez/n8n-ollama-agents](https://github.com/tooniez/n8n-ollama-agents)
-2. 🎉 Merged PR [#2](https://github.com/testified-oss/pegats-clifx-dotnet/pull/2) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
+1. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+2. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
 3. 🎉 Merged PR [#1](https://github.com/testified-oss/pegats-clifx-dotnet/pull/1) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
 4. 🎉 Merged PR [#3](https://github.com/testified-oss/dotnet-wiremock/pull/3) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
 5. 🎉 Merged PR [#2](https://github.com/testified-oss/dotnet-wiremock/pull/2) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
