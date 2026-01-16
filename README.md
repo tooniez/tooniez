@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-2. 🎉 Merged PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-3. ℹ️ Labeled PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-4. ℹ️ Assigned PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-5. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3760257727) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-6. 💪 Opened PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-7. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-8. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-9. 🎉 Merged PR [#6](https://github.com/tooniez/dotnet-wiremock/pull/6) in [tooniez/dotnet-wiremock](https://github.com/tooniez/dotnet-wiremock)
-10. 🎉 Merged PR [#7](https://github.com/tooniez/dotnet-wiremock/pull/7) in [tooniez/dotnet-wiremock](https://github.com/tooniez/dotnet-wiremock)
+1. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3761924416) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+2. 🗣 Commented on [#1](https://github.com/tooniez/oh-my-opencode/issues/1#issuecomment-3761922513) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+3. 🔒 Closed issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+4. 🎉 Merged PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+5. ℹ️ Labeled PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+6. ℹ️ Assigned PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+7. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3760257727) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+8. 💪 Opened PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+9. ℹ️ Assigned issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+10. ❗ Opened issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
