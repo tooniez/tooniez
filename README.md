@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/testified-oss/agent-skills/pull/1) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-2. 💪 Opened PR [#1](https://github.com/testified-oss/agent-skills/pull/1) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-3. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3761924416) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-4. 🗣 Commented on [#1](https://github.com/tooniez/oh-my-opencode/issues/1#issuecomment-3761922513) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-5. 🔒 Closed issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-6. 🎉 Merged PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-7. ℹ️ Labeled PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-8. ℹ️ Assigned PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-9. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3760257727) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
-10. 💪 Opened PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+1. 🎉 Merged PR [#3](https://github.com/testified-oss/agent-skills/pull/3) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+2. 💪 Opened PR [#3](https://github.com/testified-oss/agent-skills/pull/3) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+3. 🎉 Merged PR [#2](https://github.com/testified-oss/agent-skills/pull/2) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+4. 💪 Opened PR [#2](https://github.com/testified-oss/agent-skills/pull/2) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+5. 🎉 Merged PR [#1](https://github.com/testified-oss/agent-skills/pull/1) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+6. 💪 Opened PR [#1](https://github.com/testified-oss/agent-skills/pull/1) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+7. 🗣 Commented on [#3](https://github.com/tooniez/oh-my-opencode/pull/3#issuecomment-3761924416) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+8. 🗣 Commented on [#1](https://github.com/tooniez/oh-my-opencode/issues/1#issuecomment-3761922513) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+9. 🔒 Closed issue [#1](https://github.com/tooniez/oh-my-opencode/issues/1) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
+10. 🎉 Merged PR [#3](https://github.com/tooniez/oh-my-opencode/pull/3) in [tooniez/oh-my-opencode](https://github.com/tooniez/oh-my-opencode)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
