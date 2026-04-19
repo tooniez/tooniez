@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1#issuecomment-4276709716) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-2. 💪 Opened PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-3. 🗣 Commented on [#2](https://github.com/testified-oss/locust-terraform-aws/pull/2#issuecomment-4276656018) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
-4. 💪 Opened PR [#2](https://github.com/testified-oss/locust-terraform-aws/pull/2) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
-5. ❗ Opened issue [#2](https://github.com/testified-oss/devcontainer-base/issues/2) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
-6. 🗣 Commented on [#6](https://github.com/testified-oss/behave-bdd-python/pull/6#issuecomment-4276469594) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
-7. ❗ Opened issue [#1](https://github.com/testified-oss/locust-terraform-aws/issues/1) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
-8. ❌ Closed PR [#14](https://github.com/testified-oss/awesome-testing-resources/pull/14) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-9. 🔒 Closed issue [#1](https://github.com/testified-oss/devcontainer-base/issues/1) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
-10. 🗣 Commented on [#12](https://github.com/testified-oss/awesome-testing-resources/issues/12#issuecomment-4276407759) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+1. ❗ Opened issue [#15](https://github.com/testified-oss/pytest-api-testing/issues/15) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+2. 🗣 Commented on [#7](https://github.com/testified-oss/agent-skills/issues/7#issuecomment-4276812594) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+3. 💪 Opened PR [#8](https://github.com/testified-oss/agent-skills/pull/8) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+4. 🗣 Commented on [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2#issuecomment-4276766073) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+5. 🗣 Commented on [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1#issuecomment-4276709716) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+6. 💪 Opened PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+7. 🗣 Commented on [#2](https://github.com/testified-oss/locust-terraform-aws/pull/2#issuecomment-4276656018) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
+8. 💪 Opened PR [#2](https://github.com/testified-oss/locust-terraform-aws/pull/2) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
+9. ❗ Opened issue [#2](https://github.com/testified-oss/devcontainer-base/issues/2) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
+10. 🗣 Commented on [#6](https://github.com/testified-oss/behave-bdd-python/pull/6#issuecomment-4276469594) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
