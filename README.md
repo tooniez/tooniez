@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/testified-oss/dotnet-wiremock/issues/6#issuecomment-3796836803) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
+1. ❗ Opened issue [#3](https://github.com/testified-oss/behave-bdd-python/issues/3) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
 2. ❗ Opened issue [#6](https://github.com/testified-oss/dotnet-wiremock/issues/6) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
 3. 🎉 Merged PR [#6](https://github.com/testified-oss/agent-skills/pull/6) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
 4. 💪 Opened PR [#6](https://github.com/testified-oss/agent-skills/pull/6) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
