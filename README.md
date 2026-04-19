@@ -54,12 +54,12 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/testified-oss/behave-bdd-python/issues/3) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
-2. ❗ Opened issue [#6](https://github.com/testified-oss/dotnet-wiremock/issues/6) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
-3. 🎉 Merged PR [#6](https://github.com/testified-oss/agent-skills/pull/6) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-4. 💪 Opened PR [#6](https://github.com/testified-oss/agent-skills/pull/6) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-5. 🎉 Merged PR [#5](https://github.com/testified-oss/agent-skills/pull/5) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-6. 💪 Opened PR [#5](https://github.com/testified-oss/agent-skills/pull/5) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+1. ❗ Opened issue [#5](https://github.com/testified-oss/awesome-testing-resources/issues/5) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+2. ❗ Opened issue [#4](https://github.com/testified-oss/awesome-testing-resources/issues/4) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+3. ❗ Opened issue [#3](https://github.com/testified-oss/awesome-testing-resources/issues/3) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+4. 🗣 Commented on [#2](https://github.com/testified-oss/awesome-testing-resources/issues/2#issuecomment-4275386371) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+5. ❗ Opened issue [#2](https://github.com/testified-oss/awesome-testing-resources/issues/2) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+6. ❗ Opened issue [#3](https://github.com/testified-oss/behave-bdd-python/issues/3) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
 7. 🎉 Merged PR [#4](https://github.com/testified-oss/agent-skills/pull/4) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
 8. 💪 Opened PR [#4](https://github.com/testified-oss/agent-skills/pull/4) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
 9. 🎉 Merged PR [#3](https://github.com/testified-oss/agent-skills/pull/3) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
