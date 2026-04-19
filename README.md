@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/testified-oss/dotnet-wiremock/issues/7) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
-2. 🗣 Commented on [#4](https://github.com/testified-oss/pegats-clifx-dotnet/pull/4#issuecomment-4276297573) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
-3. 💪 Opened PR [#4](https://github.com/testified-oss/pegats-clifx-dotnet/pull/4) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
-4. ❗ Opened issue [#1](https://github.com/testified-oss/cf-worker-llm-agent/issues/1) in [testified-oss/cf-worker-llm-agent](https://github.com/testified-oss/cf-worker-llm-agent)
-5. 🗣 Commented on [#11](https://github.com/testified-oss/pytest-api-testing/pull/11#issuecomment-4276279670) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-6. 🗣 Commented on [#11](https://github.com/testified-oss/pytest-api-testing/pull/11#issuecomment-4276278160) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-7. ❗ Opened issue [#7](https://github.com/testified-oss/agent-skills/issues/7) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-8. 🗣 Commented on [#14](https://github.com/testified-oss/pytest-api-testing/pull/14#issuecomment-4276226523) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-9. ❌ Closed PR [#13](https://github.com/testified-oss/awesome-testing-resources/pull/13) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-10. 🗣 Commented on [#6](https://github.com/testified-oss/dotnet-wiremock/issues/6#issuecomment-4276202879) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
+1. 🗣 Commented on [#6](https://github.com/testified-oss/behave-bdd-python/pull/6#issuecomment-4276469594) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
+2. ❗ Opened issue [#1](https://github.com/testified-oss/locust-terraform-aws/issues/1) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
+3. ❌ Closed PR [#14](https://github.com/testified-oss/awesome-testing-resources/pull/14) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+4. 🔒 Closed issue [#1](https://github.com/testified-oss/devcontainer-base/issues/1) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
+5. 🗣 Commented on [#12](https://github.com/testified-oss/awesome-testing-resources/issues/12#issuecomment-4276407759) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+6. 💪 Opened PR [#14](https://github.com/testified-oss/awesome-testing-resources/pull/14) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+7. ❗ Opened issue [#1](https://github.com/testified-oss/devcontainer-base/issues/1) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
+8. ❗ Opened issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+9. ❌ Closed PR [#4](https://github.com/testified-oss/pegats-clifx-dotnet/pull/4) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
+10. 🎉 Merged PR [#2](https://github.com/testified-oss/cf-worker-llm-agent/pull/2) in [testified-oss/cf-worker-llm-agent](https://github.com/testified-oss/cf-worker-llm-agent)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
