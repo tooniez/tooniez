@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/testified-oss/awesome-testing-resources/issues/5#issuecomment-4275675598) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-2. ❗ Opened issue [#6](https://github.com/testified-oss/awesome-testing-resources/issues/6) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-3. 🗣 Commented on [#2](https://github.com/testified-oss/awesome-testing-resources/issues/2#issuecomment-4275609857) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-4. 🗣 Commented on [#2](https://github.com/testified-oss/awesome-testing-resources/issues/2#issuecomment-4275562060) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-5. 🗣 Commented on [#3](https://github.com/testified-oss/behave-bdd-python/issues/3#issuecomment-4275542466) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
-6. 🗣 Commented on [#3](https://github.com/testified-oss/behave-bdd-python/issues/3#issuecomment-4275531014) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
-7. ❗ Opened issue [#5](https://github.com/testified-oss/awesome-testing-resources/issues/5) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-8. ❗ Opened issue [#4](https://github.com/testified-oss/awesome-testing-resources/issues/4) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-9. ❗ Opened issue [#3](https://github.com/testified-oss/awesome-testing-resources/issues/3) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
-10. 🗣 Commented on [#2](https://github.com/testified-oss/awesome-testing-resources/issues/2#issuecomment-4275386371) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+1. 🗣 Commented on [#10](https://github.com/testified-oss/awesome-testing-resources/issues/10#issuecomment-4275880405) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+2. ❗ Opened issue [#10](https://github.com/testified-oss/awesome-testing-resources/issues/10) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+3. 🗣 Commented on [#5](https://github.com/testified-oss/behave-bdd-python/issues/5#issuecomment-4275871498) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
+4. ❗ Opened issue [#5](https://github.com/testified-oss/behave-bdd-python/issues/5) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
+5. 🔒 Closed issue [#9](https://github.com/testified-oss/awesome-testing-resources/issues/9) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+6. 🔒 Closed issue [#8](https://github.com/testified-oss/awesome-testing-resources/issues/8) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+7. 🔒 Closed issue [#6](https://github.com/testified-oss/awesome-testing-resources/issues/6) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+8. 🔒 Closed issue [#5](https://github.com/testified-oss/awesome-testing-resources/issues/5) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+9. 🔒 Closed issue [#4](https://github.com/testified-oss/awesome-testing-resources/issues/4) in [testified-oss/awesome-testing-resources](https://github.com/testified-oss/awesome-testing-resources)
+10. ❗ Opened issue [#4](https://github.com/testified-oss/behave-bdd-python/issues/4) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
