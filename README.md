@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/testified-oss/pytest-api-testing/issues/15) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-2. 🗣 Commented on [#7](https://github.com/testified-oss/agent-skills/issues/7#issuecomment-4276812594) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-3. 💪 Opened PR [#8](https://github.com/testified-oss/agent-skills/pull/8) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
-4. 🗣 Commented on [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2#issuecomment-4276766073) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-5. 🗣 Commented on [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1#issuecomment-4276709716) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-6. 💪 Opened PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-7. 🗣 Commented on [#2](https://github.com/testified-oss/locust-terraform-aws/pull/2#issuecomment-4276656018) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
-8. 💪 Opened PR [#2](https://github.com/testified-oss/locust-terraform-aws/pull/2) in [testified-oss/locust-terraform-aws](https://github.com/testified-oss/locust-terraform-aws)
-9. ❗ Opened issue [#2](https://github.com/testified-oss/devcontainer-base/issues/2) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
-10. 🗣 Commented on [#6](https://github.com/testified-oss/behave-bdd-python/pull/6#issuecomment-4276469594) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
+1. ❗ Opened issue [#5](https://github.com/testified-oss/pegats-clifx-dotnet/issues/5) in [testified-oss/pegats-clifx-dotnet](https://github.com/testified-oss/pegats-clifx-dotnet)
+2. 🗣 Commented on [#6](https://github.com/testified-oss/behave-bdd-python/pull/6#issuecomment-4277111528) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
+3. 🔒 Closed issue [#2](https://github.com/testified-oss/devcontainer-base/issues/2) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
+4. 🗣 Commented on [#1](https://github.com/testified-oss/supertest-cucumber-ts/pull/1#issuecomment-4277023010) in [testified-oss/supertest-cucumber-ts](https://github.com/testified-oss/supertest-cucumber-ts)
+5. 🗣 Commented on [#5](https://github.com/testified-oss/supertest-cucumber-ts/pull/5#issuecomment-4277017059) in [testified-oss/supertest-cucumber-ts](https://github.com/testified-oss/supertest-cucumber-ts)
+6. ❗ Opened issue [#15](https://github.com/testified-oss/pytest-api-testing/issues/15) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+7. 🗣 Commented on [#7](https://github.com/testified-oss/agent-skills/issues/7#issuecomment-4276812594) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+8. 💪 Opened PR [#8](https://github.com/testified-oss/agent-skills/pull/8) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+9. 🗣 Commented on [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2#issuecomment-4276766073) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+10. 🗣 Commented on [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1#issuecomment-4276709716) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
