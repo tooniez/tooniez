@@ -1,0 +1,10 @@
+has_open_issues=1
+has_open_prs=1
+P=17
+HEAD=fix/issue-15-verify-pytest-config
+BASE=main
+pr_followup_outcome=waiting_on_ci
+work_outcome=pr_followup
+pr_url=https://github.com/testified-oss/pytest-api-testing/pull/17
+pr_head=fix/issue-15-verify-pytest-config
+pr_diff_reviewed=true

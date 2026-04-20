@@ -1,0 +1,18 @@
+# pack-refs with: peeled fully-peeled sorted 
+0da45b62c9ce2700dce6e7e19880164d08bf3af8 refs/heads/fix/issue-15-verify-pytest-config
+b3b2c99e786b71630002a6d5b3d2400728d0cf4a refs/heads/main
+bdd02972a0fe54b0ae4d0b29540abbffa7831133 refs/pull/10/head
+c5e89e7823856079cf8b7d96602cd155dffacacb refs/pull/11/head
+42bbc51d0b3359d2dc3e4f20d88ab64767cd5d1e refs/pull/12/head
+633a2a5693453ea79239228d464731a87b5d664d refs/pull/13/head
+67d938e5f821b4208ba994bdbb8a9734e8e33d22 refs/pull/14/head
+b8a4f587d9249ee592273e7125b4302c7ac79e62 refs/pull/16/head
+0da45b62c9ce2700dce6e7e19880164d08bf3af8 refs/pull/17/head
+7cd44fd808bc2f3231bbd0b7c21e106474691ba3 refs/pull/17/merge
+997af32a9928c92b6fbf86a38010553d8298d846 refs/pull/2/head
+501a33f767fafa2a744a834eeb25a16e169f03ee refs/pull/4/head
+398c7769e716c791be96fa6d83279414ac3f61d1 refs/pull/5/head
+3f24b67e7a4deb8ec5997dbffc1d4e210c40be80 refs/pull/6/head
+8de3ae0022b1e66a7c955987ca28d3d5610bd95f refs/pull/7/head
+3729f5ce08c48b8af6a76c6e29cadd72bbe8bb1f refs/pull/8/head
+6dee2c17e2a7cacdf1671b11f641025251621b7b refs/pull/9/head

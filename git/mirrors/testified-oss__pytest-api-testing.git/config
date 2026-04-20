@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/testified-oss/pytest-api-testing.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
+[branch "fix/issue-15-verify-pytest-config"]
+	remote = origin
+	merge = refs/heads/main
+[worktree]
+	relativepath = ../wt/testified-oss__pytest-api-testing-issue-15

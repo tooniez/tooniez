@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+34c8647520b9d10b35d3f53765aff49b276106e3 refs/heads/fix-issue-12
+f4752912e588a1cd4b8cb5465eabe891319bdc07 refs/heads/fix/issue-15-pytest-config
+90cd2bb18263594cab373853c113201f06529b84 refs/heads/main
+b86712ddff757b75c076b6f408d3dc1573c20a5f refs/pull/1/head
+17eb27cd5cca9e2c93185cb870d435682152a3a4 refs/pull/2/head
+0ef0aeb7b0a3ec34d163f3e539003aa9285cbb33 refs/pull/3/head
+34c8647520b9d10b35d3f53765aff49b276106e3 refs/pull/4/head
+67005fcbf6badef4f5a7cd6c8472569b2f07b6f5 refs/pull/6/head
