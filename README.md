@@ -54,11 +54,11 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/testified-oss/cf-worker-llm-agent/pull/4) in [testified-oss/cf-worker-llm-agent](https://github.com/testified-oss/cf-worker-llm-agent)
-2. 🔒 Closed issue [#6](https://github.com/testified-oss/supertest-cucumber-ts/issues/6) in [testified-oss/supertest-cucumber-ts](https://github.com/testified-oss/supertest-cucumber-ts)
-3. 🔒 Closed issue [#15](https://github.com/testified-oss/pytest-api-testing/issues/15) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-4. 🎉 Merged PR [#17](https://github.com/testified-oss/pytest-api-testing/pull/17) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-5. 🗣 Commented on [#1](https://github.com/testified-oss/agent-skills/pull/1#issuecomment-4282700912) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+1. ❗ Opened issue [#18](https://github.com/testified-oss/pytest-api-testing/issues/18) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+2. ❌ Closed PR [#4](https://github.com/testified-oss/cf-worker-llm-agent/pull/4) in [testified-oss/cf-worker-llm-agent](https://github.com/testified-oss/cf-worker-llm-agent)
+3. 🔒 Closed issue [#6](https://github.com/testified-oss/supertest-cucumber-ts/issues/6) in [testified-oss/supertest-cucumber-ts](https://github.com/testified-oss/supertest-cucumber-ts)
+4. 🔒 Closed issue [#15](https://github.com/testified-oss/pytest-api-testing/issues/15) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+5. 🎉 Merged PR [#17](https://github.com/testified-oss/pytest-api-testing/pull/17) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
 6. 🗣 Commented on [#7](https://github.com/testified-oss/dotnet-wiremock/issues/7#issuecomment-4282597699) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
 7. 🗣 Commented on [#7](https://github.com/testified-oss/dotnet-wiremock/issues/7#issuecomment-4282575784) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
 8. 💪 Opened PR [#9](https://github.com/testified-oss/dotnet-wiremock/pull/9) in [testified-oss/dotnet-wiremock](https://github.com/testified-oss/dotnet-wiremock)
