@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-2. 🗣 Commented on [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7#issuecomment-4366323218) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-3. ❗ Opened issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-4. ❗ Opened issue [#2](https://github.com/testified-oss/cypress-e2e-sample/issues/2) in [testified-oss/cypress-e2e-sample](https://github.com/testified-oss/cypress-e2e-sample)
-5. 🗣 Commented on [#11](https://github.com/tooniez/theiconic-cypress/pull/11#issuecomment-4365898905) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
-6. 🗣 Commented on [#13](https://github.com/tooniez/theiconic-cypress/pull/13#issuecomment-4365898069) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
-7. 🗣 Commented on [#37](https://github.com/tooniez/theiconic-cypress/pull/37#issuecomment-4365894948) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
-8. ❌ Closed PR [#1](https://github.com/testified-oss/k6-grafana-influxdb/pull/1) in [testified-oss/k6-grafana-influxdb](https://github.com/testified-oss/k6-grafana-influxdb)
-9. ❌ Closed PR [#2](https://github.com/testified-oss/k6-grafana-influxdb/pull/2) in [testified-oss/k6-grafana-influxdb](https://github.com/testified-oss/k6-grafana-influxdb)
-10. 🎉 Merged PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+1. 🗣 Commented on [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7#issuecomment-4366476398) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+2. 🔒 Closed issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🗣 Commented on [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7#issuecomment-4366323218) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+4. ❗ Opened issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+5. ❗ Opened issue [#2](https://github.com/testified-oss/cypress-e2e-sample/issues/2) in [testified-oss/cypress-e2e-sample](https://github.com/testified-oss/cypress-e2e-sample)
+6. 🗣 Commented on [#11](https://github.com/tooniez/theiconic-cypress/pull/11#issuecomment-4365898905) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+7. 🗣 Commented on [#13](https://github.com/tooniez/theiconic-cypress/pull/13#issuecomment-4365898069) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+8. 🗣 Commented on [#37](https://github.com/tooniez/theiconic-cypress/pull/37#issuecomment-4365894948) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+9. ❌ Closed PR [#1](https://github.com/testified-oss/k6-grafana-influxdb/pull/1) in [testified-oss/k6-grafana-influxdb](https://github.com/testified-oss/k6-grafana-influxdb)
+10. ❌ Closed PR [#2](https://github.com/testified-oss/k6-grafana-influxdb/pull/2) in [testified-oss/k6-grafana-influxdb](https://github.com/testified-oss/k6-grafana-influxdb)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
