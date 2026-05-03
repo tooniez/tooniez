@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-2. ℹ️ Labeled issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-3. ℹ️ Labeled issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-4. 🗣 Commented on [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1#issuecomment-4365579798) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-5. ℹ️ Assigned issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-6. ℹ️ Labeled issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-7. ❗ Opened issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
-8. ℹ️ Labeled issue [#8](https://github.com/tooniez/specflow-nunit-template/issues/8) in [tooniez/specflow-nunit-template](https://github.com/tooniez/specflow-nunit-template)
-9. 🗣 Commented on [#8](https://github.com/tooniez/specflow-nunit-template/issues/8#issuecomment-4365564441) in [tooniez/specflow-nunit-template](https://github.com/tooniez/specflow-nunit-template)
-10. ℹ️ Labeled issue [#8](https://github.com/tooniez/specflow-nunit-template/issues/8) in [tooniez/specflow-nunit-template](https://github.com/tooniez/specflow-nunit-template)
+1. 🗣 Commented on [#11](https://github.com/tooniez/theiconic-cypress/pull/11#issuecomment-4365898905) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+2. 🗣 Commented on [#13](https://github.com/tooniez/theiconic-cypress/pull/13#issuecomment-4365898069) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+3. 🗣 Commented on [#37](https://github.com/tooniez/theiconic-cypress/pull/37#issuecomment-4365894948) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
+4. ❌ Closed PR [#1](https://github.com/testified-oss/k6-grafana-influxdb/pull/1) in [testified-oss/k6-grafana-influxdb](https://github.com/testified-oss/k6-grafana-influxdb)
+5. ❌ Closed PR [#2](https://github.com/testified-oss/k6-grafana-influxdb/pull/2) in [testified-oss/k6-grafana-influxdb](https://github.com/testified-oss/k6-grafana-influxdb)
+6. 🎉 Merged PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+7. 🔒 Closed issue [#1](https://github.com/testified-oss/specflow-nunit-template/issues/1) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
+8. 🗣 Commented on [#6](https://github.com/tooniez/behave-bdd-python/pull/6#issuecomment-4365830527) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+9. 🗣 Commented on [#6](https://github.com/tooniez/behave-bdd-python/pull/6#issuecomment-4365791122) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+10. 💪 Opened PR [#2](https://github.com/testified-oss/specflow-nunit-template/pull/2) in [testified-oss/specflow-nunit-template](https://github.com/testified-oss/specflow-nunit-template)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
