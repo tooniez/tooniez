@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/testified-oss/devcontainer-base/issues/5#issuecomment-4380926277) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
-2. 🔒 Closed issue [#3](https://github.com/testified-oss/restassured-maven-java/issues/3) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-3. 🎉 Merged PR [#4](https://github.com/testified-oss/restassured-maven-java/pull/4) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-4. 💪 Opened PR [#4](https://github.com/testified-oss/restassured-maven-java/pull/4) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-5. 🗣 Commented on [#3](https://github.com/testified-oss/restassured-maven-java/issues/3#issuecomment-4370723129) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-6. ❗ Opened issue [#3](https://github.com/testified-oss/restassured-maven-java/issues/3) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-7. 🎉 Merged PR [#6](https://github.com/testified-oss/behave-bdd-python/pull/6) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
-8. 🗣 Commented on [#6](https://github.com/tooniez/behave-bdd-python/pull/6#issuecomment-4370528186) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-9. 🗣 Commented on [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7#issuecomment-4366476398) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-10. 🔒 Closed issue [#1](https://github.com/tcubed-group/fastapi-streamlit/issues/1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+1. ❗ Opened issue [#1](https://github.com/tooniez/nvim_v2/issues/1) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
+2. 🗣 Commented on [#5](https://github.com/testified-oss/devcontainer-base/issues/5#issuecomment-4380926277) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
+3. 🔒 Closed issue [#3](https://github.com/testified-oss/restassured-maven-java/issues/3) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
+4. 🎉 Merged PR [#4](https://github.com/testified-oss/restassured-maven-java/pull/4) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
+5. 💪 Opened PR [#4](https://github.com/testified-oss/restassured-maven-java/pull/4) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
+6. 🗣 Commented on [#3](https://github.com/testified-oss/restassured-maven-java/issues/3#issuecomment-4370723129) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
+7. ❗ Opened issue [#3](https://github.com/testified-oss/restassured-maven-java/issues/3) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
+8. 🎉 Merged PR [#6](https://github.com/testified-oss/behave-bdd-python/pull/6) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
+9. 🗣 Commented on [#6](https://github.com/tooniez/behave-bdd-python/pull/6#issuecomment-4370528186) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+10. 🗣 Commented on [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7#issuecomment-4366476398) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
