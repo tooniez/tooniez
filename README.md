@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tooniez/nvim_v2/issues/1#issuecomment-4412928034) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
+1. 🗣 Commented on [#18](https://github.com/tooniez/expo-nextjs-base/pull/18#issuecomment-4429556157) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
 2. ❗ Opened issue [#1](https://github.com/tooniez/nvim_v2/issues/1) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
 3. 🗣 Commented on [#5](https://github.com/testified-oss/devcontainer-base/issues/5#issuecomment-4380926277) in [testified-oss/devcontainer-base](https://github.com/testified-oss/devcontainer-base)
 4. 🔒 Closed issue [#3](https://github.com/testified-oss/restassured-maven-java/issues/3) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
