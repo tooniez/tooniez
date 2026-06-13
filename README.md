@@ -54,14 +54,14 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/tooniez/supertest-cucumber-ts/pull/2#issuecomment-4555059396) in [tooniez/supertest-cucumber-ts](https://github.com/tooniez/supertest-cucumber-ts)
-2. ❗ Opened issue [#3](https://github.com/tooniez/nvim_v2/issues/3) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
-3. ❗ Opened issue [#2](https://github.com/tooniez/nvim_v2/issues/2) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
-4. 🗣 Commented on [#16](https://github.com/tooniez/expo-nextjs-base/pull/16#issuecomment-4445604425) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-5. 🗣 Commented on [#18](https://github.com/tooniez/expo-nextjs-base/pull/18#issuecomment-4429556157) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-6. 💪 Opened PR [#4](https://github.com/testified-oss/restassured-maven-java/pull/4) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-7. 🗣 Commented on [#3](https://github.com/testified-oss/restassured-maven-java/issues/3#issuecomment-4370723129) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
-8. ❗ Opened issue [#3](https://github.com/testified-oss/restassured-maven-java/issues/3) in [testified-oss/restassured-maven-java](https://github.com/testified-oss/restassured-maven-java)
+1. 🎉 Merged PR [#10](https://github.com/testified-oss/agent-skills/pull/10) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+2. 🔒 Closed issue [#9](https://github.com/testified-oss/agent-skills/issues/9) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+3. 💪 Opened PR [#10](https://github.com/testified-oss/agent-skills/pull/10) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+4. ℹ️ Assigned issue [#9](https://github.com/testified-oss/agent-skills/issues/9) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+5. ❗ Opened issue [#9](https://github.com/testified-oss/agent-skills/issues/9) in [testified-oss/agent-skills](https://github.com/testified-oss/agent-skills)
+6. 🗣 Commented on [#2](https://github.com/tooniez/supertest-cucumber-ts/pull/2#issuecomment-4555059396) in [tooniez/supertest-cucumber-ts](https://github.com/tooniez/supertest-cucumber-ts)
+7. ❗ Opened issue [#3](https://github.com/tooniez/nvim_v2/issues/3) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
+8. ❗ Opened issue [#2](https://github.com/tooniez/nvim_v2/issues/2) in [tooniez/nvim_v2](https://github.com/tooniez/nvim_v2)
 9. 🎉 Merged PR [#6](https://github.com/testified-oss/behave-bdd-python/pull/6) in [testified-oss/behave-bdd-python](https://github.com/testified-oss/behave-bdd-python)
 10. 🗣 Commented on [#6](https://github.com/tooniez/behave-bdd-python/pull/6#issuecomment-4370528186) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
 <!--END_SECTION:activity-->
