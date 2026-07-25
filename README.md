@@ -324,13 +324,15 @@ TODO: add packages here
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 9,678 Contributions in the Year 2026
+> 🏆 9,710 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -338,6 +340,54 @@ TODO: add packages here
  > 
 > 🔑 231 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                44652 commits       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌆 Daytime                37519 commits       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌃 Evening                40631 commits       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌙 Night                  29874 commits       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   23070 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Tuesday                  23695 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Wednesday                20417 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 21448 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   19586 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 21684 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Sunday                   22776 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Adelaide
+
+💬 Programming Languages: 
+sh                       5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
+TypeScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+
+🔥 Editors: 
+Zsh                      12 hrs 12 mins      █████████████████████████   99.99 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+pokedex3                 5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
+firecrawl                2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Terminal                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+private-mind             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+gardenkeeperv3           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+
+💻 Operating System: 
+Mac                      12 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -355,7 +405,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:41:53 UTC
+ Last Updated on 25/07/2026 19:38:09 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
