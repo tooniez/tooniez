@@ -332,7 +332,7 @@ TODO: add packages here
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 9,710 Contributions in the Year 2026
+> 🏆 9,743 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -343,21 +343,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44652 commits       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌆 Daytime                37519 commits       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-🌃 Evening                40631 commits       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌙 Night                  29874 commits       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+🌞 Morning                44733 commits       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌆 Daytime                37652 commits       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌃 Evening                40786 commits       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+🌙 Night                  29946 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23070 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Tuesday                  23695 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                20417 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Thursday                 21448 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   19586 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 21684 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   22776 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Monday                   23158 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  23773 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                20475 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 21483 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   19637 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 21741 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Sunday                   22850 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 
@@ -367,25 +367,23 @@ Sunday                   22776 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-sh                       5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
-TypeScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+sh                       2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.41 % 
+TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Text                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Zsh                      12 hrs 12 mins      █████████████████████████   99.99 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Zsh                      4 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pokedex3                 5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-firecrawl                2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Terminal                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-private-mind             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-gardenkeeperv3           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+pokedex3                 3 hrs 10 mins       █████████████████░░░░░░░░   66.63 % 
+firecrawl                1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Terminal                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+dotfiles                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-Mac                      12 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -405,7 +403,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:38:09 UTC
+ Last Updated on 26/07/2026 19:28:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
