@@ -324,15 +324,17 @@ TODO: add packages here
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2032%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 9,743 Contributions in the Year 2026
+> 🏆 9,776 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -343,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44733 commits       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-🌆 Daytime                37652 commits       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌃 Evening                40786 commits       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-🌙 Night                  29946 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌞 Morning                44747 commits       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌆 Daytime                37662 commits       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌃 Evening                40753 commits       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌙 Night                  29942 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23158 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  23773 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                20475 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Thursday                 21483 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   19637 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Saturday                 21741 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   22850 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Monday                   23165 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  23762 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Wednesday                20474 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 21491 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   19658 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 21719 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Sunday                   22835 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 
 
@@ -367,23 +369,22 @@ Sunday                   22850 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-sh                       2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.41 % 
-TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Text                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      4 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pokedex3                 3 hrs 10 mins       █████████████████░░░░░░░░   66.63 % 
-firecrawl                1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Terminal                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-dotfiles                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -403,7 +404,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:28:20 UTC
+ Last Updated on 27/07/2026 19:41:09 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
