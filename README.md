@@ -324,17 +324,13 @@ TODO: add packages here
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2046%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2032%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 9,776 Contributions in the Year 2026
+> 🏆 9,808 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +341,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44747 commits       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌆 Daytime                37662 commits       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌃 Evening                40753 commits       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-🌙 Night                  29942 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌞 Morning                44807 commits       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌆 Daytime                37702 commits       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌃 Evening                40882 commits       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌙 Night                  30025 commits       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23165 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Tuesday                  23762 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                20474 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Thursday                 21491 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   19658 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Saturday                 21719 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Sunday                   22835 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Monday                   23206 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  23843 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                20518 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 21526 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   19691 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 21793 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   22839 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 ```
 
 
@@ -404,7 +400,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 19:41:09 UTC
+ Last Updated on 28/07/2026 19:38:50 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
