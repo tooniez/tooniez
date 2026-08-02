@@ -324,9 +324,9 @@ TODO: add packages here
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -334,7 +334,7 @@ TODO: add packages here
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 9,984 Contributions in the Year 2026
+> 🏆 10,016 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -342,6 +342,78 @@ TODO: add packages here
  > 
 > 🔑 231 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                52796 commits       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌆 Daytime                42180 commits       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+🌃 Evening                45516 commits       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+🌙 Night                  34541 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   26271 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  26953 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Wednesday                23618 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 24629 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Friday                   22765 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 24843 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Sunday                   25954 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Adelaide
+
+💬 Programming Languages: 
+TypeScript               2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Other                    1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+
+🔥 Editors: 
+Zsh                      8 hrs 35 mins       ████████████████████████░   94.99 % 
+Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+
+🐱‍💻 Projects: 
+private-mind             7 hrs 15 mins       ████████████████████░░░░░   80.21 % 
+agent-skills             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+firecrawl                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Terminal                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 28 mins (93.54%)
+
+✍️ 1,108 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,272,694 Input Tokens, 61,027 Output Tokens
+
+💵 $16.73 Estimated AI Cost This Week
+
+🧠 55 AI Sessions, 127 AI Prompts
+
+Pi                       640 lines           █████████████████░░░░░░░░   68.09 % 
+Claude                   300 lines           ████████░░░░░░░░░░░░░░░░░   31.91 % 
+OpenCode                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -359,7 +431,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:30:12 UTC
+ Last Updated on 02/08/2026 19:29:07 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
