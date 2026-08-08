@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/testified-oss/e2e-cypress-sample/pull/8) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-2. 🗣 Commented on [#7](https://github.com/testified-oss/e2e-cypress-sample/issues/7#issuecomment-5223256209) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-3. ❗ Opened issue [#7](https://github.com/testified-oss/e2e-cypress-sample/issues/7) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-4. 🎉 Merged PR [#6](https://github.com/testified-oss/e2e-cypress-sample/pull/6) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-5. 💪 Opened PR [#6](https://github.com/testified-oss/e2e-cypress-sample/pull/6) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-6. 🎉 Merged PR [#5](https://github.com/testified-oss/e2e-cypress-sample/pull/5) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-7. 🔒 Closed issue [#4](https://github.com/testified-oss/e2e-cypress-sample/issues/4) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-8. 🗣 Commented on [#36](https://github.com/tooniez/pact-express/pull/36#issuecomment-5205441173) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
-9. 🔒 Closed issue [#1](https://github.com/testified-oss/.github/issues/1) in [testified-oss/.github](https://github.com/testified-oss/.github)
-10. 🗣 Commented on [#1](https://github.com/testified-oss/.github/issues/1#issuecomment-5150210768) in [testified-oss/.github](https://github.com/testified-oss/.github)
+1. 🎉 Merged PR [#8](https://github.com/testified-oss/e2e-cypress-sample/pull/8) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+2. 🔒 Closed issue [#7](https://github.com/testified-oss/e2e-cypress-sample/issues/7) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+3. 💪 Opened PR [#8](https://github.com/testified-oss/e2e-cypress-sample/pull/8) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+4. 🗣 Commented on [#7](https://github.com/testified-oss/e2e-cypress-sample/issues/7#issuecomment-5223256209) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+5. ❗ Opened issue [#7](https://github.com/testified-oss/e2e-cypress-sample/issues/7) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+6. 🎉 Merged PR [#6](https://github.com/testified-oss/e2e-cypress-sample/pull/6) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+7. 💪 Opened PR [#6](https://github.com/testified-oss/e2e-cypress-sample/pull/6) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+8. 🎉 Merged PR [#5](https://github.com/testified-oss/e2e-cypress-sample/pull/5) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+9. 🔒 Closed issue [#4](https://github.com/testified-oss/e2e-cypress-sample/issues/4) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+10. 🗣 Commented on [#36](https://github.com/tooniez/pact-express/pull/36#issuecomment-5205441173) in [tooniez/pact-express](https://github.com/tooniez/pact-express)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
