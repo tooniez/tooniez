@@ -334,7 +334,7 @@ TODO: add packages here
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 10,336 Contributions in the Year 2026
+> 🏆 10,400 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                54124 commits       ████████░░░░░░░░░░░░░░░░░   30.53 % 
-🌆 Daytime                42522 commits       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌃 Evening                45874 commits       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌙 Night                  34737 commits       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+🌞 Morning                54227 commits       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+🌆 Daytime                42688 commits       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+🌃 Evening                46057 commits       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌙 Night                  34802 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   26631 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  27252 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                23931 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Thursday                 24904 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   23062 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Saturday                 25190 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Sunday                   26287 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Monday                   26703 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Tuesday                  27340 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Wednesday                24041 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Thursday                 24940 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   23135 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 25254 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   26361 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -369,51 +369,49 @@ Sunday                   26287 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-sh                       3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-TypeScript               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+sh                       38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Zsh                      9 hrs 38 mins       █████████████████████░░░░   83.81 % 
-Neovim                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Neovim                   1 hr 51 mins        █████████████░░░░░░░░░░░░   51.51 % 
+Zsh                      1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.49 % 
 
 🐱‍💻 Projects: 
-dotfiles                 4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.89 % 
-pumpsmart                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-numerology101            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-workdir                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-pokedex3                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+workdir                  59 mins             ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+dotfiles                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+pokedex3                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+chore-build-tidy-node_mod24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+numerology101            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 💻 Operating System: 
-Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 29 mins (65.2%)
+⏱ AI Coding Time: 2 hrs 57 mins (81.82%)
 
-✍️ 10,004 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 498 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,746,101 Input Tokens, 94,933 Output Tokens
+🔤 4,361,920 Input Tokens, 34,482 Output Tokens
 
-💵 $18.18 Estimated AI Cost This Week
+💵 $8.17 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 297 AI Prompts
+🧠 20 AI Sessions, 68 AI Prompts
 
-Opencode-Cli             175 lines           ████████████████░░░░░░░░░   62.95 % 
-Pi                       88 lines            ████████░░░░░░░░░░░░░░░░░   31.65 % 
-OpenCode                 15 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Opencode-Cli             175 lines           █████████████████████████   100.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OpenCode                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 787 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,584 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -433,7 +431,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 20:31:39 UTC
+ Last Updated on 12/08/2026 20:22:02 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
