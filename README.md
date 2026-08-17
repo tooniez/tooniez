@@ -334,7 +334,7 @@ TODO: add packages here
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 10,531 Contributions in the Year 2026
+> 🏆 10,564 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                54261 commits       ████████░░░░░░░░░░░░░░░░░   30.50 % 
-🌆 Daytime                42725 commits       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-🌃 Evening                46088 commits       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-🌙 Night                  34828 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌞 Morning                54276 commits       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+🌆 Daytime                42748 commits       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+🌃 Evening                46131 commits       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+🌙 Night                  34845 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   26708 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  27350 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                24043 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 24967 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   23163 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 25284 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Sunday                   26387 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Monday                   26738 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Tuesday                  27357 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                24047 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Thursday                 24968 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   23168 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 25302 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   26420 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 ```
 
 
@@ -369,46 +369,46 @@ Sunday                   26387 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Markdown                 3 hrs               █████████░░░░░░░░░░░░░░░░   34.87 % 
-TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+TypeScript               2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
+Markdown                 2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 33 mins       █████████████████████████   99.14 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Neovim                   7 hrs 22 mins       █████████████████████████   99.00 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-pumpsmart                5 hrs 19 mins       ███████████████░░░░░░░░░░   61.75 % 
-workdir                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-mtg-vault                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-pi                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+pumpsmart                5 hrs 19 mins       ██████████████████░░░░░░░   71.64 % 
+cursor                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+mtg-vault                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+workdir                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+numerology101            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Mac                      8 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 38 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 26 mins (100.0%)
 
-✍️ 12,465 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,428 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,649,429 Input Tokens, 25,296 Output Tokens
+🔤 1,064,074 Input Tokens, 14,915 Output Tokens
 
-💵 $5.40 Estimated AI Cost This Week
+💵 $2.27 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 143 AI Prompts
+🧠 53 AI Sessions, 129 AI Prompts
 
-Cursor                   13,582 lines        █████████████████████████   99.87 % 
-Opencode-Cli             17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Cursor                   13,582 lines        █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 375 characters per prompt
+📝 Concise Prompter — average 269 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -430,7 +430,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 19:38:39 UTC
+ Last Updated on 17/08/2026 20:10:44 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
