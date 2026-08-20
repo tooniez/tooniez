@@ -328,13 +328,13 @@ TODO: add packages here
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 10,632 Contributions in the Year 2026
+> 🏆 10,665 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -342,77 +342,6 @@ TODO: add packages here
  > 
 > 🔑 231 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                54273 commits       ████████░░░░░░░░░░░░░░░░░   30.53 % 
-🌆 Daytime                42655 commits       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌃 Evening                46038 commits       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-🌙 Night                  34819 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   26712 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  27351 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                24012 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 24958 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   23149 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 25242 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   26361 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Adelaide
-
-💬 Programming Languages: 
-Markdown                 1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   36.89 % 
-TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-
-🔥 Editors: 
-Neovim                   3 hrs 50 mins       █████████████████████████   98.09 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-
-🐱‍💻 Projects: 
-pumpsmart                2 hrs 36 mins       █████████████████░░░░░░░░   66.89 % 
-mtg-vault                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-pi                       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-workdir                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-cursor                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-
-💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 54 mins (100.0%)
-
-✍️ 4,598 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 978,454 Input Tokens, 14,689 Output Tokens
-
-💵 $2.01 Estimated AI Cost This Week
-
-🧠 31 AI Sessions, 64 AI Prompts
-
-Cursor                   5,371 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 334 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -430,7 +359,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 20:12:50 UTC
+ Last Updated on 20/08/2026 19:52:47 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
