@@ -334,7 +334,7 @@ TODO: add packages here
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 10,955 Contributions in the Year 2026
+> 🏆 11,005 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                55483 commits       ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌆 Daytime                42729 commits       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-🌃 Evening                46133 commits       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌙 Night                  34915 commits       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌞 Morning                55505 commits       ████████░░░░░░░░░░░░░░░░░   30.94 % 
+🌆 Daytime                42750 commits       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+🌃 Evening                46181 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌙 Night                  34933 commits       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   26914 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  27580 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Wednesday                24216 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 25164 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   23342 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 25455 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   26589 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Monday                   26930 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  27637 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Wednesday                24230 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Thursday                 25171 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   23344 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 25463 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Sunday                   26594 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -369,22 +369,47 @@ Sunday                   26589 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
+TypeScript               3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Swift                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   10 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bibleverse               2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Unknown Project          1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+pokedex3                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+numerology101            1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+mtg-vault                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 hrs (83.74%)
+
+✍️ 8,667 lines written by AI, 57 lines written by hand (99.35% AI-written)
+
+🔤 2,129,149 Input Tokens, 12,322 Output Tokens
+
+💵 $2.99 Estimated AI Cost This Week
+
+🧠 70 AI Sessions, 135 AI Prompts
+
+Cursor                   9,192 lines         █████████████████████████   100.00 % 
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.35% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -404,7 +429,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:59:36 UTC
+ Last Updated on 01/09/2026 21:59:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
