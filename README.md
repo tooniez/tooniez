@@ -324,9 +324,9 @@ TODO: add packages here
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -334,7 +334,7 @@ TODO: add packages here
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 11,005 Contributions in the Year 2026
+> 🏆 11,032 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                55505 commits       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-🌆 Daytime                42750 commits       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌃 Evening                46181 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-🌙 Night                  34933 commits       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌞 Morning                55581 commits       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌆 Daytime                42800 commits       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+🌃 Evening                46241 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌙 Night                  34967 commits       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   26930 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  27637 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Wednesday                24230 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 25171 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   23344 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Saturday                 25463 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   26594 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Monday                   26956 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  27645 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Wednesday                24290 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Thursday                 25184 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   23369 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 25513 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   26632 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -369,47 +369,47 @@ Sunday                   26594 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Markdown                 4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
-TypeScript               3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Swift                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Swift                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+TSConfig                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 45 mins      █████████████████████████   100.00 % 
+Neovim                   8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bibleverse               2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Unknown Project          1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-pokedex3                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-numerology101            1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-mtg-vault                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Unknown Project          2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+pokedex3                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+numerology101            1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+bibleverse               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+mtg-vault                48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 💻 Operating System: 
-Mac                      10 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs (83.74%)
+⏱ AI Coding Time: 6 hrs 32 mins (75.41%)
 
-✍️ 8,667 lines written by AI, 57 lines written by hand (99.35% AI-written)
+✍️ 6,372 lines written by AI, 61 lines written by hand (99.05% AI-written)
 
 🔤 2,129,149 Input Tokens, 12,322 Output Tokens
 
 💵 $2.99 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 135 AI Prompts
+🧠 49 AI Sessions, 79 AI Prompts
 
-Cursor                   9,192 lines         █████████████████████████   100.00 % 
+Cursor                   6,604 lines         █████████████████████████   100.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.35% of written lines came from AI
-📝 Concise Prompter — average 217 characters per prompt
+🤖 AI-Driven — 99.05% of written lines came from AI
+📝 Concise Prompter — average 262 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -429,7 +429,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:59:05 UTC
+ Last Updated on 02/09/2026 22:14:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
