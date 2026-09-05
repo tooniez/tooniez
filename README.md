@@ -334,7 +334,7 @@ TODO: add packages here
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 11,089 Contributions in the Year 2026
+> 🏆 11,123 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                55679 commits       ████████░░░░░░░░░░░░░░░░░   30.90 % 
-🌆 Daytime                43036 commits       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌃 Evening                46436 commits       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌙 Night                  35031 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+🌞 Morning                55703 commits       ████████░░░░░░░░░░░░░░░░░   30.89 % 
+🌆 Daytime                43095 commits       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+🌃 Evening                46469 commits       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌙 Night                  35054 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   27027 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  27709 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                24377 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Thursday                 25245 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   23493 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Saturday                 25597 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Sunday                   26734 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Monday                   27028 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  27720 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                24425 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Thursday                 25251 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   23519 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Saturday                 25630 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   26748 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -369,47 +369,47 @@ Sunday                   26734 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Markdown                 3 hrs 15 mins       ██████████████░░░░░░░░░░░   55.42 % 
-TypeScript               1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Markdown                 3 hrs 14 mins       █████████████████░░░░░░░░   68.00 % 
+TypeScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Image (png)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 52 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.95 % 
-bibleverse               1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-mtg-vault                48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-lifecountdown            36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-cursor                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Unknown Project          2 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.96 % 
+bibleverse               1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+lifecountdown            36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+cursor                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+pumpsmart                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Mac                      5 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (63.75%)
+⏱ AI Coding Time: 2 hrs 38 mins (55.28%)
 
-✍️ 5,046 lines written by AI, 63 lines written by hand (98.77% AI-written)
+✍️ 3,822 lines written by AI, 63 lines written by hand (98.38% AI-written)
 
 🔤 695,488 Input Tokens, 5,544 Output Tokens
 
 💵 $0.09 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 50 AI Prompts
+🧠 21 AI Sessions, 39 AI Prompts
 
-Cursor                   5,105 lines         █████████████████████████   100.00 % 
+Cursor                   3,834 lines         █████████████████████████   100.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.77% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
+🤖 AI-Driven — 98.38% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.17% of changed lines were hand-edited
+🚀 High AI Trust — 1.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -429,7 +429,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 21:37:31 UTC
+ Last Updated on 05/09/2026 21:19:04 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
