@@ -328,13 +328,13 @@ TODO: add packages here
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 11,175 Contributions in the Year 2026
+> 🏆 11,203 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -345,21 +345,21 @@ TODO: add packages here
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                55770 commits       ████████░░░░░░░░░░░░░░░░░   30.84 % 
-🌆 Daytime                43295 commits       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-🌃 Evening                46663 commits       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌙 Night                  35119 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌞 Morning                55778 commits       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+🌆 Daytime                43301 commits       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌃 Evening                46668 commits       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+🌙 Night                  35126 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   27121 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  27799 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                24498 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Monday                   27121 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  27814 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Wednesday                24505 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 Thursday                 25281 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   23572 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 25686 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   26890 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   23573 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Saturday                 25688 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Sunday                   26891 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 ```
 
 
@@ -369,47 +369,45 @@ Sunday                   26890 commits       ████░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ████████████████████░░░░░   79.70 % 
-TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 26 mins             █████████████░░░░░░░░░░░░   51.19 % 
+TypeScript               19 mins             █████████░░░░░░░░░░░░░░░░   37.87 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Image (png)              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 45 mins       █████████████████████████   100.00 % 
+Neovim                   51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 16 mins       ███████████████░░░░░░░░░░   60.71 % 
-lifecountdown            36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-bibleverse               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-cursor                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-pumpsmart                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Unknown Project          25 mins             ████████████░░░░░░░░░░░░░   48.69 % 
+bibleverse               17 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
+numerology101            7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+lifecountdown            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 37 mins (43.29%)
+⏱ AI Coding Time: 28 mins (55.35%)
 
-✍️ 3,485 lines written by AI, 63 lines written by hand (98.22% AI-written)
+✍️ 307 lines written by AI, 6 lines written by hand (98.08% AI-written)
 
-🔤 695,488 Input Tokens, 5,544 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 23 AI Prompts
+🧠 5 AI Sessions, 12 AI Prompts
 
-Cursor                   3,477 lines         █████████████████████████   100.00 % 
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   1,108 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.22% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
+🤖 AI-Driven — 98.08% of written lines came from AI
+📝 Concise Prompter — average 354 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.69% of changed lines were hand-edited
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -429,7 +427,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tooniez/tooniez/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 22:25:36 UTC
+ Last Updated on 08/09/2026 22:04:37 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
