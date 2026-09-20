@@ -81,8 +81,8 @@
 - [CrewAI Setup: Orchestrating AI Agents for Complex Tasks](https://tooniez.tcubed.group/post/aiml-crewai-setup/)
 - [K6 Load Testing with InfluxDB and Grafana: Containerized Load Test Suite](https://tooniez.tcubed.group/post/qa-k6-grafana-influxdb/)
 - [Building Powerful Language AI Applications with Langchain](https://tooniez.tcubed.group/post/aiml-langchain-setup/)
-- [Setup Local LLM Development Environment on macOS with Ollama](https://tooniez.tcubed.group/post/aiml-ollama-setup/)
-- [Which Python Vector Datastore for Your AI Application](https://tooniez.tcubed.group/post/aiml-python-vectordb-comparison/)
+- [Building Data Pipelines with Apache Airflow, AWS Redshift, S3, and Glue](https://tooniez.tcubed.group/post/aiml-hf-pokemoncards-tcg/)
+- [Building Data Pipelines with Apache Airflow, AWS Redshift, S3, and Glue](https://tooniez.tcubed.group/post/aiml-airflow-dag-glue/)
 <!-- TOONIEZ-POST-LIST:END -->
 
 ### TCubed Posts
