@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46#issuecomment-5747572731) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-2. ℹ️ Assigned issue [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-3. ❗ Opened issue [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-4. 🗣 Commented on [#38](https://github.com/tooniez/docs-as-code-docusaurus/pull/38#issuecomment-5747544596) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-5. 🗣 Commented on [#40](https://github.com/tooniez/docs-as-code-docusaurus/pull/40#issuecomment-5747541889) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-6. 🗣 Commented on [#45](https://github.com/tooniez/docs-as-code-docusaurus/pull/45#issuecomment-5747540242) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-7. 🗣 Commented on [#41](https://github.com/tooniez/docs-as-code-docusaurus/pull/41#issuecomment-5747533691) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-8. 🗣 Commented on [#36](https://github.com/tooniez/docs-as-code-docusaurus/pull/36#issuecomment-5747532813) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-9. 🗣 Commented on [#41](https://github.com/tooniez/docs-as-code-docusaurus/pull/41#issuecomment-5747532781) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-10. 🗣 Commented on [#42](https://github.com/tooniez/docs-as-code-docusaurus/pull/42#issuecomment-5747532561) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+1. ℹ️ Assigned issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+2. ℹ️ Labeled issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+3. ❗ Opened issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+4. ℹ️ Assigned PR [#47](https://github.com/tooniez/docs-as-code-docusaurus/pull/47) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+5. 🔒 Closed issue [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+6. 🎉 Merged PR [#47](https://github.com/tooniez/docs-as-code-docusaurus/pull/47) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+7. 🗣 Commented on [#47](https://github.com/tooniez/docs-as-code-docusaurus/pull/47#issuecomment-5748382908) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+8. 💪 Opened PR [#47](https://github.com/tooniez/docs-as-code-docusaurus/pull/47) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+9. 🗣 Commented on [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46#issuecomment-5747572731) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+10. ℹ️ Assigned issue [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
