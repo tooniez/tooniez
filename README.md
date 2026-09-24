@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/testified-oss/qe-handbook-sample/pull/2) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-2. 🔒 Closed issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-3. ℹ️ Labeled PR [#2](https://github.com/testified-oss/qe-handbook-sample/pull/2) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-4. 💪 Opened PR [#2](https://github.com/testified-oss/qe-handbook-sample/pull/2) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-5. ℹ️ Assigned issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-6. ℹ️ Labeled issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-7. ❗ Opened issue [#1](https://github.com/testified-oss/qe-handbook-sample/issues/1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-8. ℹ️ Assigned PR [#47](https://github.com/tooniez/docs-as-code-docusaurus/pull/47) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-9. 🔒 Closed issue [#46](https://github.com/tooniez/docs-as-code-docusaurus/issues/46) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
-10. 🎉 Merged PR [#47](https://github.com/tooniez/docs-as-code-docusaurus/pull/47) in [tooniez/docs-as-code-docusaurus](https://github.com/tooniez/docs-as-code-docusaurus)
+1. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818272370) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+2. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818257495) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+3. 🚀 Published release [v0.0.1](https://github.com/testified-oss/qe-handbook-sample/releases/tag/v0.0.1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+4. ℹ️ Labeled PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+5. ℹ️ Assigned PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+6. 💪 Opened PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+7. 🗣 Commented on [#1](https://github.com/tcubed-group/kotlin-multiplatform-template/issues/1#issuecomment-5816320972) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+8. ℹ️ Labeled issue [#1](https://github.com/tcubed-group/kotlin-multiplatform-template/issues/1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+9. ℹ️ Assigned issue [#1](https://github.com/tcubed-group/kotlin-multiplatform-template/issues/1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+10. ❗ Opened issue [#1](https://github.com/tcubed-group/kotlin-multiplatform-template/issues/1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
