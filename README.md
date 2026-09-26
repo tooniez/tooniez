@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/kotlin-multiplatform-template/releases/tag/v0.0.1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-2. 🎉 Merged PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-3. 🔒 Closed issue [#1](https://github.com/tcubed-group/kotlin-multiplatform-template/issues/1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-4. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818447029) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-5. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818272370) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-6. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818257495) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-7. 🚀 Published release [v0.0.1](https://github.com/testified-oss/qe-handbook-sample/releases/tag/v0.0.1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-8. ℹ️ Labeled PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-9. ℹ️ Assigned PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
-10. 💪 Opened PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+1. 🗣 Commented on [#14](https://github.com/testified-oss/cypress-e2e-sample/pull/14#issuecomment-5842545930) in [testified-oss/cypress-e2e-sample](https://github.com/testified-oss/cypress-e2e-sample)
+2. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/kotlin-multiplatform-template/releases/tag/v0.0.1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+3. 🎉 Merged PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+4. 🔒 Closed issue [#1](https://github.com/tcubed-group/kotlin-multiplatform-template/issues/1) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+5. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818447029) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+6. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818272370) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+7. 🗣 Commented on [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2#issuecomment-5818257495) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+8. 🚀 Published release [v0.0.1](https://github.com/testified-oss/qe-handbook-sample/releases/tag/v0.0.1) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+9. ℹ️ Labeled PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
+10. ℹ️ Assigned PR [#2](https://github.com/tcubed-group/kotlin-multiplatform-template/pull/2) in [tcubed-group/kotlin-multiplatform-template](https://github.com/tcubed-group/kotlin-multiplatform-template)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
