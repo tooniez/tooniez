@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-2. 🗣 Commented on [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10#issuecomment-5844969489) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-3. 💪 Opened PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-4. 🗣 Commented on [#26](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/26#issuecomment-5843501049) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-5. 🗣 Commented on [#7](https://github.com/microsoft/responsible-ai-toolbox/pull/7#issuecomment-5843500450) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
-6. 🗣 Commented on [#8](https://github.com/microsoft/responsible-ai-toolbox/pull/8#issuecomment-5843499730) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
-7. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843499045) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
-8. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843498337) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
-9. 🗣 Commented on [#7](https://github.com/awsdocs/aws-lambda-developer-guide/pull/7#issuecomment-5843497472) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
-10. 🗣 Commented on [#21](https://github.com/tcubed-group/ai-vercel-sdk/pull/21#issuecomment-5843430075) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
+1. 🔒 Closed issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+2. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/fastapi-streamlit/releases/tag/v0.0.1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🎉 Merged PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+4. 🗣 Commented on [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10#issuecomment-5844969489) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+5. 💪 Opened PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+6. 🗣 Commented on [#26](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/26#issuecomment-5843501049) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+7. 🗣 Commented on [#7](https://github.com/microsoft/responsible-ai-toolbox/pull/7#issuecomment-5843500450) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
+8. 🗣 Commented on [#8](https://github.com/microsoft/responsible-ai-toolbox/pull/8#issuecomment-5843499730) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
+9. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843499045) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+10. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843498337) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
