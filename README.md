@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17250](https://github.com/GoogleChrome/lighthouse/pull/17250#issuecomment-5866523920) in [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
-2. 🗣 Commented on [#765](https://github.com/Shopify/toxiproxy/pull/765#issuecomment-5866472985) in [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy)
-3. 🗣 Commented on [#3713](https://github.com/artilleryio/artillery/pull/3713#issuecomment-5866447947) in [artilleryio/artillery](https://github.com/artilleryio/artillery)
-4. 🗣 Commented on [#60](https://github.com/tooniez/vuejs-typescript-cypress/pull/60#issuecomment-5866437677) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-5. 🗣 Commented on [#1677](https://github.com/onsi/ginkgo/pull/1677#issuecomment-5866423956) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-6. 🗣 Commented on [#1677](https://github.com/onsi/ginkgo/pull/1677#issuecomment-5866419374) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-7. 🔒 Closed issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-8. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/fastapi-streamlit/releases/tag/v0.0.1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-9. 🎉 Merged PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-10. 🗣 Commented on [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10#issuecomment-5844969489) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+1. 🗣 Commented on [#60](https://github.com/tooniez/vuejs-typescript-cypress/pull/60#issuecomment-5866437677) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+2. 🔒 Closed issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/fastapi-streamlit/releases/tag/v0.0.1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+4. 🎉 Merged PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+5. 🗣 Commented on [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10#issuecomment-5844969489) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+6. 💪 Opened PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+7. 🗣 Commented on [#26](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/26#issuecomment-5843501049) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+8. 🗣 Commented on [#7](https://github.com/microsoft/responsible-ai-toolbox/pull/7#issuecomment-5843500450) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
+9. 🗣 Commented on [#8](https://github.com/microsoft/responsible-ai-toolbox/pull/8#issuecomment-5843499730) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
+10. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843499045) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
