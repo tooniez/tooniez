@@ -61,9 +61,9 @@
 5. 🗣 Commented on [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10#issuecomment-5844969489) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
 6. 💪 Opened PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
 7. 🗣 Commented on [#26](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/26#issuecomment-5843501049) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-8. 🗣 Commented on [#7](https://github.com/microsoft/responsible-ai-toolbox/pull/7#issuecomment-5843500450) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
-9. 🗣 Commented on [#8](https://github.com/microsoft/responsible-ai-toolbox/pull/8#issuecomment-5843499730) in [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
-10. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843499045) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+8. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843499045) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+9. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843498337) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+10. 🗣 Commented on [#7](https://github.com/awsdocs/aws-lambda-developer-guide/pull/7#issuecomment-5843497472) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
