@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/tooniez/vuejs-typescript-cypress/pull/60#issuecomment-5866437677) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
-2. 🔒 Closed issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-3. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/fastapi-streamlit/releases/tag/v0.0.1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-4. 🎉 Merged PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-5. 🗣 Commented on [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10#issuecomment-5844969489) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-6. 💪 Opened PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
-7. 🗣 Commented on [#26](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/26#issuecomment-5843501049) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-8. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843499045) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
-9. 🗣 Commented on [#6](https://github.com/awsdocs/aws-lambda-developer-guide/pull/6#issuecomment-5843498337) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
-10. 🗣 Commented on [#7](https://github.com/awsdocs/aws-lambda-developer-guide/pull/7#issuecomment-5843497472) in [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+1. ℹ️ Assigned PR [#25](https://github.com/testified-oss/pytest-api-testing/pull/25) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+2. 🗣 Commented on [#25](https://github.com/testified-oss/pytest-api-testing/pull/25#issuecomment-5990568166) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+3. 🗣 Commented on [#18](https://github.com/testified-oss/pytest-api-testing/issues/18#issuecomment-5990152928) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+4. 💪 Opened PR [#25](https://github.com/testified-oss/pytest-api-testing/pull/25) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+5. ❗ Opened issue [#3](https://github.com/testified-oss/qe-handbook-sample/issues/3) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+6. ❗ Opened issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+7. 🗣 Commented on [#60](https://github.com/tooniez/vuejs-typescript-cypress/pull/60#issuecomment-5866437677) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+8. 🔒 Closed issue [#7](https://github.com/tcubed-group/fastapi-streamlit/issues/7) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+9. 🚀 Published release [v0.0.1](https://github.com/tcubed-group/fastapi-streamlit/releases/tag/v0.0.1) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+10. 🎉 Merged PR [#10](https://github.com/tcubed-group/fastapi-streamlit/pull/10) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
