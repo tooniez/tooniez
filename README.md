@@ -73,6 +73,7 @@
 ### My Personal Posts
 
 <!-- TOONIEZ-POST-LIST:START -->
+- [Cypress 16: HTTP/2 Support Makes Your Tests Match Production Reality](https://tooniez.tcubed.group/post/cypress-16-http2-performance/)
 - [MCP Servers Explained: Your Gateway to AI-Powered Development](https://tooniez.tcubed.group/post/aiml-llm-mcp-servers/)
 - [Dynamic Testing Tactics for Snowflake Data Migrations](https://tooniez.tcubed.group/post/qa-snowflake-ts/)
 - [Agile Test Strategy for Workato Automation](https://tooniez.tcubed.group/post/qa-workato-ts/)
@@ -82,7 +83,6 @@
 - [K6 Load Testing with InfluxDB and Grafana: Containerized Load Test Suite](https://tooniez.tcubed.group/post/qa-k6-grafana-influxdb/)
 - [Building Powerful Language AI Applications with Langchain](https://tooniez.tcubed.group/post/aiml-langchain-setup/)
 - [Building Data Pipelines with Apache Airflow, AWS Redshift, S3, and Glue](https://tooniez.tcubed.group/post/aiml-hf-pokemoncards-tcg/)
-- [Building Data Pipelines with Apache Airflow, AWS Redshift, S3, and Glue](https://tooniez.tcubed.group/post/aiml-airflow-dag-glue/)
 <!-- TOONIEZ-POST-LIST:END -->
 
 ### TCubed Posts
