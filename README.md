@@ -88,6 +88,7 @@
 ### TCubed Posts
 
 <!-- TCUBED-POST-LIST:START -->
+- [REA: Reverse Engineer Anything with Agents](https://tcubed.group/blog/rea-reverse-engineer-anything)
 - [Modern Web Development: Trends and Technologies Shaping Digital Experiences in 2024](https://tcubed.group/blog/modern-web-development-trends)
 - [Modern Cybersecurity: Protecting Business Assets in an Evolving Threat Landscape](https://tcubed.group/blog/cybersecurity-business-protection)
 - [Recent Advancements in AI Research for Business Applications](https://tcubed.group/blog/ai-research-advancements)
