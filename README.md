@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-2. 🔒 Closed issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-3. ℹ️ Labeled PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-4. ℹ️ Assigned PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-5. ℹ️ Labeled issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-6. ℹ️ Assigned issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-7. 🗣 Commented on [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5#issuecomment-6229111034) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-8. 💪 Opened PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-9. 🗣 Commented on [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4#issuecomment-6228927633) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
-10. 🗣 Commented on [#11](https://github.com/tcubed-group/gotenberg-base/pull/11#issuecomment-6227592581) in [tcubed-group/gotenberg-base](https://github.com/tcubed-group/gotenberg-base)
+1. 🗣 Commented on [#50](https://github.com/tooniez/chrome-extension-vite-shadcn-framer/pull/50#issuecomment-6264355231) in [tooniez/chrome-extension-vite-shadcn-framer](https://github.com/tooniez/chrome-extension-vite-shadcn-framer)
+2. 🎉 Merged PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+3. 🔒 Closed issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+4. ℹ️ Labeled PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+5. ℹ️ Assigned PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+6. ℹ️ Labeled issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+7. ℹ️ Assigned issue [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+8. 🗣 Commented on [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5#issuecomment-6229111034) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+9. 💪 Opened PR [#5](https://github.com/testified-oss/qe-handbook-sample/pull/5) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
+10. 🗣 Commented on [#4](https://github.com/testified-oss/qe-handbook-sample/issues/4#issuecomment-6228927633) in [testified-oss/qe-handbook-sample](https://github.com/testified-oss/qe-handbook-sample)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
