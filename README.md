@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/tooniez/behave-bdd-python/pull/16#issuecomment-6403586415) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
-2. 🗣 Commented on [#28](https://github.com/testified-oss/pytest-api-testing/pull/28#issuecomment-6395622136) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-3. 🗣 Commented on [#82](https://github.com/tcubed-group/cf-templates/pull/82#issuecomment-6392002267) in [tcubed-group/cf-templates](https://github.com/tcubed-group/cf-templates)
-4. 🗣 Commented on [#6](https://github.com/tcubed-group/ai-pinecone-examples/pull/6#issuecomment-6391990091) in [tcubed-group/ai-pinecone-examples](https://github.com/tcubed-group/ai-pinecone-examples)
-5. 🗣 Commented on [#24](https://github.com/tcubed-group/ai-vercel-sdk/pull/24#issuecomment-6391985127) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
-6. 🗣 Commented on [#25](https://github.com/tcubed-group/ai-vercel-sdk/pull/25#issuecomment-6391982820) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
-7. 🗣 Commented on [#15](https://github.com/tooniez/next-starter/pull/15#issuecomment-6379135474) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
-8. 🗣 Commented on [#9](https://github.com/tooniez/next-starter/pull/9#issuecomment-6361224820) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
-9. 🗣 Commented on [#9](https://github.com/tooniez/next-starter/pull/9#issuecomment-6360925998) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
-10. 🗣 Commented on [#21](https://github.com/tooniez/next-starter/pull/21#issuecomment-6361230529) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+1. 🗣 Commented on [#26](https://github.com/tcubed-group/ai-vercel-sdk/pull/26#issuecomment-6406247593) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
+2. 🗣 Commented on [#84](https://github.com/tcubed-group/cf-templates/pull/84#issuecomment-6406236964) in [tcubed-group/cf-templates](https://github.com/tcubed-group/cf-templates)
+3. 🗣 Commented on [#16](https://github.com/tooniez/behave-bdd-python/pull/16#issuecomment-6403586415) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+4. 🗣 Commented on [#28](https://github.com/testified-oss/pytest-api-testing/pull/28#issuecomment-6395622136) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+5. 🗣 Commented on [#82](https://github.com/tcubed-group/cf-templates/pull/82#issuecomment-6392002267) in [tcubed-group/cf-templates](https://github.com/tcubed-group/cf-templates)
+6. 🗣 Commented on [#6](https://github.com/tcubed-group/ai-pinecone-examples/pull/6#issuecomment-6391990091) in [tcubed-group/ai-pinecone-examples](https://github.com/tcubed-group/ai-pinecone-examples)
+7. 🗣 Commented on [#24](https://github.com/tcubed-group/ai-vercel-sdk/pull/24#issuecomment-6391985127) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
+8. 🗣 Commented on [#25](https://github.com/tcubed-group/ai-vercel-sdk/pull/25#issuecomment-6391982820) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
+9. 🗣 Commented on [#15](https://github.com/tooniez/next-starter/pull/15#issuecomment-6379135474) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
+10. 🗣 Commented on [#9](https://github.com/tooniez/next-starter/pull/9#issuecomment-6361224820) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
