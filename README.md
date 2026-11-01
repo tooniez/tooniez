@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/tcubed-group/transformers/pull/5#issuecomment-6537224631) in [tcubed-group/transformers](https://github.com/tcubed-group/transformers)
-2. 🗣 Commented on [#4](https://github.com/tcubed-group/transformers/pull/4#issuecomment-6485406528) in [tcubed-group/transformers](https://github.com/tcubed-group/transformers)
-3. 🗣 Commented on [#5](https://github.com/tcubed-group/dograh/pull/5#issuecomment-6485401911) in [tcubed-group/dograh](https://github.com/tcubed-group/dograh)
-4. 🗣 Commented on [#34](https://github.com/tcubed-group/ai-open-canvas/pull/34#issuecomment-6485395973) in [tcubed-group/ai-open-canvas](https://github.com/tcubed-group/ai-open-canvas)
-5. 🗣 Commented on [#29](https://github.com/tcubed-group/firecrawl/pull/29#issuecomment-6431534934) in [tcubed-group/firecrawl](https://github.com/tcubed-group/firecrawl)
-6. 🗣 Commented on [#35](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/35#issuecomment-6431560877) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-7. 🗣 Commented on [#34](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/34#issuecomment-6431522644) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-8. 🗣 Commented on [#26](https://github.com/tcubed-group/ai-vercel-sdk/pull/26#issuecomment-6406247593) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
-9. 🗣 Commented on [#84](https://github.com/tcubed-group/cf-templates/pull/84#issuecomment-6406236964) in [tcubed-group/cf-templates](https://github.com/tcubed-group/cf-templates)
-10. 🗣 Commented on [#16](https://github.com/tooniez/behave-bdd-python/pull/16#issuecomment-6403586415) in [tooniez/behave-bdd-python](https://github.com/tooniez/behave-bdd-python)
+1. 🗣 Commented on [#6](https://github.com/tcubed-group/turbo-expo-nextjs-clerk-convex-monorepo/pull/6#issuecomment-6553275537) in [tcubed-group/turbo-expo-nextjs-clerk-convex-monorepo](https://github.com/tcubed-group/turbo-expo-nextjs-clerk-convex-monorepo)
+2. 🗣 Commented on [#10](https://github.com/tcubed-group/vercel-ai-sdk/pull/10#issuecomment-6553264072) in [tcubed-group/vercel-ai-sdk](https://github.com/tcubed-group/vercel-ai-sdk)
+3. 🗣 Commented on [#34](https://github.com/tcubed-group/firecrawl/pull/34#issuecomment-6553253257) in [tcubed-group/firecrawl](https://github.com/tcubed-group/firecrawl)
+4. 🗣 Commented on [#4](https://github.com/tcubed-group/go-fiber/pull/4#issuecomment-6551807613) in [tcubed-group/go-fiber](https://github.com/tcubed-group/go-fiber)
+5. 🗣 Commented on [#8](https://github.com/tcubed-group/docs-aws-lambda-developer-guide/pull/8#issuecomment-6551798670) in [tcubed-group/docs-aws-lambda-developer-guide](https://github.com/tcubed-group/docs-aws-lambda-developer-guide)
+6. 🗣 Commented on [#5](https://github.com/tcubed-group/transformers/pull/5#issuecomment-6537224631) in [tcubed-group/transformers](https://github.com/tcubed-group/transformers)
+7. 🗣 Commented on [#4](https://github.com/tcubed-group/transformers/pull/4#issuecomment-6485406528) in [tcubed-group/transformers](https://github.com/tcubed-group/transformers)
+8. 🗣 Commented on [#5](https://github.com/tcubed-group/dograh/pull/5#issuecomment-6485401911) in [tcubed-group/dograh](https://github.com/tcubed-group/dograh)
+9. 🗣 Commented on [#34](https://github.com/tcubed-group/ai-open-canvas/pull/34#issuecomment-6485395973) in [tcubed-group/ai-open-canvas](https://github.com/tcubed-group/ai-open-canvas)
+10. 🗣 Commented on [#29](https://github.com/tcubed-group/firecrawl/pull/29#issuecomment-6431534934) in [tcubed-group/firecrawl](https://github.com/tcubed-group/firecrawl)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
