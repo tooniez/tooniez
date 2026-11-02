@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/tcubed-group/openai-cookbook/pull/5#issuecomment-6566983270) in [tcubed-group/openai-cookbook](https://github.com/tcubed-group/openai-cookbook)
-2. 🗣 Commented on [#19](https://github.com/tcubed-group/ai-vercel-sdk/pull/19#issuecomment-6566975867) in [tcubed-group/ai-vercel-sdk](https://github.com/tcubed-group/ai-vercel-sdk)
-3. 🗣 Commented on [#3](https://github.com/tcubed-group/dograh/pull/3#issuecomment-6566953331) in [tcubed-group/dograh](https://github.com/tcubed-group/dograh)
-4. 🗣 Commented on [#5](https://github.com/tcubed-group/go-fiber/pull/5#issuecomment-6566944292) in [tcubed-group/go-fiber](https://github.com/tcubed-group/go-fiber)
-5. 🗣 Commented on [#72](https://github.com/tooniez/expo-nextjs-base/pull/72#issuecomment-6565247112) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-6. 🗣 Commented on [#73](https://github.com/tooniez/expo-nextjs-base/pull/73#issuecomment-6565245758) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-7. 🗣 Commented on [#74](https://github.com/tooniez/expo-nextjs-base/pull/74#issuecomment-6565244848) in [tooniez/expo-nextjs-base](https://github.com/tooniez/expo-nextjs-base)
-8. 🗣 Commented on [#115](https://github.com/tooniez/react-native-chat/pull/115#issuecomment-6565235791) in [tooniez/react-native-chat](https://github.com/tooniez/react-native-chat)
-9. 🗣 Commented on [#116](https://github.com/tooniez/react-native-chat/pull/116#issuecomment-6565234825) in [tooniez/react-native-chat](https://github.com/tooniez/react-native-chat)
-10. 🗣 Commented on [#34](https://github.com/tooniez/vuejs-typescript-cypress/pull/34#issuecomment-6565227185) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
+1. 🗣 Commented on [#7](https://github.com/tcubed-group/openai-cookbook/pull/7#issuecomment-6576496496) in [tcubed-group/openai-cookbook](https://github.com/tcubed-group/openai-cookbook)
+2. 🗣 Commented on [#33](https://github.com/tooniez/e2e-nightwatchjs-ts/pull/33#issuecomment-6576361106) in [tooniez/e2e-nightwatchjs-ts](https://github.com/tooniez/e2e-nightwatchjs-ts)
+3. 🗣 Commented on [#22](https://github.com/tooniez/tdd-express-jest-supertest/pull/22#issuecomment-6576340451) in [tooniez/tdd-express-jest-supertest](https://github.com/tooniez/tdd-express-jest-supertest)
+4. 🗣 Commented on [#34](https://github.com/tooniez/e2e-nightwatchjs-ts/pull/34#issuecomment-6576358557) in [tooniez/e2e-nightwatchjs-ts](https://github.com/tooniez/e2e-nightwatchjs-ts)
+5. 🗣 Commented on [#21](https://github.com/tooniez/tdd-express-jest-supertest/pull/21#issuecomment-6576343319) in [tooniez/tdd-express-jest-supertest](https://github.com/tooniez/tdd-express-jest-supertest)
+6. 🗣 Commented on [#43](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/43#issuecomment-6576302990) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+7. 🗣 Commented on [#47](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/47#issuecomment-6576299412) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+8. 🗣 Commented on [#45](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/45#issuecomment-6576301281) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+9. 🗣 Commented on [#19](https://github.com/tooniez/qa-nightwatchjs/pull/19#issuecomment-6576280486) in [tooniez/qa-nightwatchjs](https://github.com/tooniez/qa-nightwatchjs)
+10. 🗣 Commented on [#24](https://github.com/tooniez/tdd-express-jest-supertest/pull/24#issuecomment-6576335616) in [tooniez/tdd-express-jest-supertest](https://github.com/tooniez/tdd-express-jest-supertest)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
