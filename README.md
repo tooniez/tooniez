@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/tooniez/docs-as-code-starlight/pull/33#issuecomment-6604017643) in [tooniez/docs-as-code-starlight](https://github.com/tooniez/docs-as-code-starlight)
+1. 🗣 Commented on [#30](https://github.com/testified-oss/pytest-api-testing/pull/30#issuecomment-6701638708) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
 2. 🗣 Commented on [#8](https://github.com/tooniez/payloadcms/pull/8#issuecomment-6604013481) in [tooniez/payloadcms](https://github.com/tooniez/payloadcms)
 3. 🗣 Commented on [#71](https://github.com/tooniez/vuejs-typescript-cypress/pull/71#issuecomment-6604062475) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
 4. 🗣 Commented on [#73](https://github.com/tooniez/vuejs-typescript-cypress/pull/73#issuecomment-6604045547) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
