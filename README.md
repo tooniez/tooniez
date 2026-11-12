@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/testified-oss/cypress-e2e-sample/issues/18#issuecomment-6796784735) in [testified-oss/cypress-e2e-sample](https://github.com/testified-oss/cypress-e2e-sample)
-2. ❗ Opened issue [#18](https://github.com/testified-oss/cypress-e2e-sample/issues/18) in [testified-oss/cypress-e2e-sample](https://github.com/testified-oss/cypress-e2e-sample)
-3. 🗣 Commented on [#31](https://github.com/tooniez/google-apps-script-starter/pull/31#issuecomment-6728591167) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-4. 🗣 Commented on [#28](https://github.com/tooniez/hello-world-chrome-extension/pull/28#issuecomment-6728581635) in [tooniez/hello-world-chrome-extension](https://github.com/tooniez/hello-world-chrome-extension)
-5. 🗣 Commented on [#55](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/55#issuecomment-6728569874) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-6. 🗣 Commented on [#32](https://github.com/tooniez/hugo-folio-v1/pull/32#issuecomment-6703110048) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-7. 🗣 Commented on [#44](https://github.com/tooniez/hugo-folio-v1/pull/44#issuecomment-6703109817) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-8. 🗣 Commented on [#50](https://github.com/tooniez/hugo-folio-v1/pull/50#issuecomment-6703109549) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-9. 🗣 Commented on [#52](https://github.com/tooniez/hugo-folio-v1/pull/52#issuecomment-6703109386) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-10. 🗣 Commented on [#53](https://github.com/tooniez/hugo-folio-v1/pull/53#issuecomment-6703109180) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+1. 🗣 Commented on [#24](https://github.com/tooniez/google-apps-script-starter/pull/24#issuecomment-6818985809) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+2. 🗣 Commented on [#28](https://github.com/tooniez/google-apps-script-starter/pull/28#issuecomment-6818983546) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+3. 🗣 Commented on [#29](https://github.com/tooniez/google-apps-script-starter/pull/29#issuecomment-6818982898) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+4. 🗣 Commented on [#56](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/56#issuecomment-6818980945) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
+5. 🗣 Commented on [#15](https://github.com/tooniez/google-apps-script-starter/pull/15#issuecomment-6818987042) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+6. 🗣 Commented on [#20](https://github.com/tooniez/google-apps-script-starter/pull/20#issuecomment-6818986529) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+7. 🗣 Commented on [#26](https://github.com/tooniez/google-apps-script-starter/pull/26#issuecomment-6818984633) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+8. 🗣 Commented on [#25](https://github.com/tooniez/google-apps-script-starter/pull/25#issuecomment-6818985240) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+9. 🗣 Commented on [#27](https://github.com/tooniez/google-apps-script-starter/pull/27#issuecomment-6818984085) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+10. 🗣 Commented on [#30](https://github.com/tooniez/google-apps-script-starter/pull/30#issuecomment-6818982248) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
