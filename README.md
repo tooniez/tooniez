@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/tooniez/hello-world-chrome-extension/pull/28#issuecomment-6818987738) in [tooniez/hello-world-chrome-extension](https://github.com/tooniez/hello-world-chrome-extension)
-2. ❗ Opened issue [#8](https://github.com/testified-oss/bdd-behave-python/issues/8) in [testified-oss/bdd-behave-python](https://github.com/testified-oss/bdd-behave-python)
-3. 🗣 Commented on [#24](https://github.com/tooniez/google-apps-script-starter/pull/24#issuecomment-6818985809) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-4. 🗣 Commented on [#28](https://github.com/tooniez/google-apps-script-starter/pull/28#issuecomment-6818983546) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-5. 🗣 Commented on [#29](https://github.com/tooniez/google-apps-script-starter/pull/29#issuecomment-6818982898) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-6. 🗣 Commented on [#56](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/56#issuecomment-6818980945) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-7. 🗣 Commented on [#15](https://github.com/tooniez/google-apps-script-starter/pull/15#issuecomment-6818987042) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-8. 🗣 Commented on [#20](https://github.com/tooniez/google-apps-script-starter/pull/20#issuecomment-6818986529) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-9. 🗣 Commented on [#26](https://github.com/tooniez/google-apps-script-starter/pull/26#issuecomment-6818984633) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
-10. 🗣 Commented on [#25](https://github.com/tooniez/google-apps-script-starter/pull/25#issuecomment-6818985240) in [tooniez/google-apps-script-starter](https://github.com/tooniez/google-apps-script-starter)
+1. 🗣 Commented on [#58](https://github.com/tooniez/hugo-folio-v1/pull/58#issuecomment-6838437446) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+2. 🗣 Commented on [#59](https://github.com/tooniez/hugo-folio-v1/pull/59#issuecomment-6838435286) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+3. 🗣 Commented on [#61](https://github.com/tooniez/hugo-folio-v1/pull/61#issuecomment-6838432982) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+4. 🗣 Commented on [#60](https://github.com/tooniez/hugo-folio-v1/pull/60#issuecomment-6838430483) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+5. 🗣 Commented on [#55](https://github.com/tooniez/hugo-folio-v1/pull/55#issuecomment-6838384058) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+6. 🗣 Commented on [#3](https://github.com/tooniez/kathalysth-solutions-limited/pull/3#issuecomment-6838378213) in [tooniez/kathalysth-solutions-limited](https://github.com/tooniez/kathalysth-solutions-limited)
+7. 🗣 Commented on [#14](https://github.com/tooniez/next15-ai-chatbot/pull/14#issuecomment-6838367234) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+8. 🗣 Commented on [#15](https://github.com/tooniez/next15-ai-chatbot/pull/15#issuecomment-6838364916) in [tooniez/next15-ai-chatbot](https://github.com/tooniez/next15-ai-chatbot)
+9. 🗣 Commented on [#43](https://github.com/tooniez/e2e-nightwatchjs-ts/pull/43#issuecomment-6838354922) in [tooniez/e2e-nightwatchjs-ts](https://github.com/tooniez/e2e-nightwatchjs-ts)
+10. 🗣 Commented on [#78](https://github.com/tooniez/vuejs-typescript-cypress/pull/78#issuecomment-6838351701) in [tooniez/vuejs-typescript-cypress](https://github.com/tooniez/vuejs-typescript-cypress)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
