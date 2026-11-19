@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/tooniez/hugo-folio-v1/pull/73#issuecomment-6963641747) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-2. 🗣 Commented on [#18](https://github.com/tooniez/kathalysth-solutions-limited/pull/18#issuecomment-6963602796) in [tooniez/kathalysth-solutions-limited](https://github.com/tooniez/kathalysth-solutions-limited)
-3. 🗣 Commented on [#16](https://github.com/tooniez/theiconic-cypress/pull/16#issuecomment-6963593851) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
-4. 🗣 Commented on [#17](https://github.com/tooniez/kathalysth-solutions-limited/pull/17#issuecomment-6963588751) in [tooniez/kathalysth-solutions-limited](https://github.com/tooniez/kathalysth-solutions-limited)
-5. 🗣 Commented on [#39](https://github.com/tooniez/next-starter/pull/39#issuecomment-6963579642) in [tooniez/next-starter](https://github.com/tooniez/next-starter)
-6. 🗣 Commented on [#58](https://github.com/tooniez/reactnative-nextjs-turborepo/pull/58#issuecomment-6944190618) in [tooniez/reactnative-nextjs-turborepo](https://github.com/tooniez/reactnative-nextjs-turborepo)
-7. 🗣 Commented on [#15](https://github.com/tooniez/kathalysth-solutions-limited/pull/15#issuecomment-6944201759) in [tooniez/kathalysth-solutions-limited](https://github.com/tooniez/kathalysth-solutions-limited)
-8. 🗣 Commented on [#32](https://github.com/tooniez/next-15-base/pull/32#issuecomment-6944193412) in [tooniez/next-15-base](https://github.com/tooniez/next-15-base)
-9. 🗣 Commented on [#72](https://github.com/tooniez/hugo-folio-v1/pull/72#issuecomment-6944213112) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-10. 🗣 Commented on [#73](https://github.com/tooniez/hugo-folio-v1/pull/73#issuecomment-6944211754) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+1. 🗣 Commented on [#71](https://github.com/tooniez/hugo-folio-v1/pull/71#issuecomment-7000707272) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+2. 🗣 Commented on [#75](https://github.com/tooniez/hugo-folio-v1/pull/75#issuecomment-7000706354) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+3. 🗣 Commented on [#76](https://github.com/tooniez/hugo-folio-v1/pull/76#issuecomment-7000704692) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+4. 🗣 Commented on [#77](https://github.com/tooniez/hugo-folio-v1/pull/77#issuecomment-7000702885) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+5. 🗣 Commented on [#77](https://github.com/tooniez/hugo-folio-v1/pull/77#issuecomment-7000701829) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+6. 🗣 Commented on [#77](https://github.com/tooniez/hugo-folio-v1/pull/77#issuecomment-7000700779) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+7. 🗣 Commented on [#77](https://github.com/tooniez/hugo-folio-v1/pull/77#issuecomment-7000698864) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+8. 🗣 Commented on [#73](https://github.com/tooniez/hugo-folio-v1/pull/73#issuecomment-6963641747) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+9. 🗣 Commented on [#18](https://github.com/tooniez/kathalysth-solutions-limited/pull/18#issuecomment-6963602796) in [tooniez/kathalysth-solutions-limited](https://github.com/tooniez/kathalysth-solutions-limited)
+10. 🗣 Commented on [#16](https://github.com/tooniez/theiconic-cypress/pull/16#issuecomment-6963593851) in [tooniez/theiconic-cypress](https://github.com/tooniez/theiconic-cypress)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
