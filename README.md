@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9#issuecomment-7162221253) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-2. 🗣 Commented on [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9#issuecomment-7162206103) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-3. 🗣 Commented on [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9#issuecomment-7162202436) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-4. ❗ Opened issue [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-5. 🗣 Commented on [#118](https://github.com/tooniez/privateGPT/pull/118#issuecomment-7160148725) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
-6. 🗣 Commented on [#119](https://github.com/tooniez/privateGPT/pull/119#issuecomment-7160146241) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
-7. 🗣 Commented on [#120](https://github.com/tooniez/privateGPT/pull/120#issuecomment-7160143839) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
-8. 🗣 Commented on [#121](https://github.com/tooniez/privateGPT/pull/121#issuecomment-7160140828) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
-9. 🗣 Commented on [#272](https://github.com/tooniez/linear/pull/272#issuecomment-7160052857) in [tooniez/linear](https://github.com/tooniez/linear)
-10. 🗣 Commented on [#81](https://github.com/tooniez/hugo-folio-v1/pull/81#issuecomment-7160050970) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+1. 🗣 Commented on [#38](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/38#issuecomment-7169670793) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+2. ❗ Opened issue [#31](https://github.com/testified-oss/pytest-api-testing/issues/31) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+3. 🗣 Commented on [#81](https://github.com/tooniez/hugo-folio-v1/pull/81#issuecomment-7166211698) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+4. 🗣 Commented on [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9#issuecomment-7162221253) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+5. ❗ Opened issue [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+6. 🗣 Commented on [#118](https://github.com/tooniez/privateGPT/pull/118#issuecomment-7160148725) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
+7. 🗣 Commented on [#119](https://github.com/tooniez/privateGPT/pull/119#issuecomment-7160146241) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
+8. 🗣 Commented on [#120](https://github.com/tooniez/privateGPT/pull/120#issuecomment-7160143839) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
+9. 🗣 Commented on [#121](https://github.com/tooniez/privateGPT/pull/121#issuecomment-7160140828) in [tooniez/privateGPT](https://github.com/tooniez/privateGPT)
+10. 🗣 Commented on [#272](https://github.com/tooniez/linear/pull/272#issuecomment-7160052857) in [tooniez/linear](https://github.com/tooniez/linear)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
