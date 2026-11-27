@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tooniez/tooniez/issues/1) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
-2. 🔒 Closed issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
-3. ❗ Opened issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
-4. ❗ Opened issue [#1](https://github.com/testified-oss/mobile-sensors-tests/issues/1) in [testified-oss/mobile-sensors-tests](https://github.com/testified-oss/mobile-sensors-tests)
-5. ❗ Opened issue [#20](https://github.com/tcubed-group/gotenberg-base/issues/20) in [tcubed-group/gotenberg-base](https://github.com/tcubed-group/gotenberg-base)
-6. ℹ️ Labeled issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-7. ℹ️ Assigned issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-8. ❗ Opened issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-9. 🗣 Commented on [#38](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/38#issuecomment-7169670793) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-10. ❗ Opened issue [#31](https://github.com/testified-oss/pytest-api-testing/issues/31) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+1. 🗣 Commented on [#86](https://github.com/tooniez/hugo-folio-v1/pull/86#issuecomment-7221093442) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+2. 🗣 Commented on [#87](https://github.com/tooniez/hugo-folio-v1/pull/87#issuecomment-7221089936) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+3. 🗣 Commented on [#88](https://github.com/tooniez/hugo-folio-v1/pull/88#issuecomment-7221080410) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+4. 🔒 Closed issue [#1](https://github.com/tooniez/tooniez/issues/1) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
+5. 🔒 Closed issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
+6. ❗ Opened issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
+7. ❗ Opened issue [#1](https://github.com/testified-oss/mobile-sensors-tests/issues/1) in [testified-oss/mobile-sensors-tests](https://github.com/testified-oss/mobile-sensors-tests)
+8. ❗ Opened issue [#20](https://github.com/tcubed-group/gotenberg-base/issues/20) in [tcubed-group/gotenberg-base](https://github.com/tcubed-group/gotenberg-base)
+9. ℹ️ Labeled issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+10. ℹ️ Assigned issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
