@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/testified-oss/mobile-sensors-tests/issues/1) in [testified-oss/mobile-sensors-tests](https://github.com/testified-oss/mobile-sensors-tests)
-2. ❗ Opened issue [#20](https://github.com/tcubed-group/gotenberg-base/issues/20) in [tcubed-group/gotenberg-base](https://github.com/tcubed-group/gotenberg-base)
-3. ℹ️ Labeled issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-4. ℹ️ Assigned issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-5. ❗ Opened issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-6. 🗣 Commented on [#38](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/38#issuecomment-7169670793) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
-7. ❗ Opened issue [#31](https://github.com/testified-oss/pytest-api-testing/issues/31) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-8. 🗣 Commented on [#81](https://github.com/tooniez/hugo-folio-v1/pull/81#issuecomment-7166211698) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-9. 🗣 Commented on [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9#issuecomment-7162221253) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
-10. ❗ Opened issue [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
+1. ❗ Opened issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
+2. ❗ Opened issue [#1](https://github.com/testified-oss/mobile-sensors-tests/issues/1) in [testified-oss/mobile-sensors-tests](https://github.com/testified-oss/mobile-sensors-tests)
+3. ❗ Opened issue [#20](https://github.com/tcubed-group/gotenberg-base/issues/20) in [tcubed-group/gotenberg-base](https://github.com/tcubed-group/gotenberg-base)
+4. ℹ️ Labeled issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+5. ℹ️ Assigned issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+6. ❗ Opened issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+7. 🗣 Commented on [#38](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/38#issuecomment-7169670793) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+8. ❗ Opened issue [#31](https://github.com/testified-oss/pytest-api-testing/issues/31) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+9. 🗣 Commented on [#81](https://github.com/tooniez/hugo-folio-v1/pull/81#issuecomment-7166211698) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
+10. 🗣 Commented on [#9](https://github.com/testified-oss/e2e-cypress-sample/issues/9#issuecomment-7162221253) in [testified-oss/e2e-cypress-sample](https://github.com/testified-oss/e2e-cypress-sample)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
