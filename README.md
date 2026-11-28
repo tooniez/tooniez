@@ -54,16 +54,16 @@
 <h2 align="center"> 🚀 Public Activites </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/testified-oss/pytest-api-testing/pull/32) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-2. 💪 Opened PR [#2](https://github.com/testified-oss/mobile-sensors-tests/pull/2) in [testified-oss/mobile-sensors-tests](https://github.com/testified-oss/mobile-sensors-tests)
-3. 🗣 Commented on [#31](https://github.com/testified-oss/pytest-api-testing/issues/31#issuecomment-7235274823) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
-4. 🗣 Commented on [#1](https://github.com/testified-oss/mobile-sensors-tests/issues/1#issuecomment-7235269821) in [testified-oss/mobile-sensors-tests](https://github.com/testified-oss/mobile-sensors-tests)
-5. 🗣 Commented on [#86](https://github.com/tooniez/hugo-folio-v1/pull/86#issuecomment-7221093442) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-6. 🗣 Commented on [#87](https://github.com/tooniez/hugo-folio-v1/pull/87#issuecomment-7221089936) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-7. 🗣 Commented on [#88](https://github.com/tooniez/hugo-folio-v1/pull/88#issuecomment-7221080410) in [tooniez/hugo-folio-v1](https://github.com/tooniez/hugo-folio-v1)
-8. 🔒 Closed issue [#1](https://github.com/tooniez/tooniez/issues/1) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
-9. 🔒 Closed issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
-10. ❗ Opened issue [#2](https://github.com/tooniez/tooniez/issues/2) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
+1. 🗣 Commented on [#12](https://github.com/tcubed-group/fastapi-streamlit/pull/12#issuecomment-7237995524) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+2. 💪 Opened PR [#12](https://github.com/tcubed-group/fastapi-streamlit/pull/12) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+3. 🗣 Commented on [#8](https://github.com/testified-oss/bdd-behave-python/issues/8#issuecomment-7236342353) in [testified-oss/bdd-behave-python](https://github.com/testified-oss/bdd-behave-python)
+4. 🗣 Commented on [#11](https://github.com/tcubed-group/fastapi-streamlit/issues/11#issuecomment-7236330791) in [tcubed-group/fastapi-streamlit](https://github.com/tcubed-group/fastapi-streamlit)
+5. 🔒 Closed issue [#39](https://github.com/tcubed-group/chrome-extension-vite-starter/issues/39) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+6. 🎉 Merged PR [#40](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/40) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+7. 🔒 Closed issue [#31](https://github.com/testified-oss/pytest-api-testing/issues/31) in [testified-oss/pytest-api-testing](https://github.com/testified-oss/pytest-api-testing)
+8. 🗣 Commented on [#40](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/40#issuecomment-7236089698) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+9. 💪 Opened PR [#40](https://github.com/tcubed-group/chrome-extension-vite-starter/pull/40) in [tcubed-group/chrome-extension-vite-starter](https://github.com/tcubed-group/chrome-extension-vite-starter)
+10. 🗣 Commented on [#2](https://github.com/tooniez/tooniez/issues/2#issuecomment-7235957258) in [tooniez/tooniez](https://github.com/tooniez/tooniez)
 <!--END_SECTION:activity-->
 
 <h2 align="center"> 📚 Articles </h2>
